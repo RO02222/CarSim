@@ -1,0 +1,64 @@
+<World>
+    <BAAN>
+        <naam>Middelheimlaan</naam>
+        <lengte>200</lengte>
+    </BAAN>
+
+    <BAAN>
+        <naam>Floralienlaan</naam>
+        <lengte>200</lengte>
+    </BAAN>
+
+    <BAAN>
+        <naam>Middelheim</naam>
+        <lengte>200</lengte>
+    </BAAN>
+
+    <BAAN>
+        <naam>Middelheim2</naam>
+        <lengte>200</lengte>
+    </BAAN>
+
+    <VERKEERSLICHT>
+        <baan>Floralienlaan</baan>
+        <positie>100</positie>
+        <cyclus>10</cyclus>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <baan>Middelheim</baan>
+        <positie>100</positie>
+        <cyclus>100</cyclus>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <baan>Middelheim2</baan>
+        <positie>100</positie>
+        <cyclus>100</cyclus>
+    </VERKEERSLICHT>
+
+    <VOERTUIGGENERATOR>
+        <baan>Floralienlaan</baan>
+        <frequentie>4</frequentie>
+        <type>None</type>
+    </VOERTUIGGENERATOR>
+
+    <VOERTUIGGENERATOR>
+        <baan>Middelheim</baan>
+        <frequentie>4</frequentie>
+        <type>none</type>
+    </VOERTUIGGENERATOR>
+
+    <VOERTUIGGENERATOR>
+        <baan>Middelheim2</baan>
+        <frequentie>5</frequentie>
+        <type>bugatti</type>
+    </VOERTUIGGENERATOR>
+
+    <KRUISPUNT>
+        <baan positie="0">Middelheimlaan</baan>
+        <baan positie="100">Floralienlaan</baan>
+        <baan positie="100">Middelheim</baan>
+        <baan positie="100">Middelheim2</baan>
+    </KRUISPUNT>
+</World>

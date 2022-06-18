@@ -1,0 +1,1 @@
+Failed to load file: invalid <VERKEERSLICHT> : 'missing argument' <positie>

@@ -1,0 +1,5 @@
+Failed to load file: invalid <VERKEERSLICHT> : '<baan>' does not exist
+Failed to load file: invalid <VOERTUIG> : '<baan> does not exist
+Failed to load file: invalid <VOERTUIG> : '<baan> does not exist
+Failed to load file: invalid <VOERTUIGGENERATOR> : '<baan> does not exist
+Failed to load file: invalid <BUSHALTE> : '<baan>' does not exist

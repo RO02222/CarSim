@@ -1,0 +1,30 @@
+<World>
+    <BAAN>
+        <lengte>400</lengte>
+        <naam>Middelheimlaan</naam>
+    </BAAN>
+
+    <VERKEERSLICHT>
+        <cyclus>20</cyclus>
+        <baan>Middelheimlaan</baan>
+        <positie>400</positie>
+
+    </VERKEERSLICHT>
+
+    <VOERTUIG>
+        <baan>Middelheimlaan</baan>
+        <positie>40</positie>
+    </VOERTUIG>
+
+    <VOERTUIG>
+        <baan>Middelheimlaan</baan>
+        <positie>20</positie>
+    </VOERTUIG>
+
+    <VOERTUIGGENERATOR>
+        <frequentie>5</frequentie>
+        <baan>Middelheimlaan</baan>
+
+    </VOERTUIGGENERATOR>
+
+</World>

@@ -1,0 +1,45 @@
+<World>
+    <BAAN>
+        <naam>Middelheimlaan</naam>
+        <lengte>400</lengte>
+    </BAAN>
+
+    <BAAN>
+        <naam>Groenenborgerlaan</naam>
+        <lengte>400</lengte>
+    </BAAN>
+
+    <VERKEERSLICHT>
+        <baan>Middelheimlaan</baan>
+        <positie>400</positie>
+        <cyclus>20</cyclus>
+    </VERKEERSLICHT>
+
+    <VOERTUIG>
+        <baan>Middelheimlaan</baan>
+        <positie>40</positie>
+        <type>auto</type>
+    </VOERTUIG>
+
+    <VOERTUIG>
+        <baan>Middelheimlaan</baan>
+        <positie>20</positie>
+        <type>auto</type>
+    </VOERTUIG>
+
+    <VOERTUIGGENERATOR>
+        <baan>Middelheimlaan</baan>
+        <frequentie>5</frequentie>
+    </VOERTUIGGENERATOR>
+
+    <KRUISPUNT>
+        <baan positie="300">Middelheimlaan</baan>
+    </KRUISPUNT>
+
+    <BUSHALTE>
+        <baan>Middelheimlaan</baan>
+        <positie>35</positie>
+        <wachttijd>4</wachttijd>
+    </BUSHALTE>
+
+</World>

@@ -1,0 +1,500 @@
+Middelheimlaan      |   =========C================================================================================   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ===A=========C============================================================================   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   =======A========C=========================================================================   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ==========A=========C=====================================================================   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   =============A==========C=================================================================   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   =================A==========C=============================================================   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ===C================A==========C==========================================================   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   =======C===============A===========C======================================================   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ===========C===============A===========C==================================================   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ==============C===============A============C==============================================   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ==================C==============A============C===========================================   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ===C==================C==============A============C=======================================   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   =======C=================C==============A=============C===================================   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ===========C=================C==============A=============C===============================   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ==============C=================C==============A=============C============================   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ==================C=================C=============A==============C========================   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ==B===================C=================C=============A==============C====================   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   =====B===================C=================C=============A==============C=================   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   =======B=====================C=================C=============A==============C=============   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ==========B======================C================C=============A===============C=========   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   =============B======================C=================C============A================C=====   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   =========b=====B========================C================C=============A===============C==   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   =============b====B=========================C================C============A===============   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ================b===B==========================C=================C============A===========   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ==================b====B===========================C================C============A========   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ====================b====B=============================C================C============A====   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ===F===================b====B=============================C================C============A=   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ======F==================b====B===============================C================C==========   |
+> verkeerslichten   |                                                                                            O   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   =========F==================b====B================================C==============C========   |
+> verkeerslichten   |                                                                                            O   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   =============F================b=====B================================C=============C======   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ================F================b====B==================================C==========C=====   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ===C===============F===============b=====B==================================C=========C===   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   =======C==============F===============b====B===================================C=======C==   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ===========C=============F===============b====B===================================C=====C=   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ==============C=============F==============b====B===================================C===C=   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ==================C============F==============b====B==================================C==C   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ==B==================C============F=============b====B=================================C=C   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   =====B===================C============F============b====B==============================C=C   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   =======B====================C============F===========b====B============================C=C   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ==========B=====================C===========F===========b====B=========================C=C   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   =============B=====================C===========F==========b====B=======================C=C   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ===P===========B=======================C==========F==========b====B====================C=C   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   =======P==========B=======================C==========F=========b====B==================C=C   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ==========P=========B========================C==========F=========b====B===============C=C   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ==============P========B=========================C========F=========b====B=============C=C   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   =================P=======B==========================C========F========b====B===========C=C   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ===C================P=======B==========================C========F========b===B=========C=C   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   =======C===============P======B============================C=======F=======b===B=======C=C   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ===========C==============P======B============================C=======F======b===B=====C=C   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ==============C=============P=======B============================C======F======b===B===C=C   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ==================C============P======B=============================C=====F=====b===B==C=C   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ==B==================C============P======B============================C=====F====b==B==C=C   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   =====B===================C==========P======B=============================C====F==b===B=C==   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   =======B====================C==========P======B============================C===F==b==B==C=   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ==========B=====================C=========P=====B===========================C==F==b==B===C   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   =============B=====================C========P======B========================C==F==b==B===C   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ==B============B======================C========P=====B======================C==F==b==B====   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   =====B============B======================C=======P======B===================C==F==b===B===   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   =======B============B=======================C=======P=====B=================C==F===b==B===   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ==========B============B=======================C======P=====B===============C==F====b===B=   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ============B============B========================C=====P======B============C==F=====b===B   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ===C===========B============B========================C=====P=====B==========C===F=====b===   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   =======C=========B============B=========================C====P=====B========C====F======b=   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ==========C========B=============B========================C====P=====B=======C====F=======   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   =============C========B============B=========================C===P=====B======C====F======   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ================C=======B=============B========================C===P=====B=====C====F=====   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ==B================C=======B=============B=======================C===P=====B====C=====F===   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   =====B================C======B=============B=======================C===P====B====C======F=   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   =======B=================C======B=============B======================C===P====B====C======   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ==========B================C======B=============B======================C==P=====B====C====   |
+> verkeerslichten   |                                                                                            O   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ============B=================C=====B==============B====================C===P====B=====C==   |
+> verkeerslichten   |                                                                                            O   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ===C===========B=================C=====B=============B====================C==P=====B=====C   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   =======C=========B=================C=====B==============B==================C===P=====B====   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ==========C=========B=================C=====B=============B==================C===P====B===   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   =============C========B=================C=====B==============B================C===P====B==   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ================C========B=================C=====B=============B================C==P===B==   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ===C===============C=======B=================C=====B=============B===============C==P===B=   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   =======C==============C=======B================C======B=============B=============C=P===B=   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ===========C=============C======B=================C=====B=============B===========C=P===B=   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ==============C=============C======B================C=====B=============B=========C=P===B=   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ==================C============C=====B=================C=====B============B=======C=P===B=   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ===C=================C===========C======B================C=====B============B=====C=P===B=   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   =======C=================C==========C=====B================C======B===========B===C=P===B=   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ===========C================C==========C=====B================C=====B==========B==C=P===B=   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ==============C=================C========C=====B================C=====B========B==C=P===B=   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ==================C================C========C=====B===============C=====B======B==C=P===B=   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ===A==================C===============C=======C=====B===============C====B=====B==C=P===B=   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   =======A=================C===============C=======C=====B==============C===B====B==C=P===B=   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ==========A==================C==============C======C=====B=============C===B===B==C=P===B=   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   =============A===================C=============C======C=====B==========C===B===B==C=P===B=   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   =================A==================C=============C=====C=====B========C===B===B==C=P===B=   |
+> verkeerslichten   |                                                                                            R   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ===C================A===================C============C====C=====B======C===B===B==C=P===B=   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   =======C================A==================C============C===C=====B====C===B===B==C=P===B=   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ===========C===============A===================C==========C===C====B===C===B===B==C=P===B=   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ==============C================A==================C=========C===C===B==C===B===B==C=P====B   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   ==================C===============A==================C========C==C===B=C===B===B==C=P====B   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   =============b========C==============A==================C======C=C===B=C===B===B==C==P====   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   =====================b===C===============A=================C====CC===B=C===B===B==C===P===   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   =========================b===C==============A================C==CC===B=C===B===B===C===P==   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+
+Middelheimlaan      |   =============================b==C==============A==============C=CC===B=C===B===B====C====P   |
+> verkeerslichten   |                                                                                            G   |
+> bushaltes         |                                                                                                |
+
+

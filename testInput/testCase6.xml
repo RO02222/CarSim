@@ -1,0 +1,53 @@
+<World>
+    <BAAN>
+        <naam>Middelheimlaan</naam>
+        <lengte>400</lengte>
+    </BAAN>
+
+    <BAAN>
+        <naam>Groenenborgerlaan</naam>
+        <lengte>400</lengte>
+    </BAAN>
+
+    <BAAN>
+        <naam>Kerkstraat</naam>
+        <lengte>500</lengte>
+    </BAAN>
+
+    <BAAN>
+        <naam>Molendreef</naam>
+        <lengte>600</lengte>
+    </BAAN>
+
+    <VERKEERSLICHT>
+        <baan>Middelheimlaan</baan>
+        <positie>300</positie>
+        <cyclus>5</cyclus>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <baan>Groenenborgerlaan</baan>
+        <positie>100</positie>
+        <cyclus>8</cyclus>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <baan>Kerkstraat</baan>
+        <positie>250</positie>
+        <cyclus>6</cyclus>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <baan>Molendreef</baan>
+        <positie>130</positie>
+        <cyclus>6</cyclus>
+    </VERKEERSLICHT>
+
+    <KRUISPUNT>
+        <baan positie="300">Middelheimlaan</baan>
+        <baan positie="100">Groenenborgerlaan</baan>
+        <baan positie="250">Kerkstraat</baan>
+        <baan positie="130">Molendreef</baan>
+    </KRUISPUNT>
+
+</World>

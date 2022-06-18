@@ -1,0 +1,5476 @@
+Tijd: 0
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 20
+ -> snelheid: 16.6
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 40
+ -> snelheid: 14.6
+
+Tijd: 0.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 28.3
+ -> snelheid: 16.6
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 47.3
+ -> snelheid: 14.6
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 7.4776
+ -> snelheid: 15.0446
+
+Tijd: 1
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 36.6
+ -> snelheid: 16.6
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 54.6
+ -> snelheid: 14.6
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 14.9103
+ -> snelheid: 14.7036
+
+Tijd: 1.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 44.9
+ -> snelheid: 16.6
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 61.9
+ -> snelheid: 14.6
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 22.1959
+ -> snelheid: 14.4512
+
+Tijd: 2
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 53.2
+ -> snelheid: 16.6
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 69.2
+ -> snelheid: 14.6
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 29.3723
+ -> snelheid: 14.2636
+
+Tijd: 2.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 61.5
+ -> snelheid: 16.6
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 76.5
+ -> snelheid: 14.6
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 36.4676
+ -> snelheid: 14.1246
+
+Tijd: 3
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 69.8
+ -> snelheid: 16.6
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 83.8
+ -> snelheid: 14.6
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 43.503
+ -> snelheid: 14.0225
+
+Tijd: 3.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 78.1
+ -> snelheid: 16.6
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 91.1
+ -> snelheid: 14.6
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 50.4948
+ -> snelheid: 13.9487
+
+Tijd: 4
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 86.4
+ -> snelheid: 16.6
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 98.4
+ -> snelheid: 14.6
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 57.4554
+ -> snelheid: 13.897
+
+Tijd: 4.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 94.7
+ -> snelheid: 16.6
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 105.7
+ -> snelheid: 14.6
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 64.3946
+ -> snelheid: 13.8623
+
+Tijd: 5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 103
+ -> snelheid: 16.6
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 113
+ -> snelheid: 14.6
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 71.3199
+ -> snelheid: 13.8409
+
+Tijd: 5.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 111.3
+ -> snelheid: 16.6
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 120.3
+ -> snelheid: 14.6
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 78.2373
+ -> snelheid: 13.8299
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 8.0988
+ -> snelheid: 16.4603
+
+Tijd: 6
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 119.6
+ -> snelheid: 16.6
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 127.6
+ -> snelheid: 14.6
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 85.1512
+ -> snelheid: 13.827
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 16.298
+ -> snelheid: 16.3396
+
+Tijd: 6.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 127.9
+ -> snelheid: 16.6
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 134.9
+ -> snelheid: 14.6
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 92.0653
+ -> snelheid: 13.8303
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 24.4414
+ -> snelheid: 16.2367
+
+Tijd: 7
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 136.2
+ -> snelheid: 16.6
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 142.2
+ -> snelheid: 14.6
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 98.9823
+ -> snelheid: 13.8383
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 32.5371
+ -> snelheid: 16.1483
+
+Tijd: 7.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 144.5
+ -> snelheid: 16.6
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 149.5
+ -> snelheid: 14.6
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 105.904
+ -> snelheid: 13.8498
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 40.5916
+ -> snelheid: 16.0715
+
+Tijd: 8
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 152.8
+ -> snelheid: 16.6
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 156.8
+ -> snelheid: 14.6
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 112.833
+ -> snelheid: 13.864
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 48.6101
+ -> snelheid: 16.0042
+
+Tijd: 8.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 161.1
+ -> snelheid: 16.6
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 164.1
+ -> snelheid: 14.6
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 119.768
+ -> snelheid: 13.8801
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 56.5971
+ -> snelheid: 15.9447
+
+Tijd: 9
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 169.4
+ -> snelheid: 16.6
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 171.4
+ -> snelheid: 14.6
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 126.713
+ -> snelheid: 13.8976
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 64.5559
+ -> snelheid: 15.8915
+
+Tijd: 9.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 177.7
+ -> snelheid: 16.6
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 178.7
+ -> snelheid: 14.6
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 133.666
+ -> snelheid: 13.9159
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 72.4895
+ -> snelheid: 15.8436
+
+Tijd: 10
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 186
+ -> snelheid: 16.6
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 186.146
+ -> snelheid: 14.6
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 140.629
+ -> snelheid: 13.9346
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 80.4002
+ -> snelheid: 15.7998
+
+Tijd: 10.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 194.3
+ -> snelheid: 16.6
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 193.446
+ -> snelheid: 14.6
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 147.601
+ -> snelheid: 13.9536
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 88.2899
+ -> snelheid: 15.7596
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 8.11905
+ -> snelheid: 16.5407
+
+Tijd: 11
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 202.6
+ -> snelheid: 16.6
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 200.746
+ -> snelheid: 14.6
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 154.582
+ -> snelheid: 13.9726
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 96.1602
+ -> snelheid: 15.7221
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 16.3763
+ -> snelheid: 16.4896
+
+Tijd: 11.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 210.9
+ -> snelheid: 16.6
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 208.046
+ -> snelheid: 14.6
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 161.573
+ -> snelheid: 13.9914
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 104.012
+ -> snelheid: 15.687
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 24.61
+ -> snelheid: 16.4464
+
+Tijd: 12
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 219.2
+ -> snelheid: 16.6
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 215.346
+ -> snelheid: 14.6
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 168.574
+ -> snelheid: 14.0099
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 111.847
+ -> snelheid: 15.6537
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 32.8238
+ -> snelheid: 16.4097
+
+Tijd: 12.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 227.5
+ -> snelheid: 16.6
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 222.646
+ -> snelheid: 14.6
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 175.584
+ -> snelheid: 14.0295
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 119.666
+ -> snelheid: 15.6219
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 41.0206
+ -> snelheid: 16.3782
+
+Tijd: 13
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 235.8
+ -> snelheid: 16.6
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 229.946
+ -> snelheid: 14.6
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 182.603
+ -> snelheid: 14.0483
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 127.47
+ -> snelheid: 15.5914
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 49.2027
+ -> snelheid: 16.3511
+
+Tijd: 13.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 244.1
+ -> snelheid: 16.6
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 237.246
+ -> snelheid: 14.6
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 189.772
+ -> snelheid: 14.0657
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 135.258
+ -> snelheid: 15.5619
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 57.3723
+ -> snelheid: 16.3276
+
+Tijd: 14
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 252.4
+ -> snelheid: 16.6
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 244.546
+ -> snelheid: 14.6
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 196.809
+ -> snelheid: 14.0816
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 143.032
+ -> snelheid: 15.5332
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 65.5309
+ -> snelheid: 16.3071
+
+Tijd: 14.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 260.7
+ -> snelheid: 16.6
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 251.846
+ -> snelheid: 14.6
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 203.854
+ -> snelheid: 14.0971
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 150.791
+ -> snelheid: 15.5051
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 73.6798
+ -> snelheid: 16.2889
+
+Tijd: 15
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 269
+ -> snelheid: 16.6
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 259.146
+ -> snelheid: 14.6
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 210.906
+ -> snelheid: 14.1122
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 158.537
+ -> snelheid: 15.4774
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 81.8201
+ -> snelheid: 16.2728
+
+Tijd: 15.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 277.3
+ -> snelheid: 16.6
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 266.446
+ -> snelheid: 14.6
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 217.966
+ -> snelheid: 14.1267
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 166.269
+ -> snelheid: 15.4507
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 89.9528
+ -> snelheid: 16.2582
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 7.14456
+ -> snelheid: 14.5628
+
+Tijd: 16
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 285.6
+ -> snelheid: 16.6
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 273.746
+ -> snelheid: 14.6
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 225.033
+ -> snelheid: 14.1407
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 173.988
+ -> snelheid: 15.4249
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 98.0786
+ -> snelheid: 16.245
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 14.418
+ -> snelheid: 14.5322
+
+Tijd: 16.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 293.9
+ -> snelheid: 16.6
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 281.046
+ -> snelheid: 14.6
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 232.107
+ -> snelheid: 14.1542
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 181.694
+ -> snelheid: 15.3991
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 106.198
+ -> snelheid: 16.2329
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 21.6778
+ -> snelheid: 14.5076
+
+Tijd: 17
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 302.2
+ -> snelheid: 16.6
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 288.346
+ -> snelheid: 14.6
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 239.187
+ -> snelheid: 14.1672
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 189.54
+ -> snelheid: 15.3721
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 114.312
+ -> snelheid: 16.2216
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 28.9265
+ -> snelheid: 14.488
+
+Tijd: 17.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 310.5
+ -> snelheid: 16.6
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 295.646
+ -> snelheid: 14.6
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 246.274
+ -> snelheid: 14.1797
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 197.22
+ -> snelheid: 15.3454
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 122.42
+ -> snelheid: 16.2109
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 36.1664
+ -> snelheid: 14.4724
+
+Tijd: 18
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 318.799
+ -> snelheid: 16.5924
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 504.907
+ -> snelheid: 15.4516
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 302.946
+ -> snelheid: 14.6
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 253.367
+ -> snelheid: 14.1918
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 130.526
+ -> snelheid: 16.2232
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 43.3994
+ -> snelheid: 14.4602
+
+Tijd: 18.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 327.092
+ -> snelheid: 16.5821
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 512.675
+ -> snelheid: 15.6192
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 310.246
+ -> snelheid: 14.6
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 260.465
+ -> snelheid: 14.2034
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 138.643
+ -> snelheid: 16.2456
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 50.6272
+ -> snelheid: 14.4511
+
+Tijd: 19
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 335.381
+ -> snelheid: 16.5739
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 520.522
+ -> snelheid: 15.7643
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 317.546
+ -> snelheid: 14.6
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 267.57
+ -> snelheid: 14.2146
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 146.771
+ -> snelheid: 16.2637
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 57.8509
+ -> snelheid: 14.4444
+
+Tijd: 19.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 343.666
+ -> snelheid: 16.5674
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 528.436
+ -> snelheid: 15.8893
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 324.846
+ -> snelheid: 14.6
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 274.68
+ -> snelheid: 14.2253
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 154.907
+ -> snelheid: 16.2783
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 65.0718
+ -> snelheid: 14.4396
+
+Tijd: 20
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 351.949
+ -> snelheid: 16.5622
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 536.408
+ -> snelheid: 15.9966
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 332.146
+ -> snelheid: 14.6
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 281.795
+ -> snelheid: 14.2357
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 163.049
+ -> snelheid: 16.29
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 72.2908
+ -> snelheid: 14.4365
+
+Tijd: 20.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 360.229
+ -> snelheid: 16.5582
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 544.43
+ -> snelheid: 16.0885
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 339.446
+ -> snelheid: 14.6
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 288.916
+ -> snelheid: 14.2456
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 171.196
+ -> snelheid: 16.2991
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 79.5085
+ -> snelheid: 14.4345
+
+Voertuig 7
+ -> baan: Middelheimlaan
+ -> positie: 3.73776
+ -> snelheid: 6.15466
+
+Tijd: 21
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 368.507
+ -> snelheid: 16.555
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 552.495
+ -> snelheid: 16.167
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 346.746
+ -> snelheid: 14.6
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 296.041
+ -> snelheid: 14.2552
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 179.348
+ -> snelheid: 16.3061
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 86.7255
+ -> snelheid: 14.4336
+
+Voertuig 7
+ -> baan: Middelheimlaan
+ -> positie: 6.5608
+ -> snelheid: 5.28615
+
+Tijd: 21.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 376.784
+ -> snelheid: 16.5525
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 560.595
+ -> snelheid: 16.2338
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 354.046
+ -> snelheid: 14.6
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 303.171
+ -> snelheid: 14.2644
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 187.665
+ -> snelheid: 16.3113
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 93.9423
+ -> snelheid: 14.4335
+
+Voertuig 7
+ -> baan: Middelheimlaan
+ -> positie: 9.10382
+ -> snelheid: 4.93045
+
+Tijd: 22
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 385.06
+ -> snelheid: 16.5506
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 568.727
+ -> snelheid: 16.2906
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 361.346
+ -> snelheid: 14.6
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 310.305
+ -> snelheid: 14.2733
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 195.822
+ -> snelheid: 16.3148
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 101.159
+ -> snelheid: 14.434
+
+Voertuig 7
+ -> baan: Middelheimlaan
+ -> positie: 11.5203
+ -> snelheid: 4.75443
+
+Tijd: 22.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 393.334
+ -> snelheid: 16.5406
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 576.884
+ -> snelheid: 16.3388
+
+Voertuig 3
+ -> baan: Molenstraat
+ -> positie: 503.979
+ -> snelheid: 16.3097
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 368.646
+ -> snelheid: 14.6
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 317.444
+ -> snelheid: 14.2819
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 108.377
+ -> snelheid: 14.4434
+
+Voertuig 7
+ -> baan: Middelheimlaan
+ -> positie: 13.8717
+ -> snelheid: 4.66064
+
+Tijd: 23
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 401.6
+ -> snelheid: 16.5236
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 585.064
+ -> snelheid: 16.3796
+
+Voertuig 3
+ -> baan: Molenstraat
+ -> positie: 512.131
+ -> snelheid: 16.2985
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 375.946
+ -> snelheid: 14.6
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 324.587
+ -> snelheid: 14.2901
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 115.603
+ -> snelheid: 14.4598
+
+Voertuig 7
+ -> baan: Middelheimlaan
+ -> positie: 16.1879
+ -> snelheid: 4.60907
+
+Tijd: 23.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 409.858
+ -> snelheid: 16.5094
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 593.263
+ -> snelheid: 16.4142
+
+Voertuig 3
+ -> baan: Molenstraat
+ -> positie: 520.278
+ -> snelheid: 16.2901
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 383.246
+ -> snelheid: 14.6
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 331.734
+ -> snelheid: 14.2981
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 122.837
+ -> snelheid: 14.4735
+
+Voertuig 7
+ -> baan: Middelheimlaan
+ -> positie: 18.4845
+ -> snelheid: 4.58046
+
+Tijd: 24
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 418.109
+ -> snelheid: 16.4974
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 601.478
+ -> snelheid: 16.4434
+
+Voertuig 3
+ -> baan: Molenstraat
+ -> positie: 528.421
+ -> snelheid: 16.2837
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 390.546
+ -> snelheid: 14.6
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 338.885
+ -> snelheid: 14.3058
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 130.076
+ -> snelheid: 14.4849
+
+Voertuig 7
+ -> baan: Middelheimlaan
+ -> positie: 20.7182
+ -> snelheid: 3.92748
+
+Tijd: 24.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 426.356
+ -> snelheid: 16.4874
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 609.706
+ -> snelheid: 16.4681
+
+Voertuig 3
+ -> baan: Molenstraat
+ -> positie: 536.562
+ -> snelheid: 16.279
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 397.846
+ -> snelheid: 14.6
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 346.04
+ -> snelheid: 14.3132
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 137.321
+ -> snelheid: 14.4945
+
+Voertuig 7
+ -> baan: Middelheimlaan
+ -> positie: 22.2831
+ -> snelheid: 2.44826
+
+Tijd: 25
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 434.597
+ -> snelheid: 16.4789
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 617.945
+ -> snelheid: 16.4889
+
+Voertuig 3
+ -> baan: Molenstraat
+ -> positie: 544.7
+ -> snelheid: 16.2757
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 353.222
+ -> snelheid: 14.4494
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 144.571
+ -> snelheid: 14.5026
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 23.2586
+ -> snelheid: 1.52616
+
+Tijd: 25.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 442.835
+ -> snelheid: 16.4717
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 626.194
+ -> snelheid: 16.5065
+
+Voertuig 3
+ -> baan: Molenstraat
+ -> positie: 552.838
+ -> snelheid: 16.2734
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 360.488
+ -> snelheid: 14.6131
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 151.824
+ -> snelheid: 14.5097
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 23.8667
+ -> snelheid: 0.951357
+
+Tijd: 26
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 451.069
+ -> snelheid: 16.4657
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 634.451
+ -> snelheid: 16.5213
+
+Voertuig 3
+ -> baan: Molenstraat
+ -> positie: 560.974
+ -> snelheid: 16.2719
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 367.831
+ -> snelheid: 14.7532
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 159.08
+ -> snelheid: 14.5159
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 24.2458
+ -> snelheid: 0.593043
+
+Tijd: 26.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 459.3
+ -> snelheid: 16.4606
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 642.715
+ -> snelheid: 16.5338
+
+Voertuig 3
+ -> baan: Molenstraat
+ -> positie: 569.11
+ -> snelheid: 16.2711
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 375.238
+ -> snelheid: 14.8725
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 166.34
+ -> snelheid: 14.5214
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 24.4821
+ -> snelheid: 0.369683
+
+Tijd: 27
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 467.53
+ -> snelheid: 16.4563
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 650.985
+ -> snelheid: 16.5443
+
+Voertuig 3
+ -> baan: Molenstraat
+ -> positie: 577.245
+ -> snelheid: 16.2708
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 382.7
+ -> snelheid: 14.9738
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 173.601
+ -> snelheid: 14.5262
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 24.6294
+ -> snelheid: 0.230448
+
+Tijd: 27.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 475.757
+ -> snelheid: 16.4527
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 659.259
+ -> snelheid: 16.5532
+
+Voertuig 3
+ -> baan: Molenstraat
+ -> positie: 585.381
+ -> snelheid: 16.271
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 390.209
+ -> snelheid: 15.0594
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 180.866
+ -> snelheid: 14.5304
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 24.7212
+ -> snelheid: 0.143653
+
+Tijd: 28
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 483.982
+ -> snelheid: 16.4496
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 667.538
+ -> snelheid: 16.5606
+
+Voertuig 3
+ -> baan: Molenstraat
+ -> positie: 593.516
+ -> snelheid: 16.2714
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 397.758
+ -> snelheid: 15.1316
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 188.277
+ -> snelheid: 14.5342
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 24.7785
+ -> snelheid: 0.0895486
+
+Tijd: 28.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 492.371
+ -> snelheid: 16.447
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 675.82
+ -> snelheid: 16.5669
+
+Voertuig 3
+ -> baan: Molenstraat
+ -> positie: 601.652
+ -> snelheid: 16.2721
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 195.546
+ -> snelheid: 14.5431
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 24.8141
+ -> snelheid: 0.0558216
+
+Tijd: 29
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 684.104
+ -> snelheid: 16.5721
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 609.788
+ -> snelheid: 16.2729
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 202.82
+ -> snelheid: 14.5525
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 24.8364
+ -> snelheid: 0.0347973
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 200.586
+ -> snelheid: 15.9519
+
+Tijd: 29.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 692.392
+ -> snelheid: 16.5766
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 617.925
+ -> snelheid: 16.2739
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 210.098
+ -> snelheid: 14.5604
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 24.8503
+ -> snelheid: 0.0216914
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 207.562
+ -> snelheid: 12.7591
+
+Tijd: 30
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 626.062
+ -> snelheid: 16.2804
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 217.38
+ -> snelheid: 14.567
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 24.8589
+ -> snelheid: 0.0135217
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 213.621
+ -> snelheid: 11.5709
+
+Tijd: 30.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 634.215
+ -> snelheid: 16.3301
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 224.665
+ -> snelheid: 14.5725
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 24.8643
+ -> snelheid: 0.00842897
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 219.171
+ -> snelheid: 10.6279
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 5.16856
+ -> snelheid: 7.0777
+
+Tijd: 31
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 642.391
+ -> snelheid: 16.3723
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 231.953
+ -> snelheid: 14.5771
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 24.8676
+ -> snelheid: 0.00525433
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 224.199
+ -> snelheid: 9.35568
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 7.79702
+ -> snelheid: 3.78544
+
+Tijd: 31.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 650.587
+ -> snelheid: 16.408
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 239.242
+ -> snelheid: 14.5809
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 24.8697
+ -> snelheid: 0.00327537
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 226.379
+ -> snelheid: 0
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 9.17071
+ -> snelheid: 1.85607
+
+Tijd: 32
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 658.798
+ -> snelheid: 16.4382
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 246.533
+ -> snelheid: 14.5841
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 24.871
+ -> snelheid: 0.00204176
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 226.443
+ -> snelheid: 0.3739
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 9.76938
+ -> snelheid: 0.634774
+
+Tijd: 32.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 667.024
+ -> snelheid: 16.4637
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 253.826
+ -> snelheid: 14.5867
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 24.8719
+ -> snelheid: 0.00127276
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 226.791
+ -> snelheid: 1.02794
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 9.89188
+ -> snelheid: 0
+
+Tijd: 33
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 675.261
+ -> snelheid: 16.4852
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 261.12
+ -> snelheid: 14.5889
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 24.8724
+ -> snelheid: 0.000793396
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 227.477
+ -> snelheid: 1.71961
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 9.89188
+ -> snelheid: 0
+
+Tijd: 33.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 683.509
+ -> snelheid: 16.5034
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 268.415
+ -> snelheid: 14.5908
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 24.8727
+ -> snelheid: 0.000494576
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 228.512
+ -> snelheid: 2.42328
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 9.89188
+ -> snelheid: 0
+
+Tijd: 34
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 691.764
+ -> snelheid: 16.5187
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 275.711
+ -> snelheid: 14.5923
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 24.8729
+ -> snelheid: 0.000308302
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 229.901
+ -> snelheid: 3.13202
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 9.89188
+ -> snelheid: 0
+
+Tijd: 34.5
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 283.007
+ -> snelheid: 14.5936
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 24.8906
+ -> snelheid: 0.206894
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 231.644
+ -> snelheid: 3.84287
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 9.89188
+ -> snelheid: 0
+
+Tijd: 35
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 290.304
+ -> snelheid: 14.5947
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 25.146
+ -> snelheid: 0.814738
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 233.744
+ -> snelheid: 4.55395
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 9.89188
+ -> snelheid: 0
+
+Tijd: 35.5
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 297.602
+ -> snelheid: 14.5956
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 25.7053
+ -> snelheid: 1.42253
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 236.198
+ -> snelheid: 5.26363
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 9.89188
+ -> snelheid: 0
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 1.73585
+ -> snelheid: 0
+
+Tijd: 36
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 304.9
+ -> snelheid: 14.5963
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 26.5685
+ -> snelheid: 2.03006
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 239.007
+ -> snelheid: 5.97017
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 9.90145
+ -> snelheid: 0.0733051
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 1.73585
+ -> snelheid: 0
+
+Tijd: 36.5
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 312.198
+ -> snelheid: 14.5969
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 27.7352
+ -> snelheid: 2.63686
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 242.167
+ -> snelheid: 6.67159
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 9.99823
+ -> snelheid: 0.339839
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 1.73585
+ -> snelheid: 0
+
+Tijd: 37
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 319.497
+ -> snelheid: 14.5974
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 29.2051
+ -> snelheid: 3.24206
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 245.677
+ -> snelheid: 7.36556
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 10.2619
+ -> snelheid: 0.73106
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 1.73585
+ -> snelheid: 0
+
+Tijd: 37.5
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 326.796
+ -> snelheid: 14.5979
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 30.9768
+ -> snelheid: 3.84429
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 249.531
+ -> snelheid: 8.04939
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 10.7423
+ -> snelheid: 1.20073
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 1.73585
+ -> snelheid: 0
+
+Tijd: 38
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 334.095
+ -> snelheid: 14.5982
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 33.0485
+ -> snelheid: 4.44161
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 253.724
+ -> snelheid: 8.72008
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 11.4711
+ -> snelheid: 1.7213
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 1.73585
+ -> snelheid: 0
+
+Tijd: 38.5
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 341.394
+ -> snelheid: 14.5985
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 35.4172
+ -> snelheid: 5.03143
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 258.249
+ -> snelheid: 9.3743
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 12.4692
+ -> snelheid: 2.27582
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 1.73585
+ -> snelheid: 0
+
+Tijd: 39
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 348.693
+ -> snelheid: 14.5988
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 38.0782
+ -> snelheid: 5.61052
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 263.095
+ -> snelheid: 10.008
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 13.7507
+ -> snelheid: 2.85335
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 1.73585
+ -> snelheid: 0
+
+Tijd: 39.5
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 355.993
+ -> snelheid: 14.599
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 41.0253
+ -> snelheid: 6.17506
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 268.253
+ -> snelheid: 10.6168
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 15.3251
+ -> snelheid: 3.44635
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 1.73585
+ -> snelheid: 0
+
+Tijd: 40
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 363.292
+ -> snelheid: 14.5991
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 44.2501
+ -> snelheid: 6.72076
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 273.707
+ -> snelheid: 11.1967
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 17.1987
+ -> snelheid: 4.0492
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 1.73585
+ -> snelheid: 0
+
+Tijd: 40.5
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 370.592
+ -> snelheid: 14.5993
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 47.7421
+ -> snelheid: 7.24309
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 279.444
+ -> snelheid: 11.7445
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 19.3752
+ -> snelheid: 4.65734
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 1.74284
+ -> snelheid: 0.0546424
+
+Tijd: 41
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 377.891
+ -> snelheid: 14.5994
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 51.4886
+ -> snelheid: 7.7376
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 285.446
+ -> snelheid: 12.2571
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 21.8562
+ -> snelheid: 5.26673
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 1.81692
+ -> snelheid: 0.263389
+
+Tijd: 41.5
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 385.191
+ -> snelheid: 14.5995
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 55.4744
+ -> snelheid: 8.20017
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 291.695
+ -> snelheid: 12.7325
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 24.6415
+ -> snelheid: 5.87347
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 2.02407
+ -> snelheid: 0.579779
+
+Tijd: 42
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 392.491
+ -> snelheid: 14.5996
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 59.6828
+ -> snelheid: 8.62741
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 298.172
+ -> snelheid: 13.1689
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 27.7286
+ -> snelheid: 6.47365
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 2.40869
+ -> snelheid: 0.968502
+
+Tijd: 42.5
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 399.791
+ -> snelheid: 14.5997
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 64.0955
+ -> snelheid: 9.01688
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 304.857
+ -> snelheid: 13.566
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 31.1134
+ -> snelheid: 7.0632
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 3.00055
+ -> snelheid: 1.40522
+
+Tijd: 43
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 68.6932
+ -> snelheid: 9.36731
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 311.737
+ -> snelheid: 13.946
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 34.7893
+ -> snelheid: 7.63782
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 3.81862
+ -> snelheid: 1.87017
+
+Tijd: 43.5
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 73.4563
+ -> snelheid: 9.67859
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 318.797
+ -> snelheid: 14.2893
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 38.748
+ -> snelheid: 8.19302
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 4.8721
+ -> snelheid: 2.34326
+
+Tijd: 44
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 78.3654
+ -> snelheid: 9.95172
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 326.02
+ -> snelheid: 14.5966
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 42.9784
+ -> snelheid: 8.72421
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 6.15941
+ -> snelheid: 2.80144
+
+Tijd: 44.5
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 83.402
+ -> snelheid: 10.1887
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 333.388
+ -> snelheid: 14.8697
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 47.4674
+ -> snelheid: 9.22685
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 7.6669
+ -> snelheid: 3.21988
+
+Tijd: 45
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 88.5485
+ -> snelheid: 10.3921
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 340.884
+ -> snelheid: 15.1109
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 52.1997
+ -> snelheid: 9.6966
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 9.36904
+ -> snelheid: 3.57715
+
+Tijd: 45.5
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 93.789
+ -> snelheid: 10.565
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 348.494
+ -> snelheid: 15.3224
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 57.1579
+ -> snelheid: 10.1296
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 11.2318
+ -> snelheid: 3.8616
+
+Tijd: 46
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 99.1087
+ -> snelheid: 10.7089
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 354.683
+ -> snelheid: 9.75641
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 62.3226
+ -> snelheid: 10.5225
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 13.2185
+ -> snelheid: 4.07386
+
+Tijd: 46.5
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 104.493
+ -> snelheid: 10.8261
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 359.098
+ -> snelheid: 8.17349
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 67.6733
+ -> snelheid: 10.8728
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 15.2953
+ -> snelheid: 4.22413
+
+Tijd: 47
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 109.931
+ -> snelheid: 10.922
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 362.999
+ -> snelheid: 7.51071
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 73.1881
+ -> snelheid: 11.179
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 17.4347
+ -> snelheid: 4.3266
+
+Tijd: 47.5
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 115.413
+ -> snelheid: 11.0006
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 366.659
+ -> snelheid: 7.16383
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 78.8448
+ -> snelheid: 11.4406
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 19.6163
+ -> snelheid: 4.39493
+
+Tijd: 48
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 120.929
+ -> snelheid: 11.0647
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 370.187
+ -> snelheid: 6.96455
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 84.6213
+ -> snelheid: 11.6583
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 21.5093
+ -> snelheid: 2.98942
+
+Tijd: 48.5
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 126.475
+ -> snelheid: 11.1169
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 373.637
+ -> snelheid: 6.84445
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 90.4961
+ -> snelheid: 11.834
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 22.7005
+ -> snelheid: 1.8635
+
+Tijd: 49
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 132.045
+ -> snelheid: 11.1592
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 377.039
+ -> snelheid: 6.77008
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 96.4487
+ -> snelheid: 11.9701
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 23.443
+ -> snelheid: 1.16164
+
+Tijd: 49.5
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 137.633
+ -> snelheid: 11.1939
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 380.598
+ -> snelheid: 7.46571
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 102.46
+ -> snelheid: 12.07
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 23.9059
+ -> snelheid: 0.724129
+
+Tijd: 50
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 143.238
+ -> snelheid: 11.2232
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 384.503
+ -> snelheid: 8.15043
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 108.513
+ -> snelheid: 12.1375
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 24.1944
+ -> snelheid: 0.451397
+
+Tijd: 50.5
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 148.856
+ -> snelheid: 11.2478
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 388.746
+ -> snelheid: 8.82124
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 114.593
+ -> snelheid: 12.1767
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 24.3742
+ -> snelheid: 0.281386
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 5.0746
+ -> snelheid: 6.86686
+
+Tijd: 51
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 154.485
+ -> snelheid: 11.2686
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 393.321
+ -> snelheid: 9.4748
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 120.686
+ -> snelheid: 12.1918
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 24.4864
+ -> snelheid: 0.175406
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 7.61077
+ -> snelheid: 3.62935
+
+Tijd: 51.5
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 160.124
+ -> snelheid: 11.2864
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 398.218
+ -> snelheid: 10.1076
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 126.781
+ -> snelheid: 12.1868
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 24.5563
+ -> snelheid: 0.109342
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 8.9215
+ -> snelheid: 1.76049
+
+Tijd: 52
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 165.771
+ -> snelheid: 11.3058
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 132.87
+ -> snelheid: 12.1659
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 24.5998
+ -> snelheid: 0.0681603
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 9.48697
+ -> snelheid: 0.596054
+
+Tijd: 52.5
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 171.429
+ -> snelheid: 11.3238
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 138.945
+ -> snelheid: 12.1331
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 24.627
+ -> snelheid: 0.0424888
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 9.6015
+ -> snelheid: 0
+
+Tijd: 53
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 177.095
+ -> snelheid: 11.3384
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 145.002
+ -> snelheid: 12.0916
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 24.6439
+ -> snelheid: 0.0264861
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 9.6015
+ -> snelheid: 0
+
+Tijd: 53.5
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 182.767
+ -> snelheid: 11.3502
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 151.036
+ -> snelheid: 12.0439
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 24.6545
+ -> snelheid: 0.0165105
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 9.6015
+ -> snelheid: 0
+
+Tijd: 54
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 188.558
+ -> snelheid: 11.3599
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 157.045
+ -> snelheid: 11.9923
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 24.661
+ -> snelheid: 0.0102921
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 9.6015
+ -> snelheid: 0
+
+Tijd: 54.5
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 194.24
+ -> snelheid: 11.3676
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 163.028
+ -> snelheid: 11.9388
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 24.6652
+ -> snelheid: 0.00641574
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 9.6015
+ -> snelheid: 0
+
+Tijd: 55
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 199.925
+ -> snelheid: 11.3739
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 168.984
+ -> snelheid: 11.885
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 24.6677
+ -> snelheid: 0.00399936
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 9.6015
+ -> snelheid: 0
+
+Tijd: 55.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 505.614
+ -> snelheid: 11.3789
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 175.051
+ -> snelheid: 12.3879
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 24.6693
+ -> snelheid: 0.00249306
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 9.6015
+ -> snelheid: 0
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 2.09157
+ -> snelheid: 0.671698
+
+Tijd: 56
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 511.304
+ -> snelheid: 11.383
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 181.366
+ -> snelheid: 12.8668
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 24.6703
+ -> snelheid: 0.00155409
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 9.6015
+ -> snelheid: 0
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 2.12324
+ -> snelheid: 0
+
+Tijd: 56.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 516.997
+ -> snelheid: 11.3862
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 188.044
+ -> snelheid: 13.317
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 24.6709
+ -> snelheid: 0.000968767
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 9.6015
+ -> snelheid: 0
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 2.12324
+ -> snelheid: 0
+
+Tijd: 57
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 522.69
+ -> snelheid: 11.3889
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 194.805
+ -> snelheid: 13.7203
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 24.6713
+ -> snelheid: 0.000603897
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 9.6015
+ -> snelheid: 0
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 2.12324
+ -> snelheid: 0
+
+Tijd: 57.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 528.385
+ -> snelheid: 11.391
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 201.758
+ -> snelheid: 14.0859
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 24.6715
+ -> snelheid: 0.000376449
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 9.6015
+ -> snelheid: 0
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 2.12324
+ -> snelheid: 0
+
+Tijd: 58
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 534.081
+ -> snelheid: 11.3928
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 208.885
+ -> snelheid: 14.4148
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 24.6717
+ -> snelheid: 0.000234665
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 9.6015
+ -> snelheid: 0
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 2.12324
+ -> snelheid: 0
+
+Tijd: 58.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 539.778
+ -> snelheid: 11.3942
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 216.167
+ -> snelheid: 14.7084
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 24.7948
+ -> snelheid: 0.54689
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 9.6015
+ -> snelheid: 0
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 2.12324
+ -> snelheid: 0
+
+Tijd: 59
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 545.475
+ -> snelheid: 11.3953
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 223.588
+ -> snelheid: 14.9687
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 25.2201
+ -> snelheid: 1.15446
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 9.6015
+ -> snelheid: 0
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 2.12324
+ -> snelheid: 0
+
+Tijd: 59.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 551.173
+ -> snelheid: 11.3962
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 231.131
+ -> snelheid: 15.1978
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 25.9493
+ -> snelheid: 1.76204
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 9.60329
+ -> snelheid: 0.0242608
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 2.12324
+ -> snelheid: 0
+
+Tijd: 60
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 556.872
+ -> snelheid: 11.3969
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 238.781
+ -> snelheid: 15.3984
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 26.9821
+ -> snelheid: 2.36926
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 9.65918
+ -> snelheid: 0.229236
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 2.12324
+ -> snelheid: 0
+
+Tijd: 60.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 562.57
+ -> snelheid: 11.3975
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 246.525
+ -> snelheid: 15.573
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 28.3183
+ -> snelheid: 2.97542
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 9.85644
+ -> snelheid: 0.57868
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 2.12324
+ -> snelheid: 0
+
+Tijd: 61
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 568.269
+ -> snelheid: 11.398
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 254.35
+ -> snelheid: 15.7243
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 29.9572
+ -> snelheid: 3.57935
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 10.253
+ -> snelheid: 1.01972
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 2.12324
+ -> snelheid: 0
+
+Tijd: 61.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 573.968
+ -> snelheid: 11.3984
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 262.246
+ -> snelheid: 15.8549
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 31.897
+ -> snelheid: 4.17936
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 10.886
+ -> snelheid: 1.52018
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 2.12324
+ -> snelheid: 0
+
+Tijd: 62
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 579.667
+ -> snelheid: 11.3987
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 270.202
+ -> snelheid: 15.9671
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 34.1355
+ -> snelheid: 4.77313
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 11.7798
+ -> snelheid: 2.06022
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 2.12324
+ -> snelheid: 0
+
+Tijd: 62.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 585.367
+ -> snelheid: 11.3989
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 278.21
+ -> snelheid: 16.0633
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 36.6686
+ -> snelheid: 5.3577
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 12.9507
+ -> snelheid: 2.62716
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 2.12324
+ -> snelheid: 0
+
+Tijd: 63
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 591.066
+ -> snelheid: 11.3992
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 286.263
+ -> snelheid: 16.1455
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 39.491
+ -> snelheid: 5.92947
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 14.41
+ -> snelheid: 3.21242
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 2.1234
+ -> snelheid: 0.00497188
+
+Tijd: 63.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 596.766
+ -> snelheid: 11.3993
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 294.354
+ -> snelheid: 16.2155
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 42.5953
+ -> snelheid: 6.48432
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 16.1651
+ -> snelheid: 3.80976
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 2.15779
+ -> snelheid: 0.166622
+
+Tijd: 64
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 602.466
+ -> snelheid: 11.3994
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 302.477
+ -> snelheid: 16.2751
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 45.9718
+ -> snelheid: 7.01781
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 18.2209
+ -> snelheid: 4.4143
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 2.31731
+ -> snelheid: 0.493181
+
+Tijd: 64.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 608.165
+ -> snelheid: 11.3996
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 310.627
+ -> snelheid: 16.3256
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 49.6088
+ -> snelheid: 7.52539
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 20.5799
+ -> snelheid: 5.0218
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 2.66854
+ -> snelheid: 0.925873
+
+Tijd: 65
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 613.865
+ -> snelheid: 11.3996
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 318.801
+ -> snelheid: 16.3685
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 53.4922
+ -> snelheid: 8.00273
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 23.2426
+ -> snelheid: 5.62835
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 3.25479
+ -> snelheid: 1.42862
+
+Tijd: 65.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 619.565
+ -> snelheid: 11.3997
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 326.995
+ -> snelheid: 16.4048
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 57.6058
+ -> snelheid: 8.4461
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 26.2074
+ -> snelheid: 6.23005
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 4.10503
+ -> snelheid: 1.97882
+
+Tijd: 66
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 625.265
+ -> snelheid: 11.3998
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 335.205
+ -> snelheid: 16.4355
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 61.9321
+ -> snelheid: 8.8526
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 29.4711
+ -> snelheid: 6.82288
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 5.23906
+ -> snelheid: 2.56183
+
+Tijd: 66.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 630.965
+ -> snelheid: 11.3998
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 343.429
+ -> snelheid: 16.4614
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 66.452
+ -> snelheid: 9.22042
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 33.0281
+ -> snelheid: 7.40265
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 6.67065
+ -> snelheid: 3.16772
+
+Tijd: 67
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 636.665
+ -> snelheid: 11.3998
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 351.666
+ -> snelheid: 16.4833
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 71.146
+ -> snelheid: 9.54894
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 36.8709
+ -> snelheid: 7.96493
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 8.4094
+ -> snelheid: 3.78938
+
+Tijd: 67.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 642.365
+ -> snelheid: 11.3999
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 359.912
+ -> snelheid: 16.5017
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 75.9945
+ -> snelheid: 9.8387
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 40.9894
+ -> snelheid: 8.50516
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 10.4617
+ -> snelheid: 4.42131
+
+Tijd: 68
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 648.065
+ -> snelheid: 11.3999
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 368.167
+ -> snelheid: 16.5173
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 80.9785
+ -> snelheid: 10.0913
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 45.3716
+ -> snelheid: 9.01877
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 12.8316
+ -> snelheid: 5.05892
+
+Tijd: 68.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 653.765
+ -> snelheid: 11.3999
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 376.429
+ -> snelheid: 16.5304
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 86.0799
+ -> snelheid: 10.309
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 50.003
+ -> snelheid: 9.50131
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 15.5209
+ -> snelheid: 5.69808
+
+Tijd: 69
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 659.465
+ -> snelheid: 11.3999
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 384.697
+ -> snelheid: 16.5414
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 91.2822
+ -> snelheid: 10.495
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 54.867
+ -> snelheid: 9.94872
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 18.5293
+ -> snelheid: 6.33476
+
+Tijd: 69.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 665.165
+ -> snelheid: 11.3999
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 392.97
+ -> snelheid: 16.5507
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 96.5701
+ -> snelheid: 10.6523
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 59.9453
+ -> snelheid: 10.3575
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 21.8546
+ -> snelheid: 6.96489
+
+Tijd: 70
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 670.864
+ -> snelheid: 11.4
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 101.93
+ -> snelheid: 10.7846
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 65.2176
+ -> snelheid: 10.7248
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 25.4924
+ -> snelheid: 7.58423
+
+Tijd: 70.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 676.564
+ -> snelheid: 11.4
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 107.351
+ -> snelheid: 10.8958
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 70.6629
+ -> snelheid: 11.0491
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 29.4363
+ -> snelheid: 8.1884
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 7.11054
+ -> snelheid: 12.9381
+
+Tijd: 71
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 682.264
+ -> snelheid: 11.4
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 112.823
+ -> snelheid: 10.988
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 76.2594
+ -> snelheid: 11.3295
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 33.6775
+ -> snelheid: 8.77286
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 13.0853
+ -> snelheid: 11.1528
+
+Tijd: 71.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 687.964
+ -> snelheid: 11.4
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 118.337
+ -> snelheid: 11.064
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 81.9852
+ -> snelheid: 11.5664
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 38.2051
+ -> snelheid: 9.33308
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 18.3999
+ -> snelheid: 10.2051
+
+Tijd: 72
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 693.664
+ -> snelheid: 11.4
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 123.885
+ -> snelheid: 11.1266
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 87.8188
+ -> snelheid: 11.7611
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 43.0058
+ -> snelheid: 9.86467
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 23.3675
+ -> snelheid: 9.72552
+
+Tijd: 72.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 699.364
+ -> snelheid: 11.4
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 129.461
+ -> snelheid: 11.1779
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 93.7396
+ -> snelheid: 11.9159
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 48.0643
+ -> snelheid: 10.3636
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 28.1737
+ -> snelheid: 9.53772
+
+Tijd: 73
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 135.061
+ -> snelheid: 11.2197
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 99.7285
+ -> snelheid: 12.0336
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 53.3634
+ -> snelheid: 10.8264
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 32.9365
+ -> snelheid: 9.53895
+
+Tijd: 73.5
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 140.68
+ -> snelheid: 11.2539
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 105.768
+ -> snelheid: 12.1177
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 58.8842
+ -> snelheid: 11.2503
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 37.7331
+ -> snelheid: 9.66357
+
+Tijd: 74
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 146.314
+ -> snelheid: 11.2816
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 111.841
+ -> snelheid: 12.172
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 64.6069
+ -> snelheid: 11.6334
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 42.6133
+ -> snelheid: 9.8677
+
+Tijd: 74.5
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 151.96
+ -> snelheid: 11.3042
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 117.935
+ -> snelheid: 12.2005
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 70.5107
+ -> snelheid: 11.9748
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 47.6089
+ -> snelheid: 10.1212
+
+Tijd: 75
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 157.617
+ -> snelheid: 11.3225
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 124.038
+ -> snelheid: 12.2072
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 76.5747
+ -> snelheid: 12.2744
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 52.7392
+ -> snelheid: 10.4029
+
+Tijd: 75.5
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 163.282
+ -> snelheid: 11.3373
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 130.14
+ -> snelheid: 12.1959
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 82.7782
+ -> snelheid: 12.5331
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 58.014
+ -> snelheid: 10.6976
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 8.0234
+ -> snelheid: 16.1641
+
+Tijd: 76
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 168.954
+ -> snelheid: 11.3494
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 136.232
+ -> snelheid: 12.1703
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 89.1012
+ -> snelheid: 12.7526
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 63.4371
+ -> snelheid: 10.9941
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 16.0122
+ -> snelheid: 15.8034
+
+Tijd: 76.5
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 174.631
+ -> snelheid: 11.3591
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 142.308
+ -> snelheid: 12.1335
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 95.5246
+ -> snelheid: 12.9349
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 69.0071
+ -> snelheid: 11.2842
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 23.8378
+ -> snelheid: 15.5084
+
+Tijd: 77
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 180.313
+ -> snelheid: 11.3669
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 148.364
+ -> snelheid: 12.0887
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 102.03
+ -> snelheid: 13.0827
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 74.7192
+ -> snelheid: 11.5619
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 31.5292
+ -> snelheid: 15.2652
+
+Tijd: 77.5
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 186.112
+ -> snelheid: 11.3734
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 154.396
+ -> snelheid: 12.0383
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 108.602
+ -> snelheid: 13.1988
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 80.5661
+ -> snelheid: 11.8227
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 39.1099
+ -> snelheid: 15.0637
+
+Tijd: 78
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 191.8
+ -> snelheid: 11.3785
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 160.402
+ -> snelheid: 11.9847
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 115.224
+ -> snelheid: 13.2863
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 86.5385
+ -> snelheid: 12.0635
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 46.5985
+ -> snelheid: 14.896
+
+Tijd: 78.5
+Voertuig 1
+ -> baan: Middelheimlaan
+ -> positie: 197.49
+ -> snelheid: 11.3827
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 166.38
+ -> snelheid: 11.9298
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 121.884
+ -> snelheid: 13.3479
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 92.6259
+ -> snelheid: 12.2823
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 54.0105
+ -> snelheid: 14.7561
+
+Tijd: 79
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 503.182
+ -> snelheid: 11.386
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 172.374
+ -> snelheid: 12.1856
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 128.569
+ -> snelheid: 13.3917
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 98.817
+ -> snelheid: 12.4781
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 61.3584
+ -> snelheid: 14.6389
+
+Tijd: 79.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 508.876
+ -> snelheid: 11.3887
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 178.591
+ -> snelheid: 12.6791
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 135.277
+ -> snelheid: 13.4441
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 105.1
+ -> snelheid: 12.6523
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 68.6525
+ -> snelheid: 14.5404
+
+Tijd: 80
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 514.571
+ -> snelheid: 11.3909
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 185.178
+ -> snelheid: 13.1446
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 142.015
+ -> snelheid: 13.507
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 111.466
+ -> snelheid: 12.808
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 75.9014
+ -> snelheid: 14.4574
+
+Tijd: 80.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 520.267
+ -> snelheid: 11.3926
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 191.856
+ -> snelheid: 13.563
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 148.786
+ -> snelheid: 13.5787
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 117.906
+ -> snelheid: 12.9479
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 83.1121
+ -> snelheid: 14.3875
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 8.11012
+ -> snelheid: 16.505
+
+Tijd: 81
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 525.964
+ -> snelheid: 11.3941
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 198.735
+ -> snelheid: 13.9437
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 155.595
+ -> snelheid: 13.6571
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 124.412
+ -> snelheid: 13.0748
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 90.2907
+ -> snelheid: 14.3285
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 16.3413
+ -> snelheid: 16.4217
+
+Tijd: 81.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 531.661
+ -> snelheid: 11.3952
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 205.794
+ -> snelheid: 14.2872
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 162.444
+ -> snelheid: 13.74
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 130.979
+ -> snelheid: 13.1907
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 97.4423
+ -> snelheid: 14.2792
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 24.5337
+ -> snelheid: 16.3497
+
+Tijd: 82
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 537.359
+ -> snelheid: 11.3961
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 213.016
+ -> snelheid: 14.5948
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 169.335
+ -> snelheid: 13.8256
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 137.601
+ -> snelheid: 13.2977
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 104.571
+ -> snelheid: 14.2382
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 32.6925
+ -> snelheid: 16.2869
+
+Tijd: 82.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 543.057
+ -> snelheid: 11.3969
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 220.383
+ -> snelheid: 14.8681
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 176.27
+ -> snelheid: 13.9129
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 144.275
+ -> snelheid: 13.3971
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 111.682
+ -> snelheid: 14.2046
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 40.8218
+ -> snelheid: 16.2317
+
+Tijd: 83
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 548.756
+ -> snelheid: 11.3975
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 227.879
+ -> snelheid: 15.1094
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 183.248
+ -> snelheid: 13.9997
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 150.997
+ -> snelheid: 13.4902
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 118.777
+ -> snelheid: 14.1778
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 48.9252
+ -> snelheid: 16.1827
+
+Tijd: 83.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 554.454
+ -> snelheid: 11.398
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 235.487
+ -> snelheid: 15.3212
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 190.41
+ -> snelheid: 14.085
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 157.764
+ -> snelheid: 13.5779
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 125.86
+ -> snelheid: 14.157
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 57.0054
+ -> snelheid: 16.1388
+
+Tijd: 84
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 560.154
+ -> snelheid: 11.3984
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 243.195
+ -> snelheid: 15.5059
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 197.472
+ -> snelheid: 14.1653
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 164.574
+ -> snelheid: 13.6606
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 132.935
+ -> snelheid: 14.1418
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 65.0647
+ -> snelheid: 16.0992
+
+Tijd: 84.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 565.853
+ -> snelheid: 11.3987
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 504.562
+ -> snelheid: 14.1651
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 250.989
+ -> snelheid: 15.6663
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 171.453
+ -> snelheid: 13.9163
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 140.004
+ -> snelheid: 14.1373
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 73.1052
+ -> snelheid: 16.0631
+
+Tijd: 85
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 571.552
+ -> snelheid: 11.3989
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 511.633
+ -> snelheid: 14.1171
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 258.858
+ -> snelheid: 15.8049
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 178.494
+ -> snelheid: 14.2409
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 147.077
+ -> snelheid: 14.1597
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 81.1284
+ -> snelheid: 16.0304
+
+Tijd: 85.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 577.252
+ -> snelheid: 11.3991
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 518.678
+ -> snelheid: 14.0646
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 266.791
+ -> snelheid: 15.9242
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 185.833
+ -> snelheid: 14.5355
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 154.167
+ -> snelheid: 14.2036
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 89.1362
+ -> snelheid: 16.0012
+
+Voertuig 7
+ -> baan: Middelheimlaan
+ -> positie: 38.1861
+ -> snelheid: 61.5911
+
+Tijd: 86
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 582.951
+ -> snelheid: 11.3993
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 525.697
+ -> snelheid: 14.008
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 274.779
+ -> snelheid: 16.0265
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 193.166
+ -> snelheid: 14.7903
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 161.283
+ -> snelheid: 14.2634
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 97.1302
+ -> snelheid: 15.9754
+
+Voertuig 7
+ -> baan: Middelheimlaan
+ -> positie: 63.6533
+ -> snelheid: 41.9988
+
+Tijd: 86.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 588.651
+ -> snelheid: 11.3994
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 532.686
+ -> snelheid: 13.9473
+
+Voertuig 3
+ -> baan: Molenstraat
+ -> positie: 500.618
+ -> snelheid: 14.9692
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 282.815
+ -> snelheid: 16.1141
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 168.433
+ -> snelheid: 14.3527
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 105.112
+ -> snelheid: 15.9528
+
+Voertuig 7
+ -> baan: Middelheimlaan
+ -> positie: 81.4072
+ -> snelheid: 29.9369
+
+Tijd: 87
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 594.351
+ -> snelheid: 11.3995
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 539.643
+ -> snelheid: 13.8829
+
+Voertuig 3
+ -> baan: Molenstraat
+ -> positie: 508.022
+ -> snelheid: 14.6598
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 290.891
+ -> snelheid: 16.1887
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 175.683
+ -> snelheid: 14.6426
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 113.084
+ -> snelheid: 15.9372
+
+Voertuig 7
+ -> baan: Middelheimlaan
+ -> positie: 94.3454
+ -> snelheid: 22.4417
+
+Tijd: 87.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 600.051
+ -> snelheid: 11.3996
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 546.568
+ -> snelheid: 13.8149
+
+Voertuig 3
+ -> baan: Molenstraat
+ -> positie: 515.288
+ -> snelheid: 14.4141
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 299.002
+ -> snelheid: 16.2523
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 183.07
+ -> snelheid: 14.8988
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 121.051
+ -> snelheid: 15.9297
+
+Voertuig 7
+ -> baan: Middelheimlaan
+ -> positie: 104.37
+ -> snelheid: 18.0815
+
+Tijd: 88
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 605.75
+ -> snelheid: 11.3997
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 553.458
+ -> snelheid: 13.7435
+
+Voertuig 3
+ -> baan: Molenstraat
+ -> positie: 522.444
+ -> snelheid: 14.2154
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 307.142
+ -> snelheid: 16.3063
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 190.728
+ -> snelheid: 15.1281
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 129.015
+ -> snelheid: 15.9283
+
+Voertuig 7
+ -> baan: Middelheimlaan
+ -> positie: 112.764
+ -> snelheid: 15.7545
+
+Tijd: 88.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 611.45
+ -> snelheid: 11.3998
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 560.311
+ -> snelheid: 13.6689
+
+Voertuig 3
+ -> baan: Molenstraat
+ -> positie: 529.509
+ -> snelheid: 14.0518
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 315.307
+ -> snelheid: 16.3521
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 198.342
+ -> snelheid: 15.324
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 136.98
+ -> snelheid: 15.9315
+
+Voertuig 7
+ -> baan: Middelheimlaan
+ -> positie: 120.325
+ -> snelheid: 14.6376
+
+Tijd: 89
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 617.15
+ -> snelheid: 11.3998
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 567.126
+ -> snelheid: 13.5914
+
+Voertuig 3
+ -> baan: Molenstraat
+ -> positie: 536.5
+ -> snelheid: 13.9146
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 323.493
+ -> snelheid: 16.3909
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 206.047
+ -> snelheid: 15.494
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 144.947
+ -> snelheid: 15.938
+
+Voertuig 7
+ -> baan: Middelheimlaan
+ -> positie: 127.515
+ -> snelheid: 14.2086
+
+Tijd: 89.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 622.85
+ -> snelheid: 11.3998
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 573.902
+ -> snelheid: 13.5111
+
+Voertuig 3
+ -> baan: Molenstraat
+ -> positie: 543.427
+ -> snelheid: 13.7972
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 331.697
+ -> snelheid: 16.4238
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 213.832
+ -> snelheid: 15.6409
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 152.918
+ -> snelheid: 15.9469
+
+Voertuig 7
+ -> baan: Middelheimlaan
+ -> positie: 134.597
+ -> snelheid: 14.1646
+
+Tijd: 90
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 628.55
+ -> snelheid: 11.3999
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 580.637
+ -> snelheid: 13.4284
+
+Voertuig 3
+ -> baan: Molenstraat
+ -> positie: 550.3
+ -> snelheid: 13.6945
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 339.916
+ -> snelheid: 16.4515
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 221.685
+ -> snelheid: 15.7673
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 160.894
+ -> snelheid: 15.9577
+
+Voertuig 7
+ -> baan: Middelheimlaan
+ -> positie: 141.715
+ -> snelheid: 14.3311
+
+Tijd: 90.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 634.25
+ -> snelheid: 11.3999
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 587.33
+ -> snelheid: 13.3434
+
+Voertuig 3
+ -> baan: Molenstraat
+ -> positie: 557.123
+ -> snelheid: 13.6027
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 348.148
+ -> snelheid: 16.4749
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 229.596
+ -> snelheid: 15.8756
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 168.876
+ -> snelheid: 15.9695
+
+Voertuig 7
+ -> baan: Middelheimlaan
+ -> positie: 148.946
+ -> snelheid: 14.6044
+
+Voertuig 8
+ -> baan: Middelheimlaan
+ -> positie: 8.12738
+ -> snelheid: 16.574
+
+Tijd: 91
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 639.95
+ -> snelheid: 11.3999
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 593.98
+ -> snelheid: 13.2566
+
+Voertuig 3
+ -> baan: Molenstraat
+ -> positie: 563.904
+ -> snelheid: 13.5188
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 354.72
+ -> snelheid: 10.0002
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 237.554
+ -> snelheid: 15.939
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 176.864
+ -> snelheid: 15.9814
+
+Voertuig 7
+ -> baan: Middelheimlaan
+ -> positie: 156.326
+ -> snelheid: 14.9198
+
+Voertuig 8
+ -> baan: Middelheimlaan
+ -> positie: 16.409
+ -> snelheid: 16.5533
+
+Tijd: 91.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 645.65
+ -> snelheid: 11.3999
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 600.586
+ -> snelheid: 13.1682
+
+Voertuig 3
+ -> baan: Molenstraat
+ -> positie: 570.643
+ -> snelheid: 13.4403
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 359.874
+ -> snelheid: 10.6132
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 245.53
+ -> snelheid: 15.9646
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 184.857
+ -> snelheid: 15.9921
+
+Voertuig 7
+ -> baan: Middelheimlaan
+ -> positie: 163.865
+ -> snelheid: 15.2358
+
+Voertuig 8
+ -> baan: Middelheimlaan
+ -> positie: 24.6815
+ -> snelheid: 16.5377
+
+Tijd: 92
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 651.35
+ -> snelheid: 11.3999
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 607.148
+ -> snelheid: 13.0787
+
+Voertuig 3
+ -> baan: Molenstraat
+ -> positie: 577.344
+ -> snelheid: 13.3654
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 365.329
+ -> snelheid: 11.199
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 253.518
+ -> snelheid: 15.9899
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 193.015
+ -> snelheid: 16.0012
+
+Voertuig 7
+ -> baan: Middelheimlaan
+ -> positie: 171.557
+ -> snelheid: 15.5253
+
+Voertuig 8
+ -> baan: Middelheimlaan
+ -> positie: 32.9473
+ -> snelheid: 16.5261
+
+Tijd: 92.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 657.05
+ -> snelheid: 11.4
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 613.665
+ -> snelheid: 12.9884
+
+Voertuig 3
+ -> baan: Molenstraat
+ -> positie: 584.009
+ -> snelheid: 13.2926
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 371.068
+ -> snelheid: 11.7545
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 261.519
+ -> snelheid: 16.015
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 201.018
+ -> snelheid: 16.0091
+
+Voertuig 7
+ -> baan: Middelheimlaan
+ -> positie: 179.383
+ -> snelheid: 15.772
+
+Voertuig 8
+ -> baan: Middelheimlaan
+ -> positie: 41.2082
+ -> snelheid: 16.5178
+
+Tijd: 93
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 662.75
+ -> snelheid: 11.4
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 620.136
+ -> snelheid: 12.8978
+
+Voertuig 3
+ -> baan: Molenstraat
+ -> positie: 590.637
+ -> snelheid: 13.221
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 377.078
+ -> snelheid: 12.2768
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 269.533
+ -> snelheid: 16.04
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 209.024
+ -> snelheid: 16.0163
+
+Voertuig 7
+ -> baan: Middelheimlaan
+ -> positie: 187.48
+ -> snelheid: 15.9709
+
+Voertuig 8
+ -> baan: Middelheimlaan
+ -> positie: 49.4656
+ -> snelheid: 16.512
+
+Tijd: 93.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 668.45
+ -> snelheid: 11.4
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 626.563
+ -> snelheid: 12.8073
+
+Voertuig 3
+ -> baan: Molenstraat
+ -> positie: 597.23
+ -> snelheid: 13.1495
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 383.339
+ -> snelheid: 12.7638
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 277.559
+ -> snelheid: 16.0648
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 217.034
+ -> snelheid: 16.023
+
+Voertuig 7
+ -> baan: Middelheimlaan
+ -> positie: 195.503
+ -> snelheid: 16.1122
+
+Voertuig 8
+ -> baan: Middelheimlaan
+ -> positie: 57.7205
+ -> snelheid: 16.5079
+
+Tijd: 94
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 674.15
+ -> snelheid: 11.4
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 632.944
+ -> snelheid: 12.7174
+
+Voertuig 3
+ -> baan: Molenstraat
+ -> positie: 603.787
+ -> snelheid: 13.0777
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 389.835
+ -> snelheid: 13.2138
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 285.598
+ -> snelheid: 16.0894
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 225.047
+ -> snelheid: 16.0291
+
+Voertuig 7
+ -> baan: Middelheimlaan
+ -> positie: 203.584
+ -> snelheid: 16.2036
+
+Voertuig 8
+ -> baan: Middelheimlaan
+ -> positie: 65.9737
+ -> snelheid: 16.5051
+
+Tijd: 94.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 679.85
+ -> snelheid: 11.4
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 639.28
+ -> snelheid: 12.6285
+
+Voertuig 3
+ -> baan: Molenstraat
+ -> positie: 610.308
+ -> snelheid: 13.0052
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 396.547
+ -> snelheid: 13.6262
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 293.649
+ -> snelheid: 16.1134
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 233.063
+ -> snelheid: 16.0349
+
+Voertuig 7
+ -> baan: Middelheimlaan
+ -> positie: 211.7
+ -> snelheid: 16.2517
+
+Voertuig 8
+ -> baan: Middelheimlaan
+ -> positie: 74.2256
+ -> snelheid: 16.503
+
+Tijd: 95
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 685.55
+ -> snelheid: 11.4
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 645.573
+ -> snelheid: 12.5411
+
+Voertuig 3
+ -> baan: Molenstraat
+ -> positie: 616.792
+ -> snelheid: 12.9317
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 301.715
+ -> snelheid: 16.1632
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 241.082
+ -> snelheid: 16.0405
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 219.83
+ -> snelheid: 16.2652
+
+Voertuig 7
+ -> baan: Middelheimlaan
+ -> positie: 82.4767
+ -> snelheid: 16.5014
+
+Tijd: 95.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 691.25
+ -> snelheid: 11.4
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 651.822
+ -> snelheid: 12.4556
+
+Voertuig 3
+ -> baan: Molenstraat
+ -> positie: 623.239
+ -> snelheid: 12.8573
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 309.813
+ -> snelheid: 16.2306
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 249.104
+ -> snelheid: 16.047
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 227.961
+ -> snelheid: 16.254
+
+Voertuig 7
+ -> baan: Middelheimlaan
+ -> positie: 90.7271
+ -> snelheid: 16.5
+
+Voertuig 8
+ -> baan: Middelheimlaan
+ -> positie: 8.12253
+ -> snelheid: 16.5546
+
+Tijd: 96
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 696.95
+ -> snelheid: 11.4
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 658.028
+ -> snelheid: 12.3724
+
+Voertuig 3
+ -> baan: Molenstraat
+ -> positie: 629.649
+ -> snelheid: 12.7819
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 317.943
+ -> snelheid: 16.2879
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 257.129
+ -> snelheid: 16.0541
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 236.081
+ -> snelheid: 16.2272
+
+Voertuig 7
+ -> baan: Middelheimlaan
+ -> positie: 98.9768
+ -> snelheid: 16.4988
+
+Voertuig 8
+ -> baan: Middelheimlaan
+ -> positie: 16.3899
+ -> snelheid: 16.5163
+
+Tijd: 96.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 664.224
+ -> snelheid: 12.5329
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 636.022
+ -> snelheid: 12.7147
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 326.1
+ -> snelheid: 16.3365
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 265.158
+ -> snelheid: 16.0616
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 244.187
+ -> snelheid: 16.1932
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 107.226
+ -> snelheid: 16.4975
+
+Voertuig 7
+ -> baan: Middelheimlaan
+ -> positie: 24.6399
+ -> snelheid: 16.4846
+
+Tijd: 97
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 670.59
+ -> snelheid: 12.9253
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 642.374
+ -> snelheid: 12.7053
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 334.279
+ -> snelheid: 16.3777
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 273.191
+ -> snelheid: 16.0692
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 252.274
+ -> snelheid: 16.1582
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 115.474
+ -> snelheid: 16.4962
+
+Voertuig 7
+ -> baan: Middelheimlaan
+ -> positie: 32.8755
+ -> snelheid: 16.4584
+
+Tijd: 97.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 677.142
+ -> snelheid: 13.2777
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 648.735
+ -> snelheid: 12.7477
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 342.477
+ -> snelheid: 16.4126
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 281.227
+ -> snelheid: 16.0767
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 260.345
+ -> snelheid: 16.1267
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 123.722
+ -> snelheid: 16.495
+
+Voertuig 7
+ -> baan: Middelheimlaan
+ -> positie: 41.0991
+ -> snelheid: 16.4367
+
+Tijd: 98
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 683.861
+ -> snelheid: 13.5913
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 655.128
+ -> snelheid: 12.828
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 350.69
+ -> snelheid: 16.442
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 289.268
+ -> snelheid: 16.0841
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 268.402
+ -> snelheid: 16.1014
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 131.969
+ -> snelheid: 16.4937
+
+Voertuig 7
+ -> baan: Middelheimlaan
+ -> positie: 49.3128
+ -> snelheid: 16.4188
+
+Tijd: 98.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 690.727
+ -> snelheid: 13.8679
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 661.568
+ -> snelheid: 12.9349
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 358.918
+ -> snelheid: 16.4669
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 297.311
+ -> snelheid: 16.0913
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 276.448
+ -> snelheid: 16.0835
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 140.216
+ -> snelheid: 16.4925
+
+Voertuig 7
+ -> baan: Middelheimlaan
+ -> positie: 57.5184
+ -> snelheid: 16.4039
+
+Tijd: 99
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 697.723
+ -> snelheid: 14.1101
+
+Voertuig 2
+ -> baan: Molenstraat
+ -> positie: 668.066
+ -> snelheid: 13.0592
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 367.157
+ -> snelheid: 16.4879
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 305.359
+ -> snelheid: 16.0983
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 284.487
+ -> snelheid: 16.0729
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 148.462
+ -> snelheid: 16.4913
+
+Voertuig 7
+ -> baan: Middelheimlaan
+ -> positie: 65.7172
+ -> snelheid: 16.3917
+
+Tijd: 99.5
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 674.663
+ -> snelheid: 13.3927
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 375.405
+ -> snelheid: 16.5057
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 313.41
+ -> snelheid: 16.1049
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 292.522
+ -> snelheid: 16.0691
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 156.707
+ -> snelheid: 16.4902
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 73.9104
+ -> snelheid: 16.3815
+
+Tijd: 100
+Voertuig 1
+ -> baan: Molenstraat
+ -> positie: 681.46
+ -> snelheid: 13.7891
+
+Voertuig 2
+ -> baan: Middelheimlaan
+ -> positie: 383.662
+ -> snelheid: 16.5206
+
+Voertuig 3
+ -> baan: Middelheimlaan
+ -> positie: 321.464
+ -> snelheid: 16.1113
+
+Voertuig 4
+ -> baan: Middelheimlaan
+ -> positie: 300.557
+ -> snelheid: 16.0708
+
+Voertuig 5
+ -> baan: Middelheimlaan
+ -> positie: 164.952
+ -> snelheid: 16.4893
+
+Voertuig 6
+ -> baan: Middelheimlaan
+ -> positie: 82.099
+ -> snelheid: 16.3731
+

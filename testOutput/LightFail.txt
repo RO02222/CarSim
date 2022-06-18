@@ -1,0 +1,2 @@
+Failed to add light: position is not on the road
+Failed to add light: position is not on the road

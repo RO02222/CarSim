@@ -1,0 +1,10 @@
+[Figure0]
+type = "Cylinder"
+height = 10
+scale = 0.4
+rotateX = 0
+rotateY = -90
+rotateZ = 0
+center = (0, 0, 0)
+n = 15
+color = (0.9, 0.9, 0.0)

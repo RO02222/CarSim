@@ -1,0 +1,24 @@
+[Figure
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0, -2, 0)
+color = (1, 1, 0)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.0, 0.333)
+point1 = (-1.366, -1.33, 0.333)
+point2 = (-1.366, -1.33, 1)
+point3 = (-1.366, 0.666, 1)
+point4 = (-1.333, 0.666, 0.333)
+point5 = (-1.333, -1.33, 0.333)
+point6 = (-1.333, -1.33, 1)
+point7 = (-1.333, 0.666, 1)
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)

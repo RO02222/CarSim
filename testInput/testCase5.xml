@@ -1,0 +1,684 @@
+<World>
+    <BAAN>
+        <lengte>1500</lengte>
+        <naam>straat1</naam>
+    </BAAN>
+
+    <BAAN>
+        <lengte>370</lengte>
+        <naam>straat2</naam>
+    </BAAN>
+
+    <BAAN>
+        <lengte>500</lengte>
+        <naam>straat3</naam>
+    </BAAN>
+
+    <BAAN>
+        <lengte>900</lengte>
+        <naam>straat4</naam>
+    </BAAN>
+
+    <BAAN>
+        <lengte>400</lengte>
+        <naam>straat5</naam>
+    </BAAN>
+
+    <BAAN>
+        <lengte>400</lengte>
+        <naam>straat6</naam>
+    </BAAN>
+
+    <BAAN>
+        <lengte>50</lengte>
+        <naam>straat7</naam>
+    </BAAN>
+
+    <BAAN>
+        <lengte>365</lengte>
+        <naam>straat8</naam>
+    </BAAN>
+
+    <BAAN>
+        <lengte>999</lengte>
+        <naam>straat9</naam>
+    </BAAN>
+
+    <BAAN>
+        <lengte>3654</lengte>
+        <naam>straat10</naam>
+    </BAAN>
+
+    <BAAN>
+        <lengte>200</lengte>
+        <naam>straat11</naam>
+    </BAAN>
+
+    <BAAN>
+        <lengte>200</lengte>
+        <naam>straat12</naam>
+    </BAAN>
+
+    <VOERTUIG>
+        <baan>straat11</baan>
+        <positie>0</positie>
+        <type>bugatti</type>
+    </VOERTUIG>
+
+    <VOERTUIG>
+        <baan>straat12</baan>
+        <positie>0</positie>
+        <type>bugatti</type>
+    </VOERTUIG>
+
+    <VERKEERSLICHT>
+        <cyclus>2</cyclus>
+        <baan>straat1</baan>
+        <positie>30</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>4</cyclus>
+        <baan>straat1</baan>
+        <positie>100</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>3</cyclus>
+        <baan>straat1</baan>
+        <positie>150</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>6</cyclus>
+        <baan>straat1</baan>
+        <positie>300</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>5</cyclus>
+        <baan>straat1</baan>
+        <positie>700</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>3</cyclus>
+        <baan>straat1</baan>
+        <positie>963</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>1</cyclus>
+        <baan>straat1</baan>
+        <positie>1134</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>9</cyclus>
+        <baan>straat1</baan>
+        <positie>1365</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>5</cyclus>
+        <baan>straat2</baan>
+        <positie>39</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>3</cyclus>
+        <baan>straat2</baan>
+        <positie>160</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>2</cyclus>
+        <baan>straat2</baan>
+        <positie>234</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>6</cyclus>
+        <baan>straat3</baan>
+        <positie>160</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>3</cyclus>
+        <baan>straat3</baan>
+        <positie>237</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>4</cyclus>
+        <baan>straat3</baan>
+        <positie>368</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>16</cyclus>
+        <baan>straat3</baan>
+        <positie>489</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>5</cyclus>
+        <baan>straat4</baan>
+        <positie>36</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>6</cyclus>
+        <baan>straat4</baan>
+        <positie>167</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>3</cyclus>
+        <baan>straat4</baan>
+        <positie>258</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>4</cyclus>
+        <baan>straat4</baan>
+        <positie>368</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>7</cyclus>
+        <baan>straat4</baan>
+        <positie>634</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>8</cyclus>
+        <baan>straat4</baan>
+        <positie>860</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>3</cyclus>
+        <baan>straat5</baan>
+        <positie>15</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>9</cyclus>
+        <baan>straat5</baan>
+        <positie>263</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>1</cyclus>
+        <baan>straat5</baan>
+        <positie>378</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>16</cyclus>
+        <baan>straat6</baan>
+        <positie>38</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>6</cyclus>
+        <baan>straat6</baan>
+        <positie>187</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>4</cyclus>
+        <baan>straat6</baan>
+        <positie>289</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>6</cyclus>
+        <baan>straat6</baan>
+        <positie>368</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>3</cyclus>
+        <baan>straat7</baan>
+        <positie>25</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>9</cyclus>
+        <baan>straat8</baan>
+        <positie>16</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>3</cyclus>
+        <baan>straat8</baan>
+        <positie>76</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>13</cyclus>
+        <baan>straat8</baan>
+        <positie>164</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>6</cyclus>
+        <baan>straat8</baan>
+        <positie>330</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>8</cyclus>
+        <baan>straat9</baan>
+        <positie>27</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>4</cyclus>
+        <baan>straat9</baan>
+        <positie>92</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>7</cyclus>
+        <baan>straat9</baan>
+        <positie>176</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>8</cyclus>
+        <baan>straat9</baan>
+        <positie>246</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>3</cyclus>
+        <baan>straat9</baan>
+        <positie>361</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>5</cyclus>
+        <baan>straat9</baan>
+        <positie>571</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>9</cyclus>
+        <baan>straat9</baan>
+        <positie>731</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>1</cyclus>
+        <baan>straat9</baan>
+        <positie>888</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>16</cyclus>
+        <baan>straat9</baan>
+        <positie>999</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>4</cyclus>
+        <baan>straat10</baan>
+        <positie>15</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>6</cyclus>
+        <baan>straat10</baan>
+        <positie>69</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>4</cyclus>
+        <baan>straat10</baan>
+        <positie>146</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>6</cyclus>
+        <baan>straat10</baan>
+        <positie>231</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>3</cyclus>
+        <baan>straat10</baan>
+        <positie>367</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>9</cyclus>
+        <baan>straat10</baan>
+        <positie>578</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>1</cyclus>
+        <baan>straat10</baan>
+        <positie>642</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>16</cyclus>
+        <baan>straat10</baan>
+        <positie>736</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>4</cyclus>
+        <baan>straat10</baan>
+        <positie>1320</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>6</cyclus>
+        <baan>straat10</baan>
+        <positie>1534</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>4</cyclus>
+        <baan>straat10</baan>
+        <positie>1746</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>6</cyclus>
+        <baan>straat10</baan>
+        <positie>1965</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>3</cyclus>
+        <baan>straat10</baan>
+        <positie>2062</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>8</cyclus>
+        <baan>straat10</baan>
+        <positie>2360</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>5</cyclus>
+        <baan>straat10</baan>
+        <positie>2498</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>1</cyclus>
+        <baan>straat10</baan>
+        <positie>2643</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>6</cyclus>
+        <baan>straat10</baan>
+        <positie>2843</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>3</cyclus>
+        <baan>straat10</baan>
+        <positie>3065</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>7</cyclus>
+        <baan>straat10</baan>
+        <positie>3241</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>3</cyclus>
+        <baan>straat10</baan>
+        <positie>3541</positie>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <cyclus>3</cyclus>
+        <baan>straat10</baan>
+        <positie>3653</positie>
+    </VERKEERSLICHT>
+
+    <VOERTUIGGENERATOR>
+        <frequentie>5</frequentie>
+        <baan>straat1</baan>
+        <type>auto</type>
+    </VOERTUIGGENERATOR>
+
+    <VOERTUIGGENERATOR>
+        <frequentie>8</frequentie>
+        <baan>straat2</baan>
+        <type>bus</type>
+    </VOERTUIGGENERATOR>
+
+    <VOERTUIGGENERATOR>
+        <frequentie>3</frequentie>
+        <baan>straat3</baan>
+        <type>politiewagen</type>
+    </VOERTUIGGENERATOR>
+
+    <VOERTUIGGENERATOR>
+        <frequentie>6</frequentie>
+        <baan>straat4</baan>
+        <type>ambulance</type>
+    </VOERTUIGGENERATOR>
+
+    <VOERTUIGGENERATOR>
+        <frequentie>4</frequentie>
+        <baan>straat5</baan>
+        <type>brandweerwagen</type>
+    </VOERTUIGGENERATOR>
+
+    <VOERTUIGGENERATOR>
+        <frequentie>9</frequentie>
+        <baan>straat6</baan>
+        <type>bugatti</type>
+    </VOERTUIGGENERATOR>
+
+    <VOERTUIGGENERATOR>
+        <frequentie>3</frequentie>
+        <baan>straat7</baan>
+        <type>random</type>
+    </VOERTUIGGENERATOR>
+
+    <VOERTUIGGENERATOR>
+        <frequentie>12</frequentie>
+        <baan>straat8</baan>
+        <type>random</type>
+    </VOERTUIGGENERATOR>
+
+    <VOERTUIGGENERATOR>
+        <frequentie>7</frequentie>
+        <baan>straat9</baan>
+        <type>random</type>
+    </VOERTUIGGENERATOR>
+
+    <VOERTUIGGENERATOR>
+        <frequentie>6</frequentie>
+        <baan>straat10</baan>
+        <type>random</type>
+    </VOERTUIGGENERATOR>
+
+    <BUSHALTE>
+        <baan>straat1</baan>
+        <positie>200</positie>
+        <wachttijd>4</wachttijd>
+    </BUSHALTE>
+
+    <BUSHALTE>
+        <baan>straat1</baan>
+        <positie>500</positie>
+        <wachttijd>8</wachttijd>
+    </BUSHALTE>
+
+    <BUSHALTE>
+        <baan>straat1</baan>
+        <positie>850</positie>
+        <wachttijd>2</wachttijd>
+    </BUSHALTE>
+
+    <BUSHALTE>
+        <baan>straat2</baan>
+        <positie>100</positie>
+        <wachttijd>6</wachttijd>
+    </BUSHALTE>
+
+    <BUSHALTE>
+        <baan>straat3</baan>
+        <positie>300</positie>
+        <wachttijd>4</wachttijd>
+    </BUSHALTE>
+
+    <BUSHALTE>
+        <baan>straat3</baan>
+        <positie>423</positie>
+        <wachttijd>4</wachttijd>
+    </BUSHALTE>
+
+    <BUSHALTE>
+        <baan>straat4</baan>
+        <positie>110</positie>
+        <wachttijd>2</wachttijd>
+    </BUSHALTE>
+
+    <BUSHALTE>
+        <baan>straat4</baan>
+        <positie>308</positie>
+        <wachttijd>5</wachttijd>
+    </BUSHALTE>
+
+    <BUSHALTE>
+        <baan>straat4</baan>
+        <positie>768</positie>
+        <wachttijd>5</wachttijd>
+    </BUSHALTE>
+
+    <BUSHALTE>
+        <baan>straat5</baan>
+        <positie>160</positie>
+        <wachttijd>7</wachttijd>
+    </BUSHALTE>
+
+    <BUSHALTE>
+        <baan>straat8</baan>
+        <positie>278</positie>
+        <wachttijd>4</wachttijd>
+    </BUSHALTE>
+
+    <BUSHALTE>
+        <baan>straat9</baan>
+        <positie>300</positie>
+        <wachttijd>4</wachttijd>
+    </BUSHALTE>
+
+    <BUSHALTE>
+        <baan>straat9</baan>
+        <positie>630</positie>
+        <wachttijd>5</wachttijd>
+    </BUSHALTE>
+
+    <BUSHALTE>
+        <baan>straat9</baan>
+        <positie>780</positie>
+        <wachttijd>5</wachttijd>
+    </BUSHALTE>
+
+    <BUSHALTE>
+        <baan>straat10</baan>
+        <positie>285</positie>
+        <wachttijd>5</wachttijd>
+    </BUSHALTE>
+
+    <BUSHALTE>
+        <baan>straat10</baan>
+        <positie>153</positie>
+        <wachttijd>5</wachttijd>
+    </BUSHALTE>
+
+    <BUSHALTE>
+        <baan>straat10</baan>
+        <positie>930</positie>
+        <wachttijd>5</wachttijd>
+    </BUSHALTE>
+
+    <BUSHALTE>
+        <baan>straat10</baan>
+        <positie>2140</positie>
+        <wachttijd>5</wachttijd>
+    </BUSHALTE>
+
+    <BUSHALTE>
+        <baan>straat10</baan>
+        <positie>3400</positie>
+        <wachttijd>5</wachttijd>
+    </BUSHALTE>
+
+    <KRUISPUNT>
+        <baan positie="250">straat1</baan>
+        <baan positie="100">straat2</baan>
+    </KRUISPUNT>
+
+    <KRUISPUNT>
+        <baan positie="400">straat1</baan>
+        <baan positie="420">straat3</baan>
+    </KRUISPUNT>
+
+    <KRUISPUNT>
+        <baan positie="500">straat1</baan>
+        <baan positie="100">straat4</baan>
+    </KRUISPUNT>
+
+    <KRUISPUNT>
+        <baan positie="600">straat1</baan>
+        <baan positie="230">straat8</baan>
+    </KRUISPUNT>
+
+    <KRUISPUNT>
+        <baan positie="98">straat5</baan>
+        <baan positie="800">straat9</baan>
+    </KRUISPUNT>
+
+    <KRUISPUNT>
+        <baan positie="238">straat6</baan>
+        <baan positie="420">straat9</baan>
+    </KRUISPUNT>
+
+    <KRUISPUNT>
+        <baan positie="328">straat5</baan>
+        <baan positie="500">straat4</baan>
+    </KRUISPUNT>
+
+    <KRUISPUNT>
+        <baan positie="550">straat1</baan>
+        <baan positie="289">straat2</baan>
+        <baan positie="73">straat3</baan>
+        <baan positie="810">straat4</baan>
+        <baan positie="213">straat5</baan>
+        <baan positie="328">straat6</baan>
+        <baan positie="280">straat8</baan>
+        <baan positie="650">straat9</baan>
+        <baan positie="1400">straat10</baan>
+    </KRUISPUNT>
+
+    <KRUISPUNT>
+        <baan positie="200">straat11</baan>
+        <baan positie="0">straat12</baan>
+    </KRUISPUNT>
+
+    <KRUISPUNT>
+        <baan positie="0">straat11</baan>
+        <baan positie="200">straat12</baan>
+    </KRUISPUNT>
+
+
+</World>

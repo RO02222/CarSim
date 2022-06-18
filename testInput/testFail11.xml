@@ -1,0 +1,36 @@
+<World>
+    <BAAN>
+        <naam>Middelheimlaan</naam>
+        <lengte>400</lengte>
+    </BAAN>
+
+    <VERKEERSLICHT>
+        <baan>Kerkstraat</baan>
+        <positie>400</positie>
+        <cyclus>20</cyclus>
+    </VERKEERSLICHT>
+
+    <VOERTUIG>
+        <baan>Kerkstraat</baan>
+        <positie>40</positie>
+        <type>auto</type>
+    </VOERTUIG>
+
+    <VOERTUIG>
+        <baan>Kerkstraat</baan>
+        <positie>20</positie>
+        <type>auto</type>
+    </VOERTUIG>
+
+    <VOERTUIGGENERATOR>
+        <baan>Kerkstraat</baan>
+        <frequentie>5</frequentie>
+    </VOERTUIGGENERATOR>
+
+    <BUSHALTE>
+        <baan>Kerkstraat</baan>
+        <positie>35</positie>
+        <wachttijd>4</wachttijd>
+    </BUSHALTE>
+
+</World>

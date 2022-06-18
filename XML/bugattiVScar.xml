@@ -1,0 +1,30 @@
+<World>
+    <BAAN>
+        <naam>BugattiForTheWin</naam>
+        <lengte>2000</lengte>
+    </BAAN>
+
+    <BAAN>
+        <naam>CarsGoCry</naam>
+        <lengte>2000</lengte>
+    </BAAN>
+
+    <VOERTUIG>
+        <baan>BugattiForTheWin</baan>
+        <positie>0</positie>
+        <type>bugatti</type>
+    </VOERTUIG>
+
+    <VOERTUIG>
+    <baan>BugattiForTheWin</baan>
+    <positie>1000</positie>
+    <type>bus</type>
+    </VOERTUIG>
+
+    <VOERTUIG>
+        <baan>CarsGoCry</baan>
+        <positie>0</positie>
+        <type>auto</type>
+    </VOERTUIG>
+
+</World>

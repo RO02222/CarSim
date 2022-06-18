@@ -1,0 +1,6 @@
+[General]
+size = 2048
+backgroundcolor = (0, 0, 0)
+type = "ZBuffering"
+eye = (-100, 0, -200)
+nrFigures =

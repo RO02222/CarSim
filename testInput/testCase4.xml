@@ -1,0 +1,36 @@
+<World>
+    <BAAN>
+        <naam>Kerkstraat</naam>
+        <lengte>500</lengte>
+    </BAAN>
+
+    <VERKEERSLICHT>
+        <baan>Kerkstraat</baan>
+        <positie>250</positie>
+        <cyclus>9</cyclus>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <baan>Kerkstraat</baan>
+        <positie>100</positie>
+        <cyclus>4</cyclus>
+    </VERKEERSLICHT>
+
+    <VOERTUIG>
+        <baan>Kerkstraat</baan>
+        <positie>100</positie>
+        <type>auto</type>
+    </VOERTUIG>
+
+    <VOERTUIG>
+        <baan>Kerkstraat</baan>
+        <positie>20</positie>
+        <type>ambulance</type>
+    </VOERTUIG>
+
+    <VOERTUIGGENERATOR>
+        <baan>Kerkstraat</baan>
+        <frequentie>3</frequentie>
+    </VOERTUIGGENERATOR>
+
+</World>

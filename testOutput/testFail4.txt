@@ -1,0 +1,2 @@
+Failed to load file: invalid <VERKEERSLICHT> : 'cannot add <VERKEERSLICHT>
+Failed to load file: invalid <VOERTUIG> : cannot add car to the road

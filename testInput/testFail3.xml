@@ -1,0 +1,29 @@
+<World>
+    <BAAN>
+        <naam>Middelheimlaan</naam>
+    </BAAN>
+
+    <VERKEERSLICHT>
+        <baan>Middelheimlaan</baan>
+        <positie>400</positie>
+        <cyclus>20</cyclus>
+    </VERKEERSLICHT>
+
+    <VOERTUIG>
+        <baan>Middelheimlaan</baan>
+        <positie>40</positie>
+        <type>politiewagen</type>
+    </VOERTUIG>
+
+    <VOERTUIG>
+        <baan>Middelheimlaan</baan>
+        <positie>20</positie>
+        <type>brandweerwagen</type>
+    </VOERTUIG>
+
+    <VOERTUIGGENERATOR>
+        <baan>Middelheimlaan</baan>
+        <frequentie>5</frequentie>
+    </VOERTUIGGENERATOR>
+
+</World>
