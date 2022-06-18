@@ -303,6 +303,7 @@ void World::setJunctions(const std::vector<Junction *> & junction) {
 
 void World::addJunction(std::vector<std::pair<Road* , double> > road) {
     REQUIRE(this->properlyInitialized(), "World wasn't initialized when calling addJuction");
+    ENSURE(isValidToAddJunction(road),"Junction is on a invalid position");
     Junction* j = new Junction(road, &error);
     junctions.push_back(j);
     ENSURE(junctions[junctions.size()-1] == j, "Junction is not added");
@@ -365,29 +366,21 @@ bool World::isValid() const{
     return true;
 }
 
-bool World::isValidToAddJunction (std::vector<std::pair<Road*,double> > r) const {
-    /*
-    std::vector<Junction*> junction = junctions;
+bool World::isValidToAddJunction (std::vector<std::pair<Road*,double> >& r) const {
     for (std::vector<std::pair<Road*,double> >::iterator itR = r.begin(); itR != r.end(); itR++){
-
-
-        for (std::vector<Junction*>::iterator itJ = junction.begin(); itJ != junction.end(); itJ++){
-            std::vector<std::pair<Road*,double> > r2 = (*itJ)->getRoads();
-            for (std::vector<std::pair<Road*,double> >::iterator itR2 = r2.begin(); itR2 != r2.end(); itR2++){
-                if((*itR) == (*itR2)){
-
-                }
+        if (itR->second < 0 or itR->second > itR->first->getLength()){
+            return false;
+        }
+        std::vector<std::pair<Junction*,double*> >junc = itR->first->getJunctions();
+        for (std::vector<std::pair<Junction*,double*> >::iterator itJ = junc.begin(); itJ != junc.end(); itJ++ ){
+            if (abs(*itJ->second - (itR->second)) > gBreakDistance) {
+                return false;
             }
         }
     }
-
-
     if (!properlyInitialized()){
         return false;
     }
-    if (time < 0){
-        return false;
-    }*/
     return true;
 }
 
