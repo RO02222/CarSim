@@ -383,9 +383,6 @@ bool World::isValidToAddJunction (std::vector<std::pair<Road*,double> >& r) cons
     if (!properlyInitialized()){
         return false;
     }
-    if (time < 0){
-        return false;
-    }
     return true;
 }
 
