@@ -378,8 +378,6 @@ bool World::isValidToAddJunction (std::vector<std::pair<Road*,double> >& r) cons
             }
         }
     }
-
-
     if (!properlyInitialized()){
         return false;
     }
