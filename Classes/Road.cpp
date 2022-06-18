@@ -1,8 +1,8 @@
 //============================================================================
-// Name        : Car_SimDomainTest.cpp
-// Date        : 19/03/2022
+// Name        : Road.cpp
+// Date        : 18/06/2022
 // Authors     : Simon Olivier & Robbe Teughels
-// Version     : 1
+// Version     : 4
 //============================================================================
 
 #include <cmath>
@@ -205,18 +205,14 @@ void Road::setLength(double l) {
 
 const std::vector<Light *> &Road::getLights() {
     REQUIRE(this->properlyInitialized(), "Road wasn't initialized when calling getLights");
-    for(unsigned int i=0; i<lights.size(); i++){
-        ENSURE(lights[i]->properlyInitialized(), "Light is not initialised");
-    }
+    ENSURE(lightsProperly(lights) == true, "A Light is not initialised");
     return lights;
 }
 
 
 void Road::setLights(const std::vector<Light *> &l) {
     REQUIRE(this->properlyInitialized(), "Road wasn't initialized when calling setLights");
-    for(unsigned int i=0; i<l.size(); i++){
-        REQUIRE(l[i]->properlyInitialized(), "Light is not initialised");
-    }
+    REQUIRE(lightsProperly(l) == true, "Light is not initialised");
     Road::lights = l;
     ENSURE(lights == l,"Lights hasn't changed");
 }
@@ -224,18 +220,14 @@ void Road::setLights(const std::vector<Light *> &l) {
 
 const std::vector<Car *> &Road::getCars() {
     REQUIRE(this->properlyInitialized(), "Road wasn't initialized when calling getCars");
-    for(unsigned int i=0; i<cars.size(); i++){
-        ENSURE(cars[i]->properlyInitialized(), "Light is not initialised");
-    }
+    ENSURE(carsProperly(cars), "A car is not initialised");
     return cars;
 }
 
 
 void Road::setCars(const std::vector<Car *> &c) {
     REQUIRE(this->properlyInitialized(), "Road wasn't initialized when calling setCars");
-    for(unsigned int i=0; i<c.size(); i++){
-        REQUIRE(c[i]->properlyInitialized(), "Light is not initialised");
-    }
+    REQUIRE(carsProperly(c), "A car is not initialised");
     Road::cars = c;
     ENSURE(cars == c,"Cars hasn't changed");
 }
@@ -243,36 +235,28 @@ void Road::setCars(const std::vector<Car *> &c) {
 
 const std::vector<CarGen *> &Road::getCarGen()  {
     REQUIRE(this->properlyInitialized(), "Road wasn't initialized when calling getCarGen");
-    for(unsigned int i=0; i<carGen.size(); i++){
-        ENSURE(carGen[i]->properlyInitialized(), "CarGen is not initialised");
-    }
+    ENSURE(carGenProperly(carGen), "CarGen is not initialised");
     return carGen;
 }
 
 
 void Road::setCarGen(const std::vector<CarGen *> &carGens) {
     REQUIRE(this->properlyInitialized(), "Road wasn't initialized when calling setCarGen");
-    for(unsigned int i=0; i<carGens.size(); i++){
-        REQUIRE(carGens[i]->properlyInitialized(), "CarGen is not initialised");
-    }
+    REQUIRE(carGenProperly(carGens), "CarGen is not initialised");
     Road::carGen = carGens;
     ENSURE(Road::carGen == carGens,"carGen hasn't changed");
 }
 
 const std::vector<BusStop *> &Road::getBusStops() {
     REQUIRE(this->properlyInitialized(), "Road wasn't initialized when calling getBusStops");
-    for(unsigned int i=0; i<busStops.size(); i++){
-        ENSURE(busStops[i]->properlyInitialized(), "Light is not initialised");
-    }
+    ENSURE(busStopProperly(busStops), "A busstop is not initialised");
     return busStops;
 }
 
 
 void Road::setbusStops(const std::vector<BusStop *> &BusStops) {
     REQUIRE(this->properlyInitialized(), "Road wasn't initialized when calling setBusStops");
-    for(unsigned int i=0; i<BusStops.size(); i++){
-        REQUIRE(BusStops[i]->properlyInitialized(), "Light is not initialised");
-    }
+    REQUIRE(busStopProperly(BusStops), "A busstop is not initialised");
     Road::busStops = BusStops;
     ENSURE(Road::busStops == BusStops,"busStops hasn't changed");
 }
@@ -280,18 +264,14 @@ void Road::setbusStops(const std::vector<BusStop *> &BusStops) {
 
 const std::vector<std::pair<Junction *, double *> > &Road::getJunctions() {
     REQUIRE(this->properlyInitialized(), "Road wasn't initialized when calling getJunctions");
-    for(unsigned int i=0; i<junctions.size(); i++){
-        ENSURE(junctions[i].first->isValid(), "Junction is not valid");
-    }
+    ENSURE(junctionsValid(junctions), "Junction is not valid");
     return junctions;
 }
 
 
 void Road::setJunctions(const std::vector<std::pair<Junction *, double *> > &Junctions) {
     REQUIRE(this->properlyInitialized(), "Road wasn't initialized when calling setJunctions");
-    for(unsigned int i=0; i<Junctions.size(); i++){
-        REQUIRE(Junctions[i].first->properlyInitialized() and *Junctions[i].second > 0.0 and *Junctions[i].second<this->getLength(), "Light is not initialised");
-    }
+    REQUIRE(goodJuntion(Junctions), "Junction is not good");
     Road::junctions = Junctions;
     ENSURE(Road::junctions == Junctions,"Junctions hasn't changed");
 }
@@ -432,5 +412,71 @@ bool Road::findLight(Light *light) {
         }
     }
     return false;
+}
+
+bool Road::lightsProperly(std::vector<Light *> l) {
+    bool checkProperly = true;
+    for(unsigned int i=0; i<l.size(); i++){
+        if(!l[i]->properlyInitialized()){
+            checkProperly = false;
+            break;
+        }
+    }
+    return checkProperly;
+}
+
+bool Road::carsProperly(std::vector<Car *> c) {
+    bool check = true;
+    for(unsigned int i=0; i<c.size(); i++){
+        if(!c[i]->properlyInitialized()){
+            check = false;
+            break;
+        }
+    }
+    return check;
+}
+
+bool Road::carGenProperly(std::vector<CarGen *> cG) {
+    bool check = true;
+    for(unsigned int i=0; i<cG.size(); i++){
+        if(!cG[i]->properlyInitialized()){
+            check = false;
+            break;
+        }
+    }
+    return check;
+}
+
+bool Road::busStopProperly(std::vector<BusStop *> bS) {
+    bool check = true;
+    for(unsigned int i=0; i<bS.size(); i++){
+        if(!bS[i]->properlyInitialized()){
+            check = false;
+            break;
+        }
+    }
+    return check;
+}
+
+bool Road::junctionsValid(std::vector<std::pair<Junction *, double *> > j) {
+    bool check = true;
+    for(unsigned int i=0; i<j.size(); i++){
+        if(!j[i].first->isValid()){
+            check = false;
+            break;
+        }
+    }
+    return check;
+}
+
+bool Road::goodJuntion(std::vector<std::pair<Junction *, double *> > j) {
+    bool check = true;
+    for(unsigned int i=0; i<j.size(); i++){
+        if(!j[i].first->properlyInitialized() or *j[i].second <= 0.0 or *j[i].second>=this->getLength()){
+            check = false;
+            break;
+        }
+    }
+    return check;
 }
 //////////////

@@ -1,8 +1,8 @@
 //============================================================================
-// Name        : Car_SimDomainTest.cpp
-// Date        : 19/03/2022
+// Name        : Junction.cpp
+// Date        : 18/06/2022
 // Authors     : Simon Olivier & Robbe Teughels
-// Version     : 1
+// Version     : 4
 //============================================================================
 
 #include <cmath>
@@ -142,9 +142,13 @@ Road* Junction::getRoad(int n) {
 
 std::vector<Car*> Junction::getCars() {
     REQUIRE(this->properlyInitialized(), "Junction wasn't initialized when calling getCars");
+    bool checkProperly = true;
     for(unsigned int i=0; i<cars.size(); i++){
-        ENSURE(cars[i]->properlyInitialized(), "The car is not properly initialised");
+        if(!cars[i]->properlyInitialized()){
+            checkProperly = false;
+        }
     }
+    ENSURE(checkProperly == true, "A car is not properly initialised");
     return cars;
 }
 
@@ -162,14 +166,14 @@ void Junction::setRoad(Road *r,unsigned int n) {
 
 double Junction::getPosition(int n) {
     REQUIRE(this->properlyInitialized(), "Junction wasn't initialized when calling getPosition");
-    ENSURE(onRoad(n), "Busstop is not on road");
+    ENSURE(onRoad(n), "Junction is not on road");
     return roads[n].second;
 }
 
 
 double Junction::getPosition(std::string roadname) {
     REQUIRE(this->properlyInitialized(), "Junction wasn't initialized when calling getPosition");
-    ENSURE(onRoad(roadname), "Junction not on road");
+    REQUIRE(onRoad(roadname), "Junction not on road");
     for (std::vector<std::pair<Road*,double> >::iterator x = roads.begin(); x != roads.end(); x++){
         if (x->first->getName() == roadname){
             return x->second;
@@ -189,25 +193,33 @@ void Junction::setPosition(double p,unsigned int n) {
 
 
 Clock* Junction::getClock() {
-    REQUIRE(this->properlyInitialized(), "Junction wasn't initialized when calling getPosition");
+    REQUIRE(this->properlyInitialized(), "Junction wasn't initialized when calling getClock");
     ENSURE(clock->properlyInitialized(), "clock is not initialized");
     return clock;
 }
 
 
 void Junction::setClock(Clock *c) {
-    REQUIRE(this->properlyInitialized(), "Junction wasn't initialized when calling setPosition");
+    REQUIRE(this->properlyInitialized(), "Junction wasn't initialized when calling setClock");
     REQUIRE(c->isvalid(), "clock is not valid");
     clock = c;
     ENSURE(clock == c, "clock hasn't changed");
 }
 
 std::vector<std::pair<Road* , double> > Junction::getRoads(){
-    REQUIRE(this->properlyInitialized(), "Junction wasn't initialized when calling setPosition");
+    REQUIRE(this->properlyInitialized(), "Junction wasn't initialized when calling getRoads");
+    bool checkProperly = true;
+    bool checkOnRoad = true;
     for(unsigned int i=0; i<roads.size(); i++){
-        ENSURE(roads[i].first->properlyInitialized(), "Road on junction is not properly initialised");
-        ENSURE(roads[i].second >=0 and roads[i].second<=roads[i].first->getLength(), "Junction is not on road");
+        if(!roads[i].first->properlyInitialized()){
+            checkProperly = false;
+        }
+        if(roads[i].second <0 or roads[i].second>roads[i].first->getLength()){
+            checkOnRoad = false;
+        }
     }
+    ENSURE(checkProperly == true, "Road on junction is not properly initialised");
+    ENSURE(checkOnRoad == true, "Junction is not on road");
     return roads;
 }
 

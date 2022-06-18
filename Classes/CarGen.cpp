@@ -1,8 +1,8 @@
 //============================================================================
-// Name        : Car_SimDomainTest.cpp
-// Date        : 19/03/2022
+// Name        : CarGen.cpp
+// Date        : 18/06/2022
 // Authors     : Simon Olivier & Robbe Teughels
-// Version     : 1
+// Version     : 4
 //============================================================================
 
 #include <stdlib.h>
@@ -109,7 +109,7 @@ void CarGen::setRoad(Road *r) {
 
 double CarGen::getFrequency() {
     REQUIRE(this->properlyInitialized(), "CarGen wasn't initialized when calling getFrequency");
-    ENSURE(frequency>0, "Frequancy cannot be negative or zero");
+    ENSURE(frequency>0, "Frequency cannot be negative or zero");
     return frequency;
 }
 

@@ -1,4 +1,3 @@
-#include "Car_SimUtils.h"
 //============================================================================
 // Name        : TicTacToeUtils.cpp
 // Author      : Serge Demeyer
@@ -7,6 +6,7 @@
 // Description : TicTactToe in C++, Ansi-style
 //============================================================================
 
+#include "Car_SimUtils.h"
 #include <iostream>
 #include <fstream>
 #include <sys/stat.h>
@@ -15,7 +15,7 @@
 
 using namespace std;
 
-#include "Car_SimUtils.h"
+
 
 /**
 Auxiliary functions for file manipulation.
