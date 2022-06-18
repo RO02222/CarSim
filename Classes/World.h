@@ -189,7 +189,7 @@ public:
 
     bool isValid() const;
 
-    bool isValidToAddJunction(std::vector<std::pair<Road*,double> > roads) const;
+    bool isValidToAddJunction(std::vector<std::pair<Road*,double> >& roads) const;
 
     bool isValidSimulation() const;
 //////////////
