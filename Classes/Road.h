@@ -54,18 +54,19 @@ public:
 
 /**
  * Update the road, update everything on the road: Cars, light, CarGen.
- * @param t: time since last update
+ * @param time: time since last update
  * @return: None
 \n REQUIRE(properlyInitialized(), "Road wasn't initialized when calling updateRoad");
  ENSURE(isvalidSimulation(), "Part of the simulation isn't valid");
     REQUIRE(t>=0, "Time cannot be negative");
 */
-    void updateRoad(double t);
+    void updateRoad(double time);
 
 
 /**
  * remove a car from the road.
  * @param car: the car that needs to be removed
+ * @param: del: if the car needs to be deleted
  * @return: None
 \n REQUIRE(this->properlyInitialized(), "Road wasn't initialized when calling removeCars");
     REQUIRE(car->properlyInitialized(), "car wasn't properly initialised");
@@ -83,7 +84,7 @@ public:
 /**
  * add a new traffic light to the road
  * @param position: position of the traffic light on the road
- * @param cycle: cycle time of the trafficlight
+ * @param cycle: cycle time of the traffic light
  * @return: None
 \n REQUIRE(this->properlyInitialized(), "Road wasn't initialized when calling addLight");
     REQUIRE(isValidToAdd(position),"Light cannot be added");
@@ -101,7 +102,7 @@ public:
     void addCar(double distance, CarData* data);
 /**
  * add a car to the road
- * @param car: the new car car on the road
+ * @param car: the new car on the road
  * @return: None
 \n REQUIRE(properlyInitialized(), "Road wasn't initialized when calling addCars);
  ENSURE(c==Road::cars[Road::cars.size()-1], "Car is not added");
@@ -119,7 +120,7 @@ public:
 /**
  * add a new carGen at the beginning of the road
  * @param frequency: frequency of the carGen
- * @param allData: data of all the posible cars to generate
+ * @param allData: data of all the possible cars to generate
  * @return: None
 \n REQUIRE(this->properlyInitialized(), "Road wasn't initialized when calling addCarGen");
  ENSURE(carGen[carGen.size()-1] == cg, "Cargen is not added");
@@ -127,10 +128,10 @@ public:
     void addCarGen(double frequency, std::vector<CarData*>* allData);
 /**
  * add a new Busstop to the road
- * * @param position: position of the Busstop
+ * @param position: position of the Busstop
  * @param stoptime: stoptime of the Busstop
  * @return: None
-\n REQUIRE(this->properlyInitialized(), "Road wasn't initialized when calling addCarGen");
+\n REQUIRE(this->properlyInitialized(), "Road wasn't initialized when calling addBusStop");
  ENSURE(busStops[busStops.size()-1] == b, "Busstop is not added");
 */
     void addBusStop(double position, double stoptime);
@@ -197,7 +198,7 @@ public:
     void setLights(const std::vector<Light *> &lights);
 /**
  * get all the Cars on the the road
- * @return: (std::vector<Car*>), all the Cars on the the road
+ * @return: (std::vector<Car*>), all the Cars on the road
 \n REQUIRE(this->properlyInitialized(), "Road wasn't initialized when calling getCars");
     ENSURE(carsProperly(cars), "A car is not initialised");
 */
@@ -213,7 +214,7 @@ public:
     void setCars(const std::vector<Car *> &cars);
 /**
  * get all the CarGens on the the road
- * @return: (std::vector<CarGen*>), all the CarGens on the the road
+ * @return: (std::vector<CarGen*>), all the CarGens on the road
 \n REQUIRE(this->properlyInitialized(), "Road wasn't initialized when calling getCarGen");
     ENSURE(carGenProperly(carGen), "CarGen is not initialised");
 */
@@ -229,8 +230,8 @@ public:
     void setCarGen(const std::vector<CarGen *> &carGens);
 
 /**
- * get all the BusStops on the the road
- * @return: (std::vector<BusStops*>), all the BusStops on the the road
+ * get all the BusStops on the road
+ * @return: (std::vector<BusStops*>), all the BusStops on the road
 \n  REQUIRE(this->properlyInitialized(), "Road wasn't initialized when calling getBusStops");
     ENSURE(busStopProperly(busStops), "A busstop is not initialised");
 */
@@ -246,18 +247,18 @@ public:
     void setbusStops(const std::vector<BusStop *> &BusStops);
 
 /**
- * get all the BusStops on the the road
- * @return: (std::vector<BusStops*>), all the BusStops on the the road
+ * get all the junctions on the road
+ * @return: (std::vector<BusStops*>), all the junctions on the the road
 \n REQUIRE(this->properlyInitialized(), "Road wasn't initialized when calling getJunctions");
     ENSURE(junctionsValid(junctions), "Junction is not valid");
 */
     const std::vector<std::pair<Junction*,double*> >  &getJunctions();
 /**
- * change the BusStops of the road
- * @param BusStops: the new BusStops of the road
+ * change the junctions of the road
+ * @param BusStops: the new junctions on the road
  * @return: None
 \n REQUIRE(this->properlyInitialized(), "Road wasn't initialized when calling setJunctions");
-    REQUIRE(goodJuntion(Junctions), "Junction is not good");
+    REQUIRE(goodJuntion(Junctions), "A Junction is not good");
     ENSURE(Road::junctions == Junctions,"Junctions hasn't changed");
 */
     void setJunctions(const std::vector<std::pair<Junction*,double*> >  &Junctions);
@@ -267,33 +268,102 @@ public:
 
 /////////////
 public:
+    /**
+* see if the road is properly initialised
+* @return: (bool), if road is properly initialised
+*/
     bool properlyInitialized() const;
 
+    /**
+* see if the a specific position is on the road
+* @param:position: the position to check
+* @return: (bool), if a specific position is on the road
+*/
     bool onRoad(double position) const;
 
+    /**
+* see if the road is valid
+* @return: (bool), if the road isvalid
+*/
     bool isValid() const;
 
+    /**
+* see if it is possible to add something on a specific position
+* @param: position: the position to check
+* @return: (bool), if it is possible to add something on a specific position
+*/
     bool isValidToAdd(double position) const;
 
+    /**
+* see if it is possible to add something on a specific position
+* @param: position: the position to check
+* @param: length: length of car
+* @return: (bool), if it is possible to add a car with specific length on a specific position
+*/
     bool isValidToAddCar(double position, double length) const;
 
+    /**
+* see if everything of the simulation is valid
+* @return: (bool), if everything of the simulation is valid
+*/
     bool isvalidSimulation();
 
+    /**
+* see if a specific car is on the road
+* @param: car: the car to check
+* @return: (bool), if a specific car is on the road
+*/
     bool findCar(Car* car);
 
+    /**
+* see if a specific light is on the road
+* @param: light: the light to check
+* @return: (bool), if a specific light is on the road
+*/
     bool findLight(Light* light);
 
-    bool lightsProperly(std::vector<Light*>);
+    /**
+* see if every light is properly initialised
+* @param: lights: the lights to check
+* @return: (bool), if every light is properly initialised
+*/
+    bool lightsProperly(std::vector<Light*> lights);
 
+
+    /**
+* see if every car is properly initialised
+* @param: cars: the cars to check
+* @return: (bool), if every car is properly initialised
+*/
     bool carsProperly(std::vector<Car*> cars);
 
-    bool carGenProperly(std::vector<CarGen*> carGen);
+    /**
+* see if every cargen is properly initialised
+* @param: cargens: the cargens to check
+* @return: (bool), if every cargen is properly initialised
+*/
+    bool carGenProperly(std::vector<CarGen*> carGens);
 
+    /**
+* see if every busstop is properly initialised
+* @param: busstops: the busstops to check
+* @return: (bool), if every busstop is properly initialised
+*/
     bool busStopProperly(std::vector<BusStop*> busStops);
 
-    bool junctionsValid(std::vector<std::pair<Junction*,double*> > j);
+    /**
+* see if every junction is valid
+* @param: junctions: the junctions to check
+* @return: (bool), if every junction is valid
+*/
+    bool junctionsValid(std::vector<std::pair<Junction*,double*> > junctions);
 
-    bool goodJuntion(std::vector<std::pair<Junction *, double *> > j);
+    /**
+* see if every junction is right
+* @param: junctions: the junctions to check
+* @return: (bool), if every junction is right
+*/
+    bool goodJuntion(std::vector<std::pair<Junction *, double *> > junctions);
 /////////////
 };
 

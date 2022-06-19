@@ -34,6 +34,7 @@ public:
 /**
  * create a Junction
  * @param roads: the roads connected to the junction
+ * @param error: errorfile
  * @return: None
 \n REQUIRE(isvalid(roads), "Roads to form the junction are not valid");
    ENSURE(this->properlyInitialized(), "constructor must end in properlyInitialized state");
@@ -181,12 +182,14 @@ public:
 
     /**
 * see if the junction is on the n'th road
+* @param: n: the number of which road to check
 * @return: (bool), if junction is on the n'th road
 */
     bool onRoad(long unsigned int n) const;
 
     /**
 * see if the junction is on the road with given name
+* @param: roadname: the name of the road to check
 * @return: (bool), if junction is on the road with given name
 */
     bool onRoad(std::string roadname);

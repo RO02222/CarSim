@@ -45,7 +45,6 @@ public:
     World();
 
 /**
-function:
  * delete a simulationWorld and everything in the world
  * @return: None
 \n REQUIRE(properlyInitialized(), "World wasn't initialized when calling ~World");
@@ -73,14 +72,14 @@ function:
 
 /**
  * Update the world, update all the roads
- * @param t: time since last update
+ * @param time: time since last update
  * @return: None
 \n REQUIRE(this->properlyInitialized(), "World wasn't initialized when calling updateWorld");
     REQUIRE(isValidSimulation(), "Simulation is not valid");
     REQUIRE(t > 0, "time must be positive");
     ENSURE(time == ensureTime,"time hasn't updated");
 */
-    void updateWorld(double t);
+    void updateWorld(double time);
 
 
 /////////////
@@ -95,13 +94,13 @@ public:
 
 /**
  * change the roads of the simulationWorld
- * @param r: the new roads of the simulationWorld
+ * @param roads: the new roads of the simulationWorld
  * @return: None
 \n REQUIRE(properlyInitialized(), "World wasn't initialized when calling setRoad");
     REQUIRE(roadsProperly(banen), "A Road is not properly initialised");
     ENSURE(World::roads == banen,"Roads hasn't changed");
 */
-    void setRoad(const std::vector<Road *> &r);
+    void setRoad(const std::vector<Road *> &roads);
 
 /**
  * add a road to the simulationWorld
@@ -149,7 +148,6 @@ public:
  * @return: None
 \n  REQUIRE(this->properlyInitialized(), "World wasn't initialized when calling addJuction");
     REQUIRE(isValidToAddJunction(road),"Junction is on a invalid position");
-    Junction* j = new Junction(road, &error);
     ENSURE(junctions[junctions.size()-1] == j, "Junction is not added");
 */
     void addJunction(std::vector<std::pair<Road* , double> > roads);
@@ -164,13 +162,13 @@ public:
 
 /**
  * change the simulationTime of the simulationWorld
- * @param t: the new simulationTime of the simulationWorld
+ * @param time: the new simulationTime of the simulationWorld
  * @return: None
 \n REQUIRE(properlyInitialized(), "World wasn't initialized when calling setTime");
     REQUIRE(t>=0, "time cannot be negative");
     ENSURE(World::time == t,"Time hasn't changed");
 */
-    void setTime(double t);
+    void setTime(double time);
 
 /**
  * get data of a specific carType
@@ -185,7 +183,7 @@ public:
 /**
  * get the data of all the cars
  * @return: (std::vector<CarData*>*), all the carData
-\n REQUIRE(this->properlyInitialized(), "World wasn't initialized when calling getCarData");
+\n REQUIRE(this->properlyInitialized(), "World wasn't initialized when calling getAllData");
     ENSURE(dataProperly(carData), "Cardata is not properly initialised");
 */
     std::vector<CarData*>* getAllData();
@@ -195,19 +193,51 @@ public:
 
 //////////////
 public:
+    /**
+* see if the world is properly initialised
+* @return: (bool), if world is properly initialised
+*/
     bool properlyInitialized() const;
 
+    /**
+* see if the world is valid
+* @return: (bool), if the world isvalid
+*/
     bool isValid() const;
 
-    bool isValidToAddJunction(std::vector<std::pair<Road*,double> >& roads) const;
+    /**
+* see if it is possible to add a junction to the world
+* @param: junction: the junction to check
+* @return: (bool), if it is possible to add a junction to the world
+*/
+    bool isValidToAddJunction(std::vector<std::pair<Road*,double> >& junction) const;
 
+    /**
+* see if everything of the simulation is valid
+* @return: (bool), if everything of the simulation is valid
+*/
     bool isValidSimulation() const;
 
-    bool roadsProperly(std::vector<Road *> r);
+    /**
+* see if every road is properly initialised
+* @param: roads: the roads to check
+* @return: (bool), if every road is properly initialised
+*/
+    bool roadsProperly(std::vector<Road *> roads);
 
-    bool junctionsProperly(std::vector<Junction*> j);
+    /**
+* see if every junction is properly initialised
+* @param: junctions: the junctions to check
+* @return: (bool), if every junction is properly initialised
+*/
+    bool junctionsProperly(std::vector<Junction*> junctions);
 
-    bool dataProperly(std::vector<CarData*> cD);
+    /**
+* see if every carData is properly initialised
+* @param: carData: the carData to check
+* @return: (bool), if every carData is properly initialised
+*/
+    bool dataProperly(std::vector<CarData*> carData);
 //////////////
 };
 

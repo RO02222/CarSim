@@ -135,7 +135,7 @@ void Road::addCarGen(double frequency, CarData* data) {
 }
 
 void Road::addCarGen(double frequency, std::vector<CarData*>* allData) {
-    REQUIRE(this->properlyInitialized(), "Road wasn't initialized when calling addCarGen");
+    REQUIRE(this->properlyInitialized(), "Road wasn't initialized when calling addBusStop");
     if (frequency < 1){
         frequency = 1;
     }

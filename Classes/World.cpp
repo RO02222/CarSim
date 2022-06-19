@@ -332,7 +332,7 @@ CarData* World::getCarData(Type type)  {
 }
 
 std::vector<CarData*>* World::getAllData() {
-    REQUIRE(this->properlyInitialized(), "World wasn't initialized when calling getCarData");
+    REQUIRE(this->properlyInitialized(), "World wasn't initialized when calling getAllData");
     ENSURE(dataProperly(carData), "Cardata is not properly initialised");
     return &carData;
 }

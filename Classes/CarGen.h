@@ -152,12 +152,14 @@ public:
 
     /**
 * see if the CarGen is valid
+* @param: road: the road to check
 * @return: (bool), if CarGen is valid
 */
     bool isValid(Road* road) const;
 
     /**
 * see if the junctions are valid to add something
+* @param: road: the road to check
 * @return: (bool), if junctions are valid
 */
     bool isValidToAdd(Road *road) const;

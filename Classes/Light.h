@@ -48,21 +48,21 @@ public:
 
 /**
  * Update the traffic light, changes the first (not priority) car his behavior depending on the lights state
- * @param t: time since last update
+ * @param time: time since last update
  * @return: None
 
-    REQUIRE(isvalid(road), "Light wasn't initialized when calling updateLight");
+    REQUIRE(isvalid(road), "Light is not valid");
     REQUIRE(t >= 0, "Time cannot be negative");
-    ENSURE(isvalid(road), "Light wasn't initialized when calling updateLight");
+    ENSURE(isvalid(road), "Light is not valid after update of light");
 
 */
-    void updateLight(double t);
+    void updateLight(double time);
 
 
 /////////////
 /**
  * get the road where the traffic light is positioned
- * @return: (Road*), the road where the traffic light is driving
+ * @return: (Road*), the road where the traffic light is positioned
 \n REQUIRE(this->properlyInitialized(), "Light wasn't initialized when calling getRoad");
     ENSURE(road->properlyInitialized(), "Road is not properly initialised");
 */
@@ -98,7 +98,7 @@ public:
 */
     void setPosition(double position);
 /**
- * get the state the traffic light
+ * get the state of the traffic light
  * @return: (color), the state the traffic light
 \n REQUIRE(this->properlyInitialized(), "Light wasn't initialized when calling getClock");
     ENSURE(clock >= 0.0, "Clock cannot be negative");
@@ -119,12 +119,31 @@ public:
 
 /////////////
 public:
+
+    /**
+* see if the light is properly initialised
+* @return: (bool), if light is properly initialised
+*/
     bool properlyInitialized() const;
 
+    /**
+* see if the light is on the n'th road
+* @return: (bool), if light is on the n'th road
+*/
     bool onRoad() const;
 
-    bool onRoad(int d) const;
+    /**
+* see if the light is on the road with given name
+* @param distance: the distance to check if on the road
+* @return: (bool), if light is on the road with given name
+*/
+    bool onRoad(int distance) const;
 
+    /**
+* see if the light is valid
+* @param: road: the road to check if valid
+* @return: (bool), if light isvalid
+*/
     bool isvalid(Road* road) const;
 /////////////
 };
