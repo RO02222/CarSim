@@ -1,8 +1,8 @@
 //============================================================================
-// Name        : Car_SimDomainTest.cpp
-// Date        : 19/03/2022
+// Name        : JunctionDomainTest.cpp
+// Date        : 18/06/2022
 // Authors     : Simon Olivier & Robbe Teughels
-// Version     : 1
+// Version     : 4
 //============================================================================
 
 #include <iostream>
@@ -208,5 +208,25 @@ TEST_F(JunctionDomainTest, GoSmaller) {
     EXPECT_EQ(w->getJunctions()[0]->getCars().size(),(unsigned int) 1);
     w->getJunctions()[0]->updateJunction(1);
     EXPECT_FALSE(w->getRoads()[1]->getCars()[0]->getDistance() == distance);
+    delete w;
+}
+
+TEST_F(JunctionDomainTest, JunctionsTooClose) {
+    srand(123);
+    ofstream error;
+    World* w = new World();
+    Road* r1 = new Road("Middelheimlaan", 1000, &error);
+    Road* r2 = new Road("Groenenborgerlaan", 1000, &error);
+    w->addRoad(r1);
+    w->addRoad(r2);
+    std::vector<std::pair<Road *, double> > roads;
+    roads.push_back(std::pair<Road*,double>(r1,100));
+    roads.push_back(std::pair<Road*,double>(r2,100));
+    w->addJunction(roads);
+    std::vector<std::pair<Road *, double> > roads1;
+    roads.push_back(std::pair<Road*,double>(r1,150));
+    roads.push_back(std::pair<Road*,double>(r2,200));
+    w->addJunction(roads1);
+    EXPECT_EQ(w->getJunctions().size(), (long unsigned) 1);
     delete w;
 }

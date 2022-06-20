@@ -1,6 +1,10 @@
-//
-// Created by robbe on 30.03.22.
-//
+//============================================================================
+// Name        : Input.h
+// Date        : 18/06/2022
+// Authors     : Simon Olivier & Robbe Teughels
+// Version     : 4
+//============================================================================
+
 
 #ifndef CAR_SIMULATION_INPUT_H
 #define CAR_SIMULATION_INPUT_H

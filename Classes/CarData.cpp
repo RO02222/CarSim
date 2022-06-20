@@ -1,6 +1,9 @@
-//
-// Created by robbe on 05.04.22.
-//
+//============================================================================
+// Name        : CarData.cpp
+// Date        : 18/06/2022
+// Authors     : Simon Olivier & Robbe Teughels
+// Version     : 4
+//============================================================================
 
 #include "CarData.h"
 #include "Car.h"

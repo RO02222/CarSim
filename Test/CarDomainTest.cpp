@@ -1,8 +1,8 @@
 //============================================================================
-// Name        : Car_SimDomainTest.cpp
-// Date        : 19/03/2022
+// Name        : CarDomainTest.cpp
+// Date        : 18/06/2022
 // Authors     : Simon Olivier & Robbe Teughels
-// Version     : 1
+// Version     : 4
 //============================================================================
 
 #include <iostream>
@@ -66,23 +66,23 @@ TEST_F(CarDomainTest, Initialiser) {
 
     r1.addCar(35, w->getCarData(fire));
     EXPECT_EQ(r1.getCars()[2]->getDistance(), 35);
-    EXPECT_EQ(r1.getCars()[3]->getData(), w->getCarData(fire));
+    EXPECT_EQ(r1.getCars()[2]->getData(), w->getCarData(fire));
 
     r1.addCar(60, w->getCarData(bus));
     EXPECT_EQ(r1.getCars()[3]->getDistance(), 60);
     EXPECT_EQ(r1.getCars()[3]->getData(), w->getCarData(bus));
 
     r1.addCar(70, w->getCarData(police));
-    EXPECT_EQ(r1.getCars()[3]->getDistance(), 70);
-    EXPECT_EQ(r1.getCars()[3]->getData(), w->getCarData(police));
+    EXPECT_EQ(r1.getCars()[4]->getDistance(), 70);
+    EXPECT_EQ(r1.getCars()[4]->getData(), w->getCarData(police));
 
     r1.addCar(70, w->getCarData(police));
-    EXPECT_EQ(r1.getCars()[3]->getDistance(), 70);
-    EXPECT_EQ(r1.getCars()[3]->getData(), w->getCarData(police));
+    EXPECT_EQ(r1.getCars()[5]->getDistance(), 70);
+    EXPECT_EQ(r1.getCars()[5]->getData(), w->getCarData(police));
 
     r1.addCar(90, w->getCarData(bugatti));
-    EXPECT_EQ(r1.getCars()[3]->getDistance(), 90);
-    EXPECT_EQ(r1.getCars()[3]->getData(), w->getCarData(bugatti));
+    EXPECT_EQ(r1.getCars()[6]->getDistance(), 90);
+    EXPECT_EQ(r1.getCars()[6]->getData(), w->getCarData(bugatti));
 
 }
 
@@ -103,12 +103,10 @@ TEST_F(CarDomainTest, InitialiserEdge) {
     EXPECT_EQ(r1.getCars()[1]->getData(), w->getCarData(ambulance));
 
     r1.addCar(-1, w->getCarData(fire));
-    EXPECT_EQ(r1.getCars()[2]->getDistance(), 0);
-    EXPECT_EQ(r1.getCars()[3]->getData(), w->getCarData(fire));
+    EXPECT_EQ(r1.getCars().size(), (long unsigned) 2);
 
     r1.addCar(101, w->getCarData(bus));
-    EXPECT_EQ(r1.getCars()[3]->getDistance(), 100);
-    EXPECT_EQ(r1.getCars()[3]->getData(), w->getCarData(bus));
+    EXPECT_EQ(r1.getCars().size(), (long unsigned) 2);
 
 }
 
@@ -135,7 +133,7 @@ TEST_F(CarDomainTest, updatetest) {
 
     r1.addCar(35, w->getCarData(fire));
     EXPECT_EQ(r1.getCars()[2]->getDistance(), 35);
-    EXPECT_EQ(r1.getCars()[3]->getData(), w->getCarData(fire));
+    EXPECT_EQ(r1.getCars()[2]->getData(), w->getCarData(fire));
     speed.push_back(r1.getCars()[2]->getSpeed());
     accelaration.push_back(r1.getCars()[2]->getAcceleration());
     distance.push_back(r1.getCars()[2]->getDistance());
@@ -237,16 +235,6 @@ TEST_F(CarDomainTest, updatetest) {
         EXPECT_NE(r1.getCars()[3]->getSpeed(), speed[3]);
     }
 
-    if(r1.getCars()[4]->getSpeed()!= 0){
-        EXPECT_NE(r1.getCars()[4]->getAcceleration(), accelaration[4]);
-        EXPECT_NE(r1.getCars()[4]->getDistance(), distance[4]);
-        EXPECT_NE(r1.getCars()[4]->getSpeed(), speed[4]);
-    }
-
-    if(r1.getCars()[5]->getSpeed()!= 0){
-        EXPECT_NE(r1.getCars()[5]->getAcceleration(), accelaration[5]);
-        EXPECT_NE(r1.getCars()[5]->getDistance(), distance[5]);
-        EXPECT_NE(r1.getCars()[5]->getSpeed(), speed[5]);
-    }
+    EXPECT_EQ(r1.getCars().size(), (long unsigned) 4);
 }
 

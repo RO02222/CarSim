@@ -1,20 +1,13 @@
 //============================================================================
-// Name        : TicTactToeOutputTest.cpp
-// Author      : Serge Demeyer
-// Version     :
-// Copyright   : Project Software Engineering - BA1 Informatica - Serge Demeyer - University of Antwerp
-// Description : TicTactToe in C++, Ansi-style
+// Name        : TestMain.cpp
+// Date        : 18/06/2022
+// Authors     : Simon Olivier & Robbe Teughels
+// Version     : 4
 //============================================================================
-
-#include <iostream>
-#include <fstream>
-#include <sys/stat.h>
-
-
-using namespace std;
 
 #include "Test/Car_SimDomainTest.cpp"
 #include "Test/CarGenDomainTest.cpp"
+#include "Test/CarDomainTest.cpp"
 #include "Test/LightDomainTest.cpp"
 #include "Test/RoadDomainTest.cpp"
 #include "Test/WorldDomainTest.cpp"
@@ -23,7 +16,12 @@ using namespace std;
 #include "Test/BusStopDomainTest.cpp"
 #include "Test/JunctionDomainTest.cpp"
 #include "Test/ClockDomainTest.cpp"
+#include <iostream>
+#include <fstream>
+#include <sys/stat.h>
 
+
+using namespace std;
 
 
 int main(int argc, char **argv) {
