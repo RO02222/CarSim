@@ -45,7 +45,7 @@ public:
     ENSURE(expectBussy == bussy, "Bussy is not right");
     ENSURE(isValid(road), "Busstop isn't valid after calling updateBusStop");
     ENSURE(currentBus->getAction() == expectAction, "Action of current bus is not right");
-    ENSURE(expectCurrentBus = currentBus, "CurrentBus is not valid");
+    ENSURE(expectCurrentBus == currentBus, "CurrentBus is not valid");
 
 */
     void updateBusStop(double time);

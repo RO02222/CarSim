@@ -109,7 +109,7 @@ public:
  * @return: None
 \n REQUIRE(properlyInitialized(), "World wasn't initialized when calling addRoad");
     REQUIRE(length > 0, "length is not long enough");
-    ENSURE(roads[roads.size()-1] == r, "Road is not added");
+    ENSURE(added, "Road is not added");
 */
     void addRoad(std::string name, double length);
 
@@ -119,7 +119,7 @@ public:
  * @return: None
 \n REQUIRE(properlyInitialized(), "World wasn't initialized when calling addRoad");
     REQUIRE(r->isValid(), "Road isn't valid");
-    ENSURE(roads[roads.size()-1] == r, "Road is not added");
+    ENSURE(added, "Road is not added");
 */
     void addRoad(Road* road);
 
@@ -148,7 +148,7 @@ public:
  * @return: None
 \n  REQUIRE(this->properlyInitialized(), "World wasn't initialized when calling addJuction");
     REQUIRE(isValidToAddJunction(road),"Junction is on a invalid position");
-    ENSURE(junctions[junctions.size()-1] == j, "Junction is not added");
+    ENSURE(added, "Junction is not added");
 */
     void addJunction(std::vector<std::pair<Road* , double> >& roads);
 

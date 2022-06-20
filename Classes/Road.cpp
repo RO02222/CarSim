@@ -102,7 +102,8 @@ void Road::addLight(double position, double cycle) {
     REQUIRE(cycle>=1, "Cycle is not valid");
     Light* l = new Light(position, cycle,this, error);
     lights.push_back(l);
-    ENSURE(true, "Light is not added");
+    bool added = lights[lights.size()-1] == l;
+    ENSURE(added, "Light is not added");
 }
 
 void Road::addCar(double distance, CarData* data) {
@@ -113,14 +114,16 @@ void Road::addCar(double distance, CarData* data) {
     }
     Car* c = new Car (distance, data, this);
     Road::cars.push_back(c);
-    ENSURE(c==Road::cars[Road::cars.size()-1], "Car is not added");
+    bool added = c==Road::cars[Road::cars.size()-1];
+    ENSURE(added, "Car is not added");
 }
 
 void Road::addCar(Car *car) {
     REQUIRE(this->properlyInitialized(), "Road wasn't initialized when calling addCar");
     cars.push_back(car);
     car->setRoad(this);
-    ENSURE(cars[cars.size()-1] == car, "Car is not added");
+    bool added = cars[cars.size()-1] == car;
+    ENSURE(added, "Car is not added");
     ENSURE(car->getRoad() == this, "Road hasn't changed");
 }
 
@@ -131,7 +134,8 @@ void Road::addCarGen(double frequency, CarData* data) {
     }
     CarGen* cg = new CarGen(frequency, this, data);
     carGen.push_back(cg);
-    ENSURE(carGen[carGen.size()-1] == cg, "Cargen is not added");
+    bool added = carGen[carGen.size()-1] == cg;
+    ENSURE(added, "Cargen is not added");
 }
 
 void Road::addCarGen(double frequency, std::vector<CarData*>* allData) {
@@ -141,7 +145,8 @@ void Road::addCarGen(double frequency, std::vector<CarData*>* allData) {
     }
     CarGen* cg = new CarGen(frequency, this, allData);
     carGen.push_back(cg);
-    ENSURE(carGen[carGen.size()-1] == cg, "Cargen is not added");
+    bool added = carGen[carGen.size()-1] == cg;
+    ENSURE(added, "Cargen is not added");
 }
 
 
@@ -156,7 +161,8 @@ void Road::addBusStop(double position, double stoptime) {
     }
     BusStop* b = new BusStop(position, stoptime, this);
     busStops.push_back(b);
-    ENSURE(busStops[busStops.size()-1] == b, "Busstop is not added");
+    bool added = busStops[busStops.size()-1] == b;
+    ENSURE(added, "Busstop is not added");
 }
 
 
@@ -167,7 +173,8 @@ void Road::addJunction(std::pair<Junction*, double*> junction) {
         return;
     }
     junctions.push_back(junction);
-    ENSURE(junctions[junctions.size()-1] == junction, "Junction is not added");
+    bool added = junctions[junctions.size()-1] == junction;
+    ENSURE(added, "Junction is not added");
 }
 /////////////
 

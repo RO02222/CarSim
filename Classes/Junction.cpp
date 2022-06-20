@@ -89,7 +89,8 @@ void Junction::addCar(Car *car) {
     REQUIRE(this->properlyInitialized(), "Junction wasn't initialized when calling addCar");
     REQUIRE(car->properlyInitialized(), "Car is not properly initialised");
     cars.push_back(car);
-    ENSURE(cars[cars.size()-1] == car, "Car is not added");
+    bool added = cars[cars.size()-1] == car;
+    ENSURE(added, "Car is not added");
 }
 
 void Junction::checkJunctionLights() {

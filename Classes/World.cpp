@@ -262,7 +262,8 @@ void World::addRoad(std::string name, double length) {
     }
     Road* r = new Road(name,length, &error);
     roads.push_back(r);
-    ENSURE(roads[roads.size()-1] == r, "Road is not added");
+    bool added = roads[roads.size()-1]== r;
+    ENSURE(added , "Road is not added");
 }
 
 void World::addRoad(Road* r) {
@@ -275,7 +276,8 @@ void World::addRoad(Road* r) {
         }
     }
     roads.push_back(r);
-    ENSURE(roads[roads.size()-1] == r, "Road is not added");
+    bool added = roads[roads.size()-1] == r;
+    ENSURE(added, "Road is not added");
 }
 
 std::vector<Junction *> &World::getJunctions() {
@@ -298,7 +300,8 @@ void World::addJunction(std::vector<std::pair<Road* , double> >& road) {
     REQUIRE(isValidToAddJunction(road),"Junction is on a invalid position");
     Junction* j = new Junction(road, &error);
     junctions.push_back(j);
-    ENSURE(junctions[junctions.size()-1] == j, "Junction is not added");
+    bool added = junctions[junctions.size()-1] == j;
+    ENSURE(added, "Junction is not added");
 }
 
 

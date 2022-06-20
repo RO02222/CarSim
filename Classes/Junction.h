@@ -66,7 +66,7 @@ public:
  * @return: None
 \n REQUIRE(this->properlyInitialized(), "Junction wasn't initialized when calling addCar");
     REQUIRE(car->properlyInitialized(), "Car is not properly initialised");
-    ENSURE(cars[cars.size()-1] == car, "Car is not added");
+    ENSURE(added, "Car is not added");
 */
     void addCar(Car* car);
 

@@ -64,7 +64,7 @@ public:
     REQUIRE(position>=0 and position<=r->getLength(), "Car is not on road");
     ENSURE(this->getDistance() == position, "position hasn't changed");
     ENSURE(road==r, "Road hasn't changed");
-    ENSURE(road->getCars()[road->getCars().size()-1] == this, "Car is not added to the new road");
+    ENSURE(added, "Car is not added to the new road");
 */
     void moveCar(Road* road, double position);
 

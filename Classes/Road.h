@@ -57,7 +57,7 @@ public:
  * @param time: time since last update
  * @return: None
 \n REQUIRE(properlyInitialized(), "Road wasn't initialized when calling updateRoad");
- ENSURE(isvalidSimulation(), "Part of the simulation isn't valid");
+    ENSURE(isvalidSimulation(), "Part of the simulation isn't valid");
     REQUIRE(t>=0, "Time cannot be negative");
 */
     void updateRoad(double time);
@@ -89,7 +89,7 @@ public:
 \n REQUIRE(this->properlyInitialized(), "Road wasn't initialized when calling addLight");
     REQUIRE(isValidToAdd(position),"Light cannot be added");
     REQUIRE(cycle>=1, "Cycle is not valid");
-    ENSURE(true, "Light is not added");
+    ENSURE(added, "Light is not added");
 */
     void addLight(double position, double cycle);
 /**
@@ -105,7 +105,7 @@ public:
  * @param car: the new car on the road
  * @return: None
 \n REQUIRE(properlyInitialized(), "Road wasn't initialized when calling addCars);
- ENSURE(c==Road::cars[Road::cars.size()-1], "Car is not added");
+ ENSURE(added, "Car is not added");
 */
     void addCar(Car* car);
 /**
@@ -114,7 +114,7 @@ public:
  * @param data: the data of the car
  * @return: None
 \n REQUIRE(this->properlyInitialized(), "Road wasn't initialized when calling addCarGen");
- ENSURE(carGen[carGen.size()-1] == cg, "Cargen is not added");
+ ENSURE(added, "Cargen is not added");
 */
     void addCarGen(double frequency, CarData* data);
 /**
@@ -123,7 +123,7 @@ public:
  * @param allData: data of all the possible cars to generate
  * @return: None
 \n REQUIRE(this->properlyInitialized(), "Road wasn't initialized when calling addCarGen");
- ENSURE(carGen[carGen.size()-1] == cg, "Cargen is not added");
+ ENSURE(added, "Cargen is not added");
 */
     void addCarGen(double frequency, std::vector<CarData*>* allData);
 /**
@@ -132,7 +132,7 @@ public:
  * @param stoptime: stoptime of the Busstop
  * @return: None
 \n REQUIRE(this->properlyInitialized(), "Road wasn't initialized when calling addBusStop");
- ENSURE(busStops[busStops.size()-1] == b, "Busstop is not added");
+ ENSURE(added, "Busstop is not added");
 */
     void addBusStop(double position, double stoptime);
 /**
@@ -140,7 +140,7 @@ public:
  * @param junction: the Junction and the position
  * @return: None
 \n REQUIRE(this->properlyInitialized(), "Road wasn't initialized when calling addJuction");
- ENSURE(junctions[junctions.size()-1] == junction, "Junction is not added");
+ ENSURE(added, "Junction is not added");
 */
     void addJunction(std::pair<Junction*,double*> junction);
 /////////////
