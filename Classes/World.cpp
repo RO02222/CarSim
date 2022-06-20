@@ -293,7 +293,7 @@ void World::setJunctions(const std::vector<Junction *> & junction) {
 }
 
 
-void World::addJunction(std::vector<std::pair<Road* , double> > road) {
+void World::addJunction(std::vector<std::pair<Road* , double> >& road) {
     REQUIRE(this->properlyInitialized(), "World wasn't initialized when calling addJuction");
     REQUIRE(isValidToAddJunction(road),"Junction is on a invalid position");
     Junction* j = new Junction(road, &error);
@@ -363,7 +363,7 @@ bool World::isValidToAddJunction (std::vector<std::pair<Road*,double> >& r) cons
         }
         std::vector<std::pair<Junction*,double*> >junc = itR->first->getJunctions();
         for (std::vector<std::pair<Junction*,double*> >::iterator itJ = junc.begin(); itJ != junc.end(); itJ++ ){
-            if (abs(*itJ->second - (itR->second)) > gBreakDistance) {
+            if (abs(*itJ->second - (itR->second)) < gStopDistance) {
                 return false;
             }
         }

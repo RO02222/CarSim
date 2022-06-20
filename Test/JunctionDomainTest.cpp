@@ -223,10 +223,10 @@ TEST_F(JunctionDomainTest, JunctionsTooClose) {
     roads.push_back(std::pair<Road*,double>(r1,100));
     roads.push_back(std::pair<Road*,double>(r2,100));
     w->addJunction(roads);
-    std::vector<std::pair<Road *, double> > roads1;
-    roads.push_back(std::pair<Road*,double>(r1,150));
+    roads.clear();
+    roads.push_back(std::pair<Road*,double>(r1,110));
     roads.push_back(std::pair<Road*,double>(r2,200));
-    w->addJunction(roads1);
-    EXPECT_EQ(w->getJunctions().size(), (long unsigned) 1);
+    EXPECT_DEATH(w->addJunction(roads),"Junction is on a invalid position");
+
     delete w;
 }

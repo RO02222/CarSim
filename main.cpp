@@ -44,7 +44,6 @@ int main() {
     return 0;
 }
 #endif
-
 #if VERSION == 98
 int main() {
     //World* w = input::loadWorldXML("../XML/bugattiVScar.xml");
@@ -52,18 +51,18 @@ int main() {
 
     //World* w = input::loadWorldXML("../XML/case3.xml");
     srand(123);
-    World* w = input::loadWorldXML("../testInput/testFail8.xml");
+    World* w = input::loadWorldXML("../XML/case1.xml");
     GenerateIni g(w, "sim");
     std::ofstream myFile;
     std::ofstream myFile1;
     myFile.open("../outputFile/Car_sim.txt");
     myFile1.open("../outputFile/Car_sim2.txt");
-    for (unsigned int i = 0; i<100; i++) {
+    for (unsigned int i = 0; i<300; i++) {
         g.generate();
         w->graficImpSimulateWorld(myFile1);
         w->simpleSimulateWorld(myFile);
-        for (unsigned int _ = 0; _<10; _++) {
-            w->updateWorld(0.1);
+        for (unsigned int _ = 0; _<2; _++) {
+            w->updateWorld(0.05);
         }
     }
     /*

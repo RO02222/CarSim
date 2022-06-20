@@ -2,1139 +2,9 @@
 type = "LineDrawing" rotateX = 0
 rotateY = 0
 rotateZ = 0
-scale = 1.0center = (0.1, 50, -2)
+scale = 1.0center = (0.1, 102.5, -2)
 color = (0.7529, 0.7529, 0.7529)
-nrPoints = 10
-nrLines = 6
-point0 = (0.0, 0.0, 0.0)
-point1 = (0.0, 0.0, 5.0)
-point2 = (0.0, -105, 5.0)
-point3 = (0.0, -105, 0.0)
-point4 = (1.0, 0.0, 0.0)
-point5 = (1.0, 0.0, 5.0)
-point6 = (1.0, -105, 5.0)
-point7 = (1.0, -105, 0.0)
-point8 = (-10.0, 0.0, 0.0)
-point9 = (8.0, 0.0, 0.0)
-line0 = (0,3,2,1)
-line1 = (4,7,6,5)
-line2 = (0,4,5,1)
-line3 = (0,4,7,3)
-line4 = (3,7,6,2)
-line5 = (1,5,6,2)
-[Figure1]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,6.784,0)
-color = (1, 1, 0)
-
-[Figure2]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,7.45,0)
-color = (0, 0, 0)
-
-[Figure3]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,8.117,0)
-color = (1, 1, 0)
-
-[Figure4]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,8.784,0)
-color = (1, 1, 0)
-
-[Figure5]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,9.45,0)
-color = (0, 0, 0)
-
-[Figure6]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,10.117,0)
-color = (1, 1, 0)
-
-[Figure7]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-1,7.45,0)
-color = (1, 1, 0)
-
-[Figure8]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,6.784,0)
-color = (0, 0, 1)
-
-[Figure9]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,7.45,0)
-color = (0, 0, 0)
-
-[Figure10]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,8.117,0)
-color = (0, 0, 0)
-
-[Figure11]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,8.784,0)
-color = (0, 0, 0)
-
-[Figure12]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,9.45,0)
-color = (0, 0, 1)
-
-[Figure13]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,10.117,0)
-color = (0, 0, 1)
-
-[Figure14]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-1,7.45,0)
-color = (0, 0, 1)
-
-[Figure15]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,6.784,0)
-color = (1, 1, 0)
-
-[Figure16]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,7.45,0)
-color = (0, 0, 0)
-
-[Figure17]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,8.117,0)
-color = (1, 1, 0)
-
-[Figure18]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,8.784,0)
-color = (1, 1, 0)
-
-[Figure19]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,9.45,0)
-color = (0, 0, 0)
-
-[Figure20]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,10.117,0)
-color = (1, 1, 0)
-
-[Figure21]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-1,7.45,0)
-color = (1, 1, 0)
-
-
-
-[Figure22]
-type = "Cube"
-scale = 0.1
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,7.45,0)
-color = (0.15, 0.15, 0.15)
-
-[Figure23]
-type = "Cube"
-scale = 0.1
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,7.45,0)
-color = (0.15, 0.15, 0.15)
-
-[Figure24]
-type = "Cube"
-scale = 0.1
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,9.45,0)
-color = (0.15, 0.15, 0.15)
-
-[Figure25]
-type = "Cube"
-scale = 0.1
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,9.45,0)
-color = (0.15, 0.15, 0.15)
-
-[Figure26]
-type = "Cube"
-scale = 0.1
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,10.45,0)
-color = (0.6, 0.5, 0)
-
-[Figure27]
-type = "Cube"
-scale = 0.1
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,10.45,0)
-color = (0.6, 0.5, 0)
-
-
-[Figure28]
-type = "Cube"
-scale = 0.1
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,6.45,0)
-color = (0.9, 0.1, 0.1)
-
-[Figure29]
-type = "Cube"
-scale = 0.1
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,6.45,0)
-color = (0.9, 0.1, 0.1)
-
-[Figure30]
-type = "LineDrawing"
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-scale = 1.0
-center = (0,8.45,0)
-color = (1, 1, 0)
 nrPoints = 8
-nrLines = 6
-point0 = (-1.366, 0.666, -1)
-point1 = (-1.366, -1.33, -1)
-point2 = (-1.366, -1.33, -0.333)
-point3 = (-1.366, 0.666, -0.333)
-
-point4 = (-1.333, 0.666, -1)
-point5 = (-1.333, -1.33, -1)
-point6 = (-1.333, -1.33, -0.333)
-point7 = (-1.333, 0.666, -0.333)
-
-point8 = (-1.333, 0.666, -1)
-point9 = (-1.333, -1.33, -1)
-point10 = (-1.333, -1.33, -0.333)
-point11 = (-1.333, 0.666, -0.333)
-
-line0 = (0,1,2,3)
-line1 = (7,6,5,4)
-line2 = (1,5,6,2)
-line3 = (0,3,7,4)
-line4 = (0,4,5,1)
-line5 = (3,2,6,7)
-
-[Figure31]
-type = "LineDrawing"
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-scale = 1.0
-center = (0,8.45,0)
-color = (0, 0, 1)
-nrPoints = 8
-nrLines = 6
-point0 = (-1.366, 0.666, -0.333)
-point1 = (-1.366, -1.33, -0.333)
-point2 = (-1.366, -1.33, 0.333)
-point3 = (-1.366, 0.666, 0.333)
-
-point4 = (-1.333, 0.666, -0.333)
-point5 = (-1.333, -1.33, -0.333)
-point6 = (-1.333, -1.33, 0.333)
-point7 = (-1.333, 0.666, 0.333)
-
-line0 = (0,1,2,3)
-line1 = (7,6,5,4)
-line2 = (1,5,6,2)
-line3 = (0,3,7,4)
-line4 = (0,4,5,1)
-line5 = (3,2,6,7)
-
-[Figure32]
-type = "LineDrawing"
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-scale = 1.0
-center = (0,8.45,0)
-color = (1, 1, 0)
-nrPoints = 8
-nrLines = 6
-point0 = (-1.366, 0.666, 0.333)
-point1 = (-1.366, -1.33, 0.333)
-point2 = (-1.366, -1.33, 1)
-point3 = (-1.366, 0.666, 1)
-point4 = (-1.333, 0.666, 0.333)
-point5 = (-1.333, -1.33, 0.333)
-point6 = (-1.333, -1.33, 1)
-point7 = (-1.333, 0.666, 1)
-line0 = (0,1,2,3)
-line1 = (7,6,5,4)
-line2 = (1,5,6,2)
-line3 = (0,3,7,4)
-line4 = (0,4,5,1)
-line5 = (3,2,6,7)
-[Figure33]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-23.8328,0)
-color = (0, 1, 0)
-
-[Figure34]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-23.1668,0)
-color = (0, 0, 0)
-
-[Figure35]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-22.4998,0)
-color = (0, 1, 0)
-
-[Figure36]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-21.8328,0)
-color = (0, 1, 0)
-
-[Figure37]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-21.1668,0)
-color = (0, 0, 0)
-
-[Figure38]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-20.4998,0)
-color = (0, 1, 0)
-
-[Figure39]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-1,-23.1668,0)
-color = (0, 1, 0)
-
-
-
-[Figure40]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-23.8328,0)
-color = (1, 1, 1)
-
-[Figure41]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-23.1668,0)
-color = (0, 0, 0)
-
-[Figure42]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-22.4998,0)
-color = (0, 0, 0)
-
-[Figure43]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-21.8328,0)
-color = (0, 0, 0)
-
-[Figure44]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-21.1668,0)
-color = (1, 1, 1)
-
-[Figure45]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-20.4998,0)
-color = (1, 1, 1)
-
-[Figure46]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-1,-23.1668,0)
-color = (1, 1, 1)
-
-
-
-
-[Figure47]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-23.8328,0)
-color = (0, 1, 0)
-
-[Figure48]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-23.1668,0)
-color = (0, 0, 0)
-
-[Figure49]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-22.4998,0)
-color = (0, 1, 0)
-
-[Figure50]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-21.8328,0)
-color = (0, 1, 0)
-
-[Figure51]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-21.1668,0)
-color = (0, 0, 0)
-
-[Figure52]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-20.4998,0)
-color = (0, 1, 0)
-
-[Figure53]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-1,-23.1668,0)
-color = (0, 1, 0)
-
-
-
-[Figure54]
-type = "Cube"
-scale = 0.1
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-23.1668,0)
-color = (0.15, 0.15, 0.15)
-
-[Figure55]
-type = "Cube"
-scale = 0.1
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-23.1668,0)
-color = (0.15, 0.15, 0.15)
-
-[Figure56]
-type = "Cube"
-scale = 0.1
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-21.1668,0)
-color = (0.15, 0.15, 0.15)
-
-[Figure57]
-type = "Cube"
-scale = 0.1
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-21.1668,0)
-color = (0.15, 0.15, 0.15)
-
-
-[Figure58]
-type = "Cube"
-scale = 0.1
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-20.1668,0)
-color = (0.6, 0.5, 0)
-
-[Figure59]
-type = "Cube"
-scale = 0.1
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-20.1668,0)
-color = (0.6, 0.5, 0)
-
-
-[Figure60]
-type = "Cube"
-scale = 0.1
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-24.1668,0)
-color = (0.9, 0.1, 0.1)
-
-[Figure61]
-type = "Cube"
-scale = 0.1
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-24.1668,0)
-color = (0.9, 0.1, 0.1)
-
-[Figure62]
-type = "LineDrawing"
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-scale = 1.0
-center = (0,-22.1668,0)
-color = (0, 1, 0)
-nrPoints = 8
-nrLines = 6
-point0 = (-1.366, 0.666, -1)
-point1 = (-1.366, -1.33, -1)
-point2 = (-1.366, -1.33, -0.333)
-point3 = (-1.366, 0.666, -0.333)
-
-point4 = (-1.333, 0.666, -1)
-point5 = (-1.333, -1.33, -1)
-point6 = (-1.333, -1.33, -0.333)
-point7 = (-1.333, 0.666, -0.333)
-
-point8 = (-1.333, 0.666, -1)
-point9 = (-1.333, -1.33, -1)
-point10 = (-1.333, -1.33, -0.333)
-point11 = (-1.333, 0.666, -0.333)
-
-line0 = (0,1,2,3)
-line1 = (7,6,5,4)
-line2 = (1,5,6,2)
-line3 = (0,3,7,4)
-line4 = (0,4,5,1)
-line5 = (3,2,6,7)
-
-[Figure63]
-type = "LineDrawing"
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-scale = 1.0
-center = (0,-22.1668,0)
-color = (1, 1, 1)
-nrPoints = 8
-nrLines = 6
-point0 = (-1.366, 0.666, -0.333)
-point1 = (-1.366, -1.33, -0.333)
-point2 = (-1.366, -1.33, 0.333)
-point3 = (-1.366, 0.666, 0.333)
-
-point4 = (-1.333, 0.666, -0.333)
-point5 = (-1.333, -1.33, -0.333)
-point6 = (-1.333, -1.33, 0.333)
-point7 = (-1.333, 0.666, 0.333)
-
-line0 = (0,1,2,3)
-line1 = (7,6,5,4)
-line2 = (1,5,6,2)
-line3 = (0,3,7,4)
-line4 = (0,4,5,1)
-line5 = (3,2,6,7)
-
-[Figure64]
-type = "LineDrawing"
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-scale = 1.0
-center = (0,-22.1668,0)
-color = (0, 1, 0)
-nrPoints = 8
-nrLines = 6
-point0 = (-1.366, 0.666, 0.333)
-point1 = (-1.366, -1.33, 0.333)
-point2 = (-1.366, -1.33, 1)
-point3 = (-1.366, 0.666, 1)
-point4 = (-1.333, 0.666, 0.333)
-point5 = (-1.333, -1.33, 0.333)
-point6 = (-1.333, -1.33, 1)
-point7 = (-1.333, 0.666, 1)
-line0 = (0,1,2,3)
-line1 = (7,6,5,4)
-line2 = (1,5,6,2)
-line3 = (0,3,7,4)
-line4 = (0,4,5,1)
-line5 = (3,2,6,7)
-[Figure65]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-48.4038,0)
-color = (1, 1, 0)
-
-[Figure66]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-47.7378,0)
-color = (0, 0, 0)
-
-[Figure67]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-47.0708,0)
-color = (1, 1, 0)
-
-[Figure68]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-46.4038,0)
-color = (1, 1, 0)
-
-[Figure69]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-45.7378,0)
-color = (0, 0, 0)
-
-[Figure70]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-45.0708,0)
-color = (1, 1, 0)
-
-[Figure71]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-1,-47.7378,0)
-color = (1, 1, 0)
-
-[Figure72]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-48.4038,0)
-color = (1, 1, 1)
-
-[Figure73]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-47.7378,0)
-color = (0, 0, 0)
-
-[Figure74]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-47.0708,0)
-color = (0, 0, 0)
-
-[Figure75]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-46.4038,0)
-color = (0, 0, 0)
-
-[Figure76]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-45.7378,0)
-color = (1, 1, 1)
-
-[Figure77]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-45.0708,0)
-color = (1, 1, 1)
-
-[Figure78]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-1,-47.7378,0)
-color = (1, 1, 1)
-
-[Figure79]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-48.4038,0)
-color = (1, 1, 0)
-
-[Figure80]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-47.7378,0)
-color = (0, 0, 0)
-
-[Figure81]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-47.0708,0)
-color = (1, 1, 0)
-
-[Figure82]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-46.4038,0)
-color = (1, 1, 0)
-
-[Figure83]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-45.7378,0)
-color = (0, 0, 0)
-
-[Figure84]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-45.0708,0)
-color = (1, 1, 0)
-
-[Figure85]
-type = "Cube"
-scale = 0.333
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-1,-47.7378,0)
-color = (1, 1, 0)
-
-[Figure86]
-type = "Cube"
-scale = 0.1
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-47.7378,0)
-color = (0.15, 0.15, 0.15)
-
-[Figure87]
-type = "Cube"
-scale = 0.1
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-47.7378,0)
-color = (0.15, 0.15, 0.15)
-
-[Figure88]
-type = "Cube"
-scale = 0.1
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-45.7378,0)
-color = (0.15, 0.15, 0.15)
-
-[Figure89]
-type = "Cube"
-scale = 0.1
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-45.7378,0)
-color = (0.15, 0.15, 0.15)
-
-[Figure90]
-type = "Cube"
-scale = 0.1
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-44.7378,0)
-color = (0.6, 0.5, 0)
-
-[Figure91]
-type = "Cube"
-scale = 0.1
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-44.7378,0)
-color = (0.6, 0.5, 0)
-
-[Figure92]
-type = "Cube"
-scale = 0.1
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-48.7378,0)
-color = (0.9, 0.1, 0.1)
-
-[Figure93]
-type = "Cube"
-scale = 0.1
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-0.333,-48.7378,0)
-color = (0.9, 0.1, 0.1)
-
-[Figure94]
-type = "LineDrawing"
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-scale = 1.0
-center = (0,-46.7378,0)
-color = (1, 1, 0)
-nrPoints = 8
-nrLines = 6
-point0 = (-1.366, 0.666, -1)
-point1 = (-1.366, -1.33, -1)
-point2 = (-1.366, -1.33, -0.333)
-point3 = (-1.366, 0.666, -0.333)
-
-point4 = (-1.333, 0.666, -1)
-point5 = (-1.333, -1.33, -1)
-point6 = (-1.333, -1.33, -0.333)
-point7 = (-1.333, 0.666, -0.333)
-
-point8 = (-1.333, 0.666, -1)
-point9 = (-1.333, -1.33, -1)
-point10 = (-1.333, -1.33, -0.333)
-point11 = (-1.333, 0.666, -0.333)
-
-line0 = (0,1,2,3)
-line1 = (7,6,5,4)
-line2 = (1,5,6,2)
-line3 = (0,3,7,4)
-line4 = (0,4,5,1)
-line5 = (3,2,6,7)
-
-[Figure95]
-type = "LineDrawing"
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-scale = 1.0
-center = (0,-46.7378,0)
-color = (1, 1, 1)
-nrPoints = 8
-nrLines = 6
-point0 = (-1.366, 0.666, -0.333)
-point1 = (-1.366, -1.33, -0.333)
-point2 = (-1.366, -1.33, 0.333)
-point3 = (-1.366, 0.666, 0.333)
-
-point4 = (-1.333, 0.666, -0.333)
-point5 = (-1.333, -1.33, -0.333)
-point6 = (-1.333, -1.33, 0.333)
-point7 = (-1.333, 0.666, 0.333)
-
-line0 = (0,1,2,3)
-line1 = (7,6,5,4)
-line2 = (1,5,6,2)
-line3 = (0,3,7,4)
-line4 = (0,4,5,1)
-line5 = (3,2,6,7)
-
-[Figure96]
-type = "LineDrawing"
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-scale = 1.0
-center = (0,-46.7378,0)
-color = (1, 1, 0)
-nrPoints = 8
-nrLines = 6
-point0 = (-1.366, 0.666, 0.333)
-point1 = (-1.366, -1.33, 0.333)
-point2 = (-1.366, -1.33, 1)
-point3 = (-1.366, 0.666, 1)
-point4 = (-1.333, 0.666, 0.333)
-point5 = (-1.333, -1.33, 0.333)
-point6 = (-1.333, -1.33, 1)
-point7 = (-1.333, 0.666, 1)
-line0 = (0,1,2,3)
-line1 = (7,6,5,4)
-line2 = (1,5,6,2)
-line3 = (0,3,7,4)
-line4 = (0,4,5,1)
-line5 = (3,2,6,7)
-[Figure97]
-type = "Cylinder"
-height = 20
-scale = 0.2
-rotateX = 0
-rotateY = -90
-rotateZ = 0
-center = (0,45,2.5)
-n = 15
-color = (0.2, 0.2, 0.2)
-
-[Figure98]
-type = "Cylinder"
-height = 5
-scale = 0.4
-rotateX = 0
-rotateY = -90
-rotateZ = 0
-center = (-2.2,45,2.5)
-n = 15
-color = (0.2, 0.2, 0.2)
-
-[Figure99]
-type = "Sphere"
-scale = 0.2
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-3.8,45,2.14)
-n = 5
-color = (0.2, 0, 0)
-
-[Figure100]
-type = "Sphere"
-scale = 0.2
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-3.25,45,2.14)
-n = 3
-color = (0.2, 0.1, 0)
-
-[Figure101]
-type = "Sphere"
-scale = 0.2
-rotateX = 0
-rotateY = 0
-rotateZ = 0
-center = (-2.7,45,2.14)
-n = 3
-color = (0, 1, 0)
-[Figure102]
-type = "Cylinder"
-height = 10
-scale = 0.4
-rotateX = 0
-rotateY = -90
-rotateZ = 0
-center = (0,-5,2.5)
-n = 15
-color = (0.9, 0.9, 0.0)
-
-[Figure103]
-type = "LineDrawing" rotateX = 0
-rotateY = 0
-rotateZ = 0
-scale = 1.0center = (0.1, 100, 17)
-color = (0.7529, 0.7529, 0.7529)
-nrPoints = 10
 nrLines = 6
 point0 = (0.0, 0.0, 0.0)
 point1 = (0.0, 0.0, 5.0)
@@ -1144,282 +14,353 @@ point4 = (1.0, 0.0, 0.0)
 point5 = (1.0, 0.0, 5.0)
 point6 = (1.0, -205, 5.0)
 point7 = (1.0, -205, 0.0)
-point8 = (-10.0, 0.0, 0.0)
-point9 = (8.0, 0.0, 0.0)
 line0 = (0,3,2,1)
 line1 = (4,7,6,5)
 line2 = (0,4,5,1)
 line3 = (0,4,7,3)
 line4 = (3,7,6,2)
 line5 = (1,5,6,2)
-[Figure104]
+[Figure1]
+type = "LineDrawing" rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0center = (0.1, 0, -2)
+color = (0.7529, 0.7529, 0.7529)
+nrPoints = 8
+nrLines = 6
+point0 = (0.0, 0.0, -7.5)
+point1 = (0.0, 5.0, -7.5)
+point2 = (0.0, 5.0, 12.5)
+point3 = (0.0, 0.0, 12.5)
+point4 = (1.0, 0.0, -7.5)
+point5 = (1.0, 5.0, -7.5)
+point6 = (1.0, 5.0, 12.5)
+point7 = (1.0, 0.0, 12.5)
+line0 = (0,3,2,1)
+line1 = (4,7,6,5)
+line2 = (0,4,5,1)
+line3 = (0,4,7,3)
+line4 = (3,7,6,2)
+line5 = (1,5,6,2)
+[Figure2]
+type = "Cylinder"
+height = 20
+scale = 0.2
+rotateX = 0
+rotateY = -90
+rotateZ = 0
+center = (0,0,-10)
+n = 15
+color = (0.2, 0.2, 0.2)
+
+[Figure3]
+type = "Cylinder"
+height = 5
+scale = 0.4
+rotateX = 0
+rotateY = -90
+rotateZ = 0
+center = (-2.2,0,-10)
+n = 15
+color = (0.2, 0.2, 0.2)
+
+[Figure4]
+type = "Sphere"
+scale = 0.2
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-3.8,0,-10.36)
+n = 5
+color = (1, 0, 0)
+
+[Figure5]
+type = "Sphere"
+scale = 0.2
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-3.25,0,-10.36)
+n = 3
+color = (0.2, 0.1, 0)
+
+[Figure6]
+type = "Sphere"
+scale = 0.2
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-2.7,0,-10.36)
+n = 3
+color = (0, 0.2, 0)
+[Figure7]
 type = "Cube"
 scale = 0.333
 rotateX = 0
 rotateY = 0
 rotateZ = 0
-center = (-0.333,-58.066,19)
+center = (-0.333,62.1132,0)
 color = (1, 1, 0)
 
-[Figure105]
+[Figure8]
 type = "Cube"
 scale = 0.333
 rotateX = 0
 rotateY = 0
 rotateZ = 0
-center = (-0.333,-57.4,19)
+center = (-0.333,62.7792,0)
 color = (0, 0, 0)
 
-[Figure106]
+[Figure9]
 type = "Cube"
 scale = 0.333
 rotateX = 0
 rotateY = 0
 rotateZ = 0
-center = (-0.333,-56.733,19)
+center = (-0.333,63.4462,0)
 color = (1, 1, 0)
 
-[Figure107]
+[Figure10]
 type = "Cube"
 scale = 0.333
 rotateX = 0
 rotateY = 0
 rotateZ = 0
-center = (-0.333,-56.066,19)
+center = (-0.333,64.1132,0)
 color = (1, 1, 0)
 
-[Figure108]
+[Figure11]
 type = "Cube"
 scale = 0.333
 rotateX = 0
 rotateY = 0
 rotateZ = 0
-center = (-0.333,-55.4,19)
+center = (-0.333,64.7792,0)
 color = (0, 0, 0)
 
-[Figure109]
+[Figure12]
 type = "Cube"
 scale = 0.333
 rotateX = 0
 rotateY = 0
 rotateZ = 0
-center = (-0.333,-54.733,19)
+center = (-0.333,65.4462,0)
 color = (1, 1, 0)
 
-[Figure110]
+[Figure13]
 type = "Cube"
 scale = 0.333
 rotateX = 0
 rotateY = 0
 rotateZ = 0
-center = (-1,-57.4,19)
+center = (-1,62.7792,0)
 color = (1, 1, 0)
 
-[Figure111]
+[Figure14]
 type = "Cube"
 scale = 0.333
 rotateX = 0
 rotateY = 0
 rotateZ = 0
-center = (-0.333,-58.066,20)
+center = (-0.333,62.1132,0)
 color = (1, 1, 1)
 
-[Figure112]
+[Figure15]
 type = "Cube"
 scale = 0.333
 rotateX = 0
 rotateY = 0
 rotateZ = 0
-center = (-0.333,-57.4,20)
+center = (-0.333,62.7792,0)
 color = (0, 0, 0)
 
-[Figure113]
+[Figure16]
 type = "Cube"
 scale = 0.333
 rotateX = 0
 rotateY = 0
 rotateZ = 0
-center = (-0.333,-56.733,20)
+center = (-0.333,63.4462,0)
 color = (0, 0, 0)
 
-[Figure114]
+[Figure17]
 type = "Cube"
 scale = 0.333
 rotateX = 0
 rotateY = 0
 rotateZ = 0
-center = (-0.333,-56.066,20)
+center = (-0.333,64.1132,0)
 color = (0, 0, 0)
 
-[Figure115]
+[Figure18]
 type = "Cube"
 scale = 0.333
 rotateX = 0
 rotateY = 0
 rotateZ = 0
-center = (-0.333,-55.4,20)
+center = (-0.333,64.7792,0)
 color = (1, 1, 1)
 
-[Figure116]
+[Figure19]
 type = "Cube"
 scale = 0.333
 rotateX = 0
 rotateY = 0
 rotateZ = 0
-center = (-0.333,-54.733,20)
+center = (-0.333,65.4462,0)
 color = (1, 1, 1)
 
-[Figure117]
+[Figure20]
 type = "Cube"
 scale = 0.333
 rotateX = 0
 rotateY = 0
 rotateZ = 0
-center = (-1,-57.4,20)
+center = (-1,62.7792,0)
 color = (1, 1, 1)
 
-[Figure118]
+[Figure21]
 type = "Cube"
 scale = 0.333
 rotateX = 0
 rotateY = 0
 rotateZ = 0
-center = (-0.333,-58.066,20)
+center = (-0.333,62.1132,0)
 color = (1, 1, 0)
 
-[Figure119]
+[Figure22]
 type = "Cube"
 scale = 0.333
 rotateX = 0
 rotateY = 0
 rotateZ = 0
-center = (-0.333,-57.4,20)
+center = (-0.333,62.7792,0)
 color = (0, 0, 0)
 
-[Figure120]
+[Figure23]
 type = "Cube"
 scale = 0.333
 rotateX = 0
 rotateY = 0
 rotateZ = 0
-center = (-0.333,-56.733,20)
+center = (-0.333,63.4462,0)
 color = (1, 1, 0)
 
-[Figure121]
+[Figure24]
 type = "Cube"
 scale = 0.333
 rotateX = 0
 rotateY = 0
 rotateZ = 0
-center = (-0.333,-56.066,20)
+center = (-0.333,64.1132,0)
 color = (1, 1, 0)
 
-[Figure122]
+[Figure25]
 type = "Cube"
 scale = 0.333
 rotateX = 0
 rotateY = 0
 rotateZ = 0
-center = (-0.333,-55.4,20)
+center = (-0.333,64.7792,0)
 color = (0, 0, 0)
 
-[Figure123]
+[Figure26]
 type = "Cube"
 scale = 0.333
 rotateX = 0
 rotateY = 0
 rotateZ = 0
-center = (-0.333,-54.733,20)
+center = (-0.333,65.4462,0)
 color = (1, 1, 0)
 
-[Figure124]
+[Figure27]
 type = "Cube"
 scale = 0.333
 rotateX = 0
 rotateY = 0
 rotateZ = 0
-center = (-1,-57.4,20)
+center = (-1,62.7792,0)
 color = (1, 1, 0)
 
-[Figure125]
+[Figure28]
 type = "Cube"
 scale = 0.1
 rotateX = 0
 rotateY = 0
 rotateZ = 0
-center = (-0.333,-57.4,20)
+center = (-0.333,62.7792,0)
 color = (0.15, 0.15, 0.15)
 
-[Figure126]
+[Figure29]
 type = "Cube"
 scale = 0.1
 rotateX = 0
 rotateY = 0
 rotateZ = 0
-center = (-0.333,-57.4,19)
+center = (-0.333,62.7792,0)
 color = (0.15, 0.15, 0.15)
 
-[Figure127]
+[Figure30]
 type = "Cube"
 scale = 0.1
 rotateX = 0
 rotateY = 0
 rotateZ = 0
-center = (-0.333,-55.4,20)
+center = (-0.333,64.7792,0)
 color = (0.15, 0.15, 0.15)
 
-[Figure128]
+[Figure31]
 type = "Cube"
 scale = 0.1
 rotateX = 0
 rotateY = 0
 rotateZ = 0
-center = (-0.333,-55.4,19)
+center = (-0.333,64.7792,0)
 color = (0.15, 0.15, 0.15)
 
-[Figure129]
+[Figure32]
 type = "Cube"
 scale = 0.1
 rotateX = 0
 rotateY = 0
 rotateZ = 0
-center = (-0.333,-54.4,20)
+center = (-0.333,65.7792,0)
 color = (0.6, 0.5, 0)
 
-[Figure130]
+[Figure33]
 type = "Cube"
 scale = 0.1
 rotateX = 0
 rotateY = 0
 rotateZ = 0
-center = (-0.333,-54.4,19)
+center = (-0.333,65.7792,0)
 color = (0.6, 0.5, 0)
 
-[Figure131]
+[Figure34]
 type = "Cube"
 scale = 0.1
 rotateX = 0
 rotateY = 0
 rotateZ = 0
-center = (-0.333,-58.4,20)
+center = (-0.333,61.7792,0)
 color = (0.9, 0.1, 0.1)
 
-[Figure132]
+[Figure35]
 type = "Cube"
 scale = 0.1
 rotateX = 0
 rotateY = 0
 rotateZ = 0
-center = (-0.333,-58.4,19)
+center = (-0.333,61.7792,0)
 color = (0.9, 0.1, 0.1)
 
-[Figure133]
+[Figure36]
 type = "LineDrawing"
 rotateX = 0
 rotateY = 0
 rotateZ = 0
 scale = 1.0
-center = (0,-56.4,20)
+center = (0,63.7792,0)
 color = (1, 1, 0)
 nrPoints = 8
 nrLines = 6
@@ -1445,13 +386,13 @@ line3 = (0,3,7,4)
 line4 = (0,4,5,1)
 line5 = (3,2,6,7)
 
-[Figure134]
+[Figure37]
 type = "LineDrawing"
 rotateX = 0
 rotateY = 0
 rotateZ = 0
 scale = 1.0
-center = (0,-56.4,20)
+center = (0,63.7792,0)
 color = (1, 1, 1)
 nrPoints = 8
 nrLines = 6
@@ -1472,13 +413,13 @@ line3 = (0,3,7,4)
 line4 = (0,4,5,1)
 line5 = (3,2,6,7)
 
-[Figure135]
+[Figure38]
 type = "LineDrawing"
 rotateX = 0
 rotateY = 0
 rotateZ = 0
 scale = 1.0
-center = (0,-56.4,20)
+center = (0,63.7792,0)
 color = (1, 1, 0)
 nrPoints = 8
 nrLines = 6
@@ -1496,3 +437,6759 @@ line2 = (1,5,6,2)
 line3 = (0,3,7,4)
 line4 = (0,4,5,1)
 line5 = (3,2,6,7)
+[Figure39]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,30.8857,0)
+color = (0, 1, 0)
+
+[Figure40]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,31.5517,0)
+color = (0, 0, 0)
+
+[Figure41]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,32.2187,0)
+color = (0, 1, 0)
+
+[Figure42]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,32.8857,0)
+color = (0, 1, 0)
+
+[Figure43]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,33.5517,0)
+color = (0, 0, 0)
+
+[Figure44]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,34.2187,0)
+color = (0, 1, 0)
+
+[Figure45]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,31.5517,0)
+color = (0, 1, 0)
+
+
+
+[Figure46]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,30.8857,0)
+color = (1, 1, 1)
+
+[Figure47]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,31.5517,0)
+color = (0, 0, 0)
+
+[Figure48]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,32.2187,0)
+color = (0, 0, 0)
+
+[Figure49]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,32.8857,0)
+color = (0, 0, 0)
+
+[Figure50]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,33.5517,0)
+color = (1, 1, 1)
+
+[Figure51]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,34.2187,0)
+color = (1, 1, 1)
+
+[Figure52]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,31.5517,0)
+color = (1, 1, 1)
+
+
+
+
+[Figure53]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,30.8857,0)
+color = (0, 1, 0)
+
+[Figure54]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,31.5517,0)
+color = (0, 0, 0)
+
+[Figure55]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,32.2187,0)
+color = (0, 1, 0)
+
+[Figure56]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,32.8857,0)
+color = (0, 1, 0)
+
+[Figure57]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,33.5517,0)
+color = (0, 0, 0)
+
+[Figure58]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,34.2187,0)
+color = (0, 1, 0)
+
+[Figure59]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,31.5517,0)
+color = (0, 1, 0)
+
+
+
+[Figure60]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,31.5517,0)
+color = (0.15, 0.15, 0.15)
+
+[Figure61]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,31.5517,0)
+color = (0.15, 0.15, 0.15)
+
+[Figure62]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,33.5517,0)
+color = (0.15, 0.15, 0.15)
+
+[Figure63]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,33.5517,0)
+color = (0.15, 0.15, 0.15)
+
+
+[Figure64]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,34.5517,0)
+color = (0.6, 0.5, 0)
+
+[Figure65]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,34.5517,0)
+color = (0.6, 0.5, 0)
+
+
+[Figure66]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,30.5517,0)
+color = (0.9, 0.1, 0.1)
+
+[Figure67]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,30.5517,0)
+color = (0.9, 0.1, 0.1)
+
+[Figure68]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,32.5517,0)
+color = (0, 1, 0)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, -1)
+point1 = (-1.366, -1.33, -1)
+point2 = (-1.366, -1.33, -0.333)
+point3 = (-1.366, 0.666, -0.333)
+
+point4 = (-1.333, 0.666, -1)
+point5 = (-1.333, -1.33, -1)
+point6 = (-1.333, -1.33, -0.333)
+point7 = (-1.333, 0.666, -0.333)
+
+point8 = (-1.333, 0.666, -1)
+point9 = (-1.333, -1.33, -1)
+point10 = (-1.333, -1.33, -0.333)
+point11 = (-1.333, 0.666, -0.333)
+
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+
+[Figure69]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,32.5517,0)
+color = (1, 1, 1)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, -0.333)
+point1 = (-1.366, -1.33, -0.333)
+point2 = (-1.366, -1.33, 0.333)
+point3 = (-1.366, 0.666, 0.333)
+
+point4 = (-1.333, 0.666, -0.333)
+point5 = (-1.333, -1.33, -0.333)
+point6 = (-1.333, -1.33, 0.333)
+point7 = (-1.333, 0.666, 0.333)
+
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+
+[Figure70]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,32.5517,0)
+color = (0, 1, 0)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, 0.333)
+point1 = (-1.366, -1.33, 0.333)
+point2 = (-1.366, -1.33, 1)
+point3 = (-1.366, 0.666, 1)
+point4 = (-1.333, 0.666, 0.333)
+point5 = (-1.333, -1.33, 0.333)
+point6 = (-1.333, -1.33, 1)
+point7 = (-1.333, 0.666, 1)
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+[Figure71]
+type = "Cylinder"
+height = 20
+scale = 0.2
+rotateX = 0
+rotateY = -90
+rotateZ = 0
+center = (0,-3,2.5)
+n = 15
+color = (0.2, 0.2, 0.2)
+
+[Figure72]
+type = "Cylinder"
+height = 5
+scale = 0.4
+rotateX = 0
+rotateY = -90
+rotateZ = 0
+center = (-2.2,-3,2.5)
+n = 15
+color = (0.2, 0.2, 0.2)
+
+[Figure73]
+type = "Sphere"
+scale = 0.2
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-3.8,-3,2.14)
+n = 5
+color = (1, 0, 0)
+
+[Figure74]
+type = "Sphere"
+scale = 0.2
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-3.25,-3,2.14)
+n = 3
+color = (0.2, 0.1, 0)
+
+[Figure75]
+type = "Sphere"
+scale = 0.2
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-2.7,-3,2.14)
+n = 3
+color = (0, 0.2, 0)
+[Figure76]
+type = "LineDrawing" rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0center = (0.1, 102.5, 22)
+color = (0.7529, 0.7529, 0.7529)
+nrPoints = 8
+nrLines = 6
+point0 = (0.0, 0.0, 0.0)
+point1 = (0.0, 0.0, 5.0)
+point2 = (0.0, -205, 5.0)
+point3 = (0.0, -205, 0.0)
+point4 = (1.0, 0.0, 0.0)
+point5 = (1.0, 0.0, 5.0)
+point6 = (1.0, -205, 5.0)
+point7 = (1.0, -205, 0.0)
+line0 = (0,3,2,1)
+line1 = (4,7,6,5)
+line2 = (0,4,5,1)
+line3 = (0,4,7,3)
+line4 = (3,7,6,2)
+line5 = (1,5,6,2)
+[Figure77]
+type = "LineDrawing" rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0center = (0.1, 0, 22)
+color = (0.7529, 0.7529, 0.7529)
+nrPoints = 8
+nrLines = 6
+point0 = (0.0, 0.0, -7.5)
+point1 = (0.0, 5.0, -7.5)
+point2 = (0.0, 5.0, 12.5)
+point3 = (0.0, 0.0, 12.5)
+point4 = (1.0, 0.0, -7.5)
+point5 = (1.0, 5.0, -7.5)
+point6 = (1.0, 5.0, 12.5)
+point7 = (1.0, 0.0, 12.5)
+line0 = (0,3,2,1)
+line1 = (4,7,6,5)
+line2 = (0,4,5,1)
+line3 = (0,4,7,3)
+line4 = (3,7,6,2)
+line5 = (1,5,6,2)
+[Figure78]
+type = "Cylinder"
+height = 20
+scale = 0.2
+rotateX = 0
+rotateY = -90
+rotateZ = 0
+center = (0,0,15)
+n = 15
+color = (0.2, 0.2, 0.2)
+
+[Figure79]
+type = "Cylinder"
+height = 5
+scale = 0.4
+rotateX = 0
+rotateY = -90
+rotateZ = 0
+center = (-2.2,0,15)
+n = 15
+color = (0.2, 0.2, 0.2)
+
+[Figure80]
+type = "Sphere"
+scale = 0.2
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-3.8,0,14.64)
+n = 5
+color = (1, 0, 0)
+
+[Figure81]
+type = "Sphere"
+scale = 0.2
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-3.25,0,14.64)
+n = 3
+color = (0.2, 0.1, 0)
+
+[Figure82]
+type = "Sphere"
+scale = 0.2
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-2.7,0,14.64)
+n = 3
+color = (0, 0.2, 0)
+[Figure83]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-8.68038,24)
+color = (0, 1, 0)
+
+[Figure84]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-8.01438,24)
+color = (0, 0, 0)
+
+[Figure85]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-7.34738,24)
+color = (0, 1, 0)
+
+[Figure86]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-6.68038,24)
+color = (0, 1, 0)
+
+[Figure87]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-6.01438,24)
+color = (0, 0, 0)
+
+[Figure88]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-5.34738,24)
+color = (0, 1, 0)
+
+[Figure89]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-8.01438,24)
+color = (0, 1, 0)
+
+
+
+[Figure90]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-8.68038,25)
+color = (1, 1, 1)
+
+[Figure91]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-8.01438,25)
+color = (0, 0, 0)
+
+[Figure92]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-7.34738,25)
+color = (0, 0, 0)
+
+[Figure93]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-6.68038,25)
+color = (0, 0, 0)
+
+[Figure94]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-6.01438,25)
+color = (1, 1, 1)
+
+[Figure95]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-5.34738,25)
+color = (1, 1, 1)
+
+[Figure96]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-8.01438,25)
+color = (1, 1, 1)
+
+
+
+
+[Figure97]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-8.68038,25)
+color = (0, 1, 0)
+
+[Figure98]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-8.01438,25)
+color = (0, 0, 0)
+
+[Figure99]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-7.34738,25)
+color = (0, 1, 0)
+
+[Figure100]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-6.68038,25)
+color = (0, 1, 0)
+
+[Figure101]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-6.01438,25)
+color = (0, 0, 0)
+
+[Figure102]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-5.34738,25)
+color = (0, 1, 0)
+
+[Figure103]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-8.01438,25)
+color = (0, 1, 0)
+
+
+
+[Figure104]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-8.01438,25)
+color = (0.15, 0.15, 0.15)
+
+[Figure105]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-8.01438,24)
+color = (0.15, 0.15, 0.15)
+
+[Figure106]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-6.01438,25)
+color = (0.15, 0.15, 0.15)
+
+[Figure107]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-6.01438,24)
+color = (0.15, 0.15, 0.15)
+
+
+[Figure108]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-5.01438,25)
+color = (0.6, 0.5, 0)
+
+[Figure109]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-5.01438,24)
+color = (0.6, 0.5, 0)
+
+
+[Figure110]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-9.01438,25)
+color = (0.9, 0.1, 0.1)
+
+[Figure111]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-9.01438,24)
+color = (0.9, 0.1, 0.1)
+
+[Figure112]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-7.01438,25)
+color = (0, 1, 0)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, -1)
+point1 = (-1.366, -1.33, -1)
+point2 = (-1.366, -1.33, -0.333)
+point3 = (-1.366, 0.666, -0.333)
+
+point4 = (-1.333, 0.666, -1)
+point5 = (-1.333, -1.33, -1)
+point6 = (-1.333, -1.33, -0.333)
+point7 = (-1.333, 0.666, -0.333)
+
+point8 = (-1.333, 0.666, -1)
+point9 = (-1.333, -1.33, -1)
+point10 = (-1.333, -1.33, -0.333)
+point11 = (-1.333, 0.666, -0.333)
+
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+
+[Figure113]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-7.01438,25)
+color = (1, 1, 1)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, -0.333)
+point1 = (-1.366, -1.33, -0.333)
+point2 = (-1.366, -1.33, 0.333)
+point3 = (-1.366, 0.666, 0.333)
+
+point4 = (-1.333, 0.666, -0.333)
+point5 = (-1.333, -1.33, -0.333)
+point6 = (-1.333, -1.33, 0.333)
+point7 = (-1.333, 0.666, 0.333)
+
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+
+[Figure114]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-7.01438,25)
+color = (0, 1, 0)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, 0.333)
+point1 = (-1.366, -1.33, 0.333)
+point2 = (-1.366, -1.33, 1)
+point3 = (-1.366, 0.666, 1)
+point4 = (-1.333, 0.666, 0.333)
+point5 = (-1.333, -1.33, 0.333)
+point6 = (-1.333, -1.33, 1)
+point7 = (-1.333, 0.666, 1)
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+[Figure115]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-13.6905,24)
+color = (0.98, 0.5, 0.45)
+
+[Figure116]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-13.0245,24)
+color = (0, 0, 0)
+
+[Figure117]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-12.3575,24)
+color = (0.98, 0.5, 0.45)
+
+[Figure118]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-11.6905,24)
+color = (0.98, 0.5, 0.45)
+
+[Figure119]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-11.0245,24)
+color = (0, 0, 0)
+
+[Figure120]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-10.3575,24)
+color = (0.98, 0.5, 0.45)
+
+[Figure121]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-13.0245,24)
+color = (0.98, 0.5, 0.45)
+
+[Figure122]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-13.6905,25)
+color = (0.98, 0.5, 0.45)
+
+[Figure123]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-13.0245,25)
+color = (0, 0, 0)
+
+[Figure124]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-12.3575,25)
+color = (0, 0, 0)
+
+[Figure125]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-11.6905,25)
+color = (0, 0, 0)
+
+[Figure126]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-11.0245,25)
+color = (0.98, 0.5, 0.45)
+
+[Figure127]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-10.3575,25)
+color = (0.98, 0.5, 0.45)
+
+[Figure128]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-13.0245,25)
+color = (0.98, 0.5, 0.45)
+
+[Figure129]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-13.6905,25)
+color = (0.98, 0.5, 0.45)
+
+[Figure130]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-13.0245,25)
+color = (0, 0, 0)
+
+[Figure131]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-12.3575,25)
+color = (0.98, 0.5, 0.45)
+
+[Figure132]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-11.6905,25)
+color = (0.98, 0.5, 0.45)
+
+[Figure133]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-11.0245,25)
+color = (0, 0, 0)
+
+[Figure134]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-10.3575,25)
+color = (0.98, 0.5, 0.45)
+
+[Figure135]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-13.0245,25)
+color = (0.98, 0.5, 0.45)
+
+[Figure136]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-13.0245,25)
+color = (0.15, 0.15, 0.15)
+
+[Figure137]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-13.0245,24)
+color = (0.15, 0.15, 0.15)
+
+[Figure138]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-11.0245,25)
+color = (0.15, 0.15, 0.15)
+
+[Figure139]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-11.0245,24)
+color = (0.15, 0.15, 0.15)
+
+[Figure140]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-10.0245,25)
+color = (0.6, 0.5, 0)
+
+[Figure141]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-10.0245,24)
+color = (0.6, 0.5, 0)
+
+[Figure142]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-14.0245,25)
+color = (0.9, 0.1, 0.1)
+
+[Figure143]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-14.0245,24)
+color = (0.9, 0.1, 0.1)
+
+[Figure144]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-12.0245,25)
+color = (0.98, 0.5, 0.45)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, -1)
+point1 = (-1.366, -1.33, -1)
+point2 = (-1.366, -1.33, -0.333)
+point3 = (-1.366, 0.666, -0.333)
+
+point4 = (-1.333, 0.666, -1)
+point5 = (-1.333, -1.33, -1)
+point6 = (-1.333, -1.33, -0.333)
+point7 = (-1.333, 0.666, -0.333)
+
+point8 = (-1.333, 0.666, -1)
+point9 = (-1.333, -1.33, -1)
+point10 = (-1.333, -1.33, -0.333)
+point11 = (-1.333, 0.666, -0.333)
+
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+
+[Figure145]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-12.0245,25)
+color = (0.98, 0.5, 0.45)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, -0.333)
+point1 = (-1.366, -1.33, -0.333)
+point2 = (-1.366, -1.33, 0.333)
+point3 = (-1.366, 0.666, 0.333)
+
+point4 = (-1.333, 0.666, -0.333)
+point5 = (-1.333, -1.33, -0.333)
+point6 = (-1.333, -1.33, 0.333)
+point7 = (-1.333, 0.666, 0.333)
+
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+
+[Figure146]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-12.0245,25)
+color = (0.98, 0.5, 0.45)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, 0.333)
+point1 = (-1.366, -1.33, 0.333)
+point2 = (-1.366, -1.33, 1)
+point3 = (-1.366, 0.666, 1)
+point4 = (-1.333, 0.666, 0.333)
+point5 = (-1.333, -1.33, 0.333)
+point6 = (-1.333, -1.33, 1)
+point7 = (-1.333, 0.666, 1)
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+[Figure147]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-21.3884,24)
+color = (0, 1, 0)
+
+[Figure148]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-20.7224,24)
+color = (0, 0, 0)
+
+[Figure149]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-20.0554,24)
+color = (0, 1, 0)
+
+[Figure150]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-19.3884,24)
+color = (0, 1, 0)
+
+[Figure151]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-18.7224,24)
+color = (0, 0, 0)
+
+[Figure152]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-18.0554,24)
+color = (0, 1, 0)
+
+[Figure153]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-20.7224,24)
+color = (0, 1, 0)
+
+
+
+[Figure154]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-21.3884,25)
+color = (1, 1, 1)
+
+[Figure155]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-20.7224,25)
+color = (0, 0, 0)
+
+[Figure156]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-20.0554,25)
+color = (0, 0, 0)
+
+[Figure157]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-19.3884,25)
+color = (0, 0, 0)
+
+[Figure158]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-18.7224,25)
+color = (1, 1, 1)
+
+[Figure159]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-18.0554,25)
+color = (1, 1, 1)
+
+[Figure160]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-20.7224,25)
+color = (1, 1, 1)
+
+
+
+
+[Figure161]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-21.3884,25)
+color = (0, 1, 0)
+
+[Figure162]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-20.7224,25)
+color = (0, 0, 0)
+
+[Figure163]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-20.0554,25)
+color = (0, 1, 0)
+
+[Figure164]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-19.3884,25)
+color = (0, 1, 0)
+
+[Figure165]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-18.7224,25)
+color = (0, 0, 0)
+
+[Figure166]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-18.0554,25)
+color = (0, 1, 0)
+
+[Figure167]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-20.7224,25)
+color = (0, 1, 0)
+
+
+
+[Figure168]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-20.7224,25)
+color = (0.15, 0.15, 0.15)
+
+[Figure169]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-20.7224,24)
+color = (0.15, 0.15, 0.15)
+
+[Figure170]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-18.7224,25)
+color = (0.15, 0.15, 0.15)
+
+[Figure171]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-18.7224,24)
+color = (0.15, 0.15, 0.15)
+
+
+[Figure172]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-17.7224,25)
+color = (0.6, 0.5, 0)
+
+[Figure173]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-17.7224,24)
+color = (0.6, 0.5, 0)
+
+
+[Figure174]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-21.7224,25)
+color = (0.9, 0.1, 0.1)
+
+[Figure175]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-21.7224,24)
+color = (0.9, 0.1, 0.1)
+
+[Figure176]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-19.7224,25)
+color = (0, 1, 0)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, -1)
+point1 = (-1.366, -1.33, -1)
+point2 = (-1.366, -1.33, -0.333)
+point3 = (-1.366, 0.666, -0.333)
+
+point4 = (-1.333, 0.666, -1)
+point5 = (-1.333, -1.33, -1)
+point6 = (-1.333, -1.33, -0.333)
+point7 = (-1.333, 0.666, -0.333)
+
+point8 = (-1.333, 0.666, -1)
+point9 = (-1.333, -1.33, -1)
+point10 = (-1.333, -1.33, -0.333)
+point11 = (-1.333, 0.666, -0.333)
+
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+
+[Figure177]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-19.7224,25)
+color = (1, 1, 1)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, -0.333)
+point1 = (-1.366, -1.33, -0.333)
+point2 = (-1.366, -1.33, 0.333)
+point3 = (-1.366, 0.666, 0.333)
+
+point4 = (-1.333, 0.666, -0.333)
+point5 = (-1.333, -1.33, -0.333)
+point6 = (-1.333, -1.33, 0.333)
+point7 = (-1.333, 0.666, 0.333)
+
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+
+[Figure178]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-19.7224,25)
+color = (0, 1, 0)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, 0.333)
+point1 = (-1.366, -1.33, 0.333)
+point2 = (-1.366, -1.33, 1)
+point3 = (-1.366, 0.666, 1)
+point4 = (-1.333, 0.666, 0.333)
+point5 = (-1.333, -1.33, 0.333)
+point6 = (-1.333, -1.33, 1)
+point7 = (-1.333, 0.666, 1)
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+[Figure179]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-32.0294,24)
+color = (0, 1, 0)
+
+[Figure180]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-31.3634,24)
+color = (0, 0, 0)
+
+[Figure181]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-30.6964,24)
+color = (0, 1, 0)
+
+[Figure182]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-30.0294,24)
+color = (0, 1, 0)
+
+[Figure183]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-29.3634,24)
+color = (0, 0, 0)
+
+[Figure184]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-28.6964,24)
+color = (0, 1, 0)
+
+[Figure185]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-31.3634,24)
+color = (0, 1, 0)
+
+
+
+[Figure186]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-32.0294,25)
+color = (1, 1, 1)
+
+[Figure187]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-31.3634,25)
+color = (0, 0, 0)
+
+[Figure188]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-30.6964,25)
+color = (0, 0, 0)
+
+[Figure189]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-30.0294,25)
+color = (0, 0, 0)
+
+[Figure190]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-29.3634,25)
+color = (1, 1, 1)
+
+[Figure191]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-28.6964,25)
+color = (1, 1, 1)
+
+[Figure192]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-31.3634,25)
+color = (1, 1, 1)
+
+
+
+
+[Figure193]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-32.0294,25)
+color = (0, 1, 0)
+
+[Figure194]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-31.3634,25)
+color = (0, 0, 0)
+
+[Figure195]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-30.6964,25)
+color = (0, 1, 0)
+
+[Figure196]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-30.0294,25)
+color = (0, 1, 0)
+
+[Figure197]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-29.3634,25)
+color = (0, 0, 0)
+
+[Figure198]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-28.6964,25)
+color = (0, 1, 0)
+
+[Figure199]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-31.3634,25)
+color = (0, 1, 0)
+
+
+
+[Figure200]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-31.3634,25)
+color = (0.15, 0.15, 0.15)
+
+[Figure201]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-31.3634,24)
+color = (0.15, 0.15, 0.15)
+
+[Figure202]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-29.3634,25)
+color = (0.15, 0.15, 0.15)
+
+[Figure203]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-29.3634,24)
+color = (0.15, 0.15, 0.15)
+
+
+[Figure204]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-28.3634,25)
+color = (0.6, 0.5, 0)
+
+[Figure205]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-28.3634,24)
+color = (0.6, 0.5, 0)
+
+
+[Figure206]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-32.3634,25)
+color = (0.9, 0.1, 0.1)
+
+[Figure207]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-32.3634,24)
+color = (0.9, 0.1, 0.1)
+
+[Figure208]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-30.3634,25)
+color = (0, 1, 0)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, -1)
+point1 = (-1.366, -1.33, -1)
+point2 = (-1.366, -1.33, -0.333)
+point3 = (-1.366, 0.666, -0.333)
+
+point4 = (-1.333, 0.666, -1)
+point5 = (-1.333, -1.33, -1)
+point6 = (-1.333, -1.33, -0.333)
+point7 = (-1.333, 0.666, -0.333)
+
+point8 = (-1.333, 0.666, -1)
+point9 = (-1.333, -1.33, -1)
+point10 = (-1.333, -1.33, -0.333)
+point11 = (-1.333, 0.666, -0.333)
+
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+
+[Figure209]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-30.3634,25)
+color = (1, 1, 1)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, -0.333)
+point1 = (-1.366, -1.33, -0.333)
+point2 = (-1.366, -1.33, 0.333)
+point3 = (-1.366, 0.666, 0.333)
+
+point4 = (-1.333, 0.666, -0.333)
+point5 = (-1.333, -1.33, -0.333)
+point6 = (-1.333, -1.33, 0.333)
+point7 = (-1.333, 0.666, 0.333)
+
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+
+[Figure210]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-30.3634,25)
+color = (0, 1, 0)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, 0.333)
+point1 = (-1.366, -1.33, 0.333)
+point2 = (-1.366, -1.33, 1)
+point3 = (-1.366, 0.666, 1)
+point4 = (-1.333, 0.666, 0.333)
+point5 = (-1.333, -1.33, 0.333)
+point6 = (-1.333, -1.33, 1)
+point7 = (-1.333, 0.666, 1)
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+[Figure211]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-42.5036,24)
+color = (0.98, 0.5, 0.45)
+
+[Figure212]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-41.8376,24)
+color = (0, 0, 0)
+
+[Figure213]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-41.1706,24)
+color = (0.98, 0.5, 0.45)
+
+[Figure214]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-40.5036,24)
+color = (0.98, 0.5, 0.45)
+
+[Figure215]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-39.8376,24)
+color = (0, 0, 0)
+
+[Figure216]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-39.1706,24)
+color = (0.98, 0.5, 0.45)
+
+[Figure217]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-41.8376,24)
+color = (0.98, 0.5, 0.45)
+
+[Figure218]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-42.5036,25)
+color = (0.98, 0.5, 0.45)
+
+[Figure219]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-41.8376,25)
+color = (0, 0, 0)
+
+[Figure220]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-41.1706,25)
+color = (0, 0, 0)
+
+[Figure221]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-40.5036,25)
+color = (0, 0, 0)
+
+[Figure222]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-39.8376,25)
+color = (0.98, 0.5, 0.45)
+
+[Figure223]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-39.1706,25)
+color = (0.98, 0.5, 0.45)
+
+[Figure224]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-41.8376,25)
+color = (0.98, 0.5, 0.45)
+
+[Figure225]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-42.5036,25)
+color = (0.98, 0.5, 0.45)
+
+[Figure226]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-41.8376,25)
+color = (0, 0, 0)
+
+[Figure227]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-41.1706,25)
+color = (0.98, 0.5, 0.45)
+
+[Figure228]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-40.5036,25)
+color = (0.98, 0.5, 0.45)
+
+[Figure229]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-39.8376,25)
+color = (0, 0, 0)
+
+[Figure230]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-39.1706,25)
+color = (0.98, 0.5, 0.45)
+
+[Figure231]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-41.8376,25)
+color = (0.98, 0.5, 0.45)
+
+[Figure232]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-41.8376,25)
+color = (0.15, 0.15, 0.15)
+
+[Figure233]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-41.8376,24)
+color = (0.15, 0.15, 0.15)
+
+[Figure234]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-39.8376,25)
+color = (0.15, 0.15, 0.15)
+
+[Figure235]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-39.8376,24)
+color = (0.15, 0.15, 0.15)
+
+[Figure236]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-38.8376,25)
+color = (0.6, 0.5, 0)
+
+[Figure237]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-38.8376,24)
+color = (0.6, 0.5, 0)
+
+[Figure238]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-42.8376,25)
+color = (0.9, 0.1, 0.1)
+
+[Figure239]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-42.8376,24)
+color = (0.9, 0.1, 0.1)
+
+[Figure240]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-40.8376,25)
+color = (0.98, 0.5, 0.45)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, -1)
+point1 = (-1.366, -1.33, -1)
+point2 = (-1.366, -1.33, -0.333)
+point3 = (-1.366, 0.666, -0.333)
+
+point4 = (-1.333, 0.666, -1)
+point5 = (-1.333, -1.33, -1)
+point6 = (-1.333, -1.33, -0.333)
+point7 = (-1.333, 0.666, -0.333)
+
+point8 = (-1.333, 0.666, -1)
+point9 = (-1.333, -1.33, -1)
+point10 = (-1.333, -1.33, -0.333)
+point11 = (-1.333, 0.666, -0.333)
+
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+
+[Figure241]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-40.8376,25)
+color = (0.98, 0.5, 0.45)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, -0.333)
+point1 = (-1.366, -1.33, -0.333)
+point2 = (-1.366, -1.33, 0.333)
+point3 = (-1.366, 0.666, 0.333)
+
+point4 = (-1.333, 0.666, -0.333)
+point5 = (-1.333, -1.33, -0.333)
+point6 = (-1.333, -1.33, 0.333)
+point7 = (-1.333, 0.666, 0.333)
+
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+
+[Figure242]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-40.8376,25)
+color = (0.98, 0.5, 0.45)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, 0.333)
+point1 = (-1.366, -1.33, 0.333)
+point2 = (-1.366, -1.33, 1)
+point3 = (-1.366, 0.666, 1)
+point4 = (-1.333, 0.666, 0.333)
+point5 = (-1.333, -1.33, 0.333)
+point6 = (-1.333, -1.33, 1)
+point7 = (-1.333, 0.666, 1)
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+[Figure243]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,2.25902,24)
+color = (0, 1, 0)
+
+[Figure244]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,2.92502,24)
+color = (0, 0, 0)
+
+[Figure245]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,3.59202,24)
+color = (0, 1, 0)
+
+[Figure246]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,4.25902,24)
+color = (0, 1, 0)
+
+[Figure247]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,4.92502,24)
+color = (0, 0, 0)
+
+[Figure248]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,5.59202,24)
+color = (0, 1, 0)
+
+[Figure249]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,2.92502,24)
+color = (0, 1, 0)
+
+
+
+[Figure250]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,2.25902,25)
+color = (1, 1, 1)
+
+[Figure251]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,2.92502,25)
+color = (0, 0, 0)
+
+[Figure252]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,3.59202,25)
+color = (0, 0, 0)
+
+[Figure253]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,4.25902,25)
+color = (0, 0, 0)
+
+[Figure254]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,4.92502,25)
+color = (1, 1, 1)
+
+[Figure255]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,5.59202,25)
+color = (1, 1, 1)
+
+[Figure256]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,2.92502,25)
+color = (1, 1, 1)
+
+
+
+
+[Figure257]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,2.25902,25)
+color = (0, 1, 0)
+
+[Figure258]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,2.92502,25)
+color = (0, 0, 0)
+
+[Figure259]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,3.59202,25)
+color = (0, 1, 0)
+
+[Figure260]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,4.25902,25)
+color = (0, 1, 0)
+
+[Figure261]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,4.92502,25)
+color = (0, 0, 0)
+
+[Figure262]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,5.59202,25)
+color = (0, 1, 0)
+
+[Figure263]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,2.92502,25)
+color = (0, 1, 0)
+
+
+
+[Figure264]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,2.92502,25)
+color = (0.15, 0.15, 0.15)
+
+[Figure265]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,2.92502,24)
+color = (0.15, 0.15, 0.15)
+
+[Figure266]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,4.92502,25)
+color = (0.15, 0.15, 0.15)
+
+[Figure267]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,4.92502,24)
+color = (0.15, 0.15, 0.15)
+
+
+[Figure268]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,5.92502,25)
+color = (0.6, 0.5, 0)
+
+[Figure269]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,5.92502,24)
+color = (0.6, 0.5, 0)
+
+
+[Figure270]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,1.92502,25)
+color = (0.9, 0.1, 0.1)
+
+[Figure271]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,1.92502,24)
+color = (0.9, 0.1, 0.1)
+
+[Figure272]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,3.92502,25)
+color = (0, 1, 0)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, -1)
+point1 = (-1.366, -1.33, -1)
+point2 = (-1.366, -1.33, -0.333)
+point3 = (-1.366, 0.666, -0.333)
+
+point4 = (-1.333, 0.666, -1)
+point5 = (-1.333, -1.33, -1)
+point6 = (-1.333, -1.33, -0.333)
+point7 = (-1.333, 0.666, -0.333)
+
+point8 = (-1.333, 0.666, -1)
+point9 = (-1.333, -1.33, -1)
+point10 = (-1.333, -1.33, -0.333)
+point11 = (-1.333, 0.666, -0.333)
+
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+
+[Figure273]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,3.92502,25)
+color = (1, 1, 1)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, -0.333)
+point1 = (-1.366, -1.33, -0.333)
+point2 = (-1.366, -1.33, 0.333)
+point3 = (-1.366, 0.666, 0.333)
+
+point4 = (-1.333, 0.666, -0.333)
+point5 = (-1.333, -1.33, -0.333)
+point6 = (-1.333, -1.33, 0.333)
+point7 = (-1.333, 0.666, 0.333)
+
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+
+[Figure274]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,3.92502,25)
+color = (0, 1, 0)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, 0.333)
+point1 = (-1.366, -1.33, 0.333)
+point2 = (-1.366, -1.33, 1)
+point3 = (-1.366, 0.666, 1)
+point4 = (-1.333, 0.666, 0.333)
+point5 = (-1.333, -1.33, 0.333)
+point6 = (-1.333, -1.33, 1)
+point7 = (-1.333, 0.666, 1)
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+[Figure275]
+type = "Cylinder"
+height = 20
+scale = 0.2
+rotateX = 0
+rotateY = -90
+rotateZ = 0
+center = (0,-3,27.5)
+n = 15
+color = (0.2, 0.2, 0.2)
+
+[Figure276]
+type = "Cylinder"
+height = 5
+scale = 0.4
+rotateX = 0
+rotateY = -90
+rotateZ = 0
+center = (-2.2,-3,27.5)
+n = 15
+color = (0.2, 0.2, 0.2)
+
+[Figure277]
+type = "Sphere"
+scale = 0.2
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-3.8,-3,27.14)
+n = 5
+color = (1, 0, 0)
+
+[Figure278]
+type = "Sphere"
+scale = 0.2
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-3.25,-3,27.14)
+n = 3
+color = (0.2, 0.1, 0)
+
+[Figure279]
+type = "Sphere"
+scale = 0.2
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-2.7,-3,27.14)
+n = 3
+color = (0, 0.2, 0)
+[Figure280]
+type = "LineDrawing" rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0center = (0.1, 102.5, 47)
+color = (0.7529, 0.7529, 0.7529)
+nrPoints = 8
+nrLines = 6
+point0 = (0.0, 0.0, 0.0)
+point1 = (0.0, 0.0, 5.0)
+point2 = (0.0, -205, 5.0)
+point3 = (0.0, -205, 0.0)
+point4 = (1.0, 0.0, 0.0)
+point5 = (1.0, 0.0, 5.0)
+point6 = (1.0, -205, 5.0)
+point7 = (1.0, -205, 0.0)
+line0 = (0,3,2,1)
+line1 = (4,7,6,5)
+line2 = (0,4,5,1)
+line3 = (0,4,7,3)
+line4 = (3,7,6,2)
+line5 = (1,5,6,2)
+[Figure281]
+type = "LineDrawing" rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0center = (0.1, 0, 47)
+color = (0.7529, 0.7529, 0.7529)
+nrPoints = 8
+nrLines = 6
+point0 = (0.0, 0.0, -7.5)
+point1 = (0.0, 5.0, -7.5)
+point2 = (0.0, 5.0, 12.5)
+point3 = (0.0, 0.0, 12.5)
+point4 = (1.0, 0.0, -7.5)
+point5 = (1.0, 5.0, -7.5)
+point6 = (1.0, 5.0, 12.5)
+point7 = (1.0, 0.0, 12.5)
+line0 = (0,3,2,1)
+line1 = (4,7,6,5)
+line2 = (0,4,5,1)
+line3 = (0,4,7,3)
+line4 = (3,7,6,2)
+line5 = (1,5,6,2)
+[Figure282]
+type = "Cylinder"
+height = 20
+scale = 0.2
+rotateX = 0
+rotateY = -90
+rotateZ = 0
+center = (0,0,40)
+n = 15
+color = (0.2, 0.2, 0.2)
+
+[Figure283]
+type = "Cylinder"
+height = 5
+scale = 0.4
+rotateX = 0
+rotateY = -90
+rotateZ = 0
+center = (-2.2,0,40)
+n = 15
+color = (0.2, 0.2, 0.2)
+
+[Figure284]
+type = "Sphere"
+scale = 0.2
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-3.8,0,39.64)
+n = 5
+color = (0.2, 0, 0)
+
+[Figure285]
+type = "Sphere"
+scale = 0.2
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-3.25,0,39.64)
+n = 3
+color = (0.2, 0.1, 0)
+
+[Figure286]
+type = "Sphere"
+scale = 0.2
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-2.7,0,39.64)
+n = 3
+color = (0, 1, 0)
+[Figure287]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-31.7216,49)
+color = (1, 1, 0)
+
+[Figure288]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-31.0556,49)
+color = (0, 0, 0)
+
+[Figure289]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-30.3886,49)
+color = (1, 1, 0)
+
+[Figure290]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-29.7216,49)
+color = (1, 1, 0)
+
+[Figure291]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-29.0556,49)
+color = (0, 0, 0)
+
+[Figure292]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-28.3886,49)
+color = (1, 1, 0)
+
+[Figure293]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-31.0556,49)
+color = (1, 1, 0)
+
+[Figure294]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-31.7216,50)
+color = (0, 0, 1)
+
+[Figure295]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-31.0556,50)
+color = (0, 0, 0)
+
+[Figure296]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-30.3886,50)
+color = (0, 0, 0)
+
+[Figure297]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-29.7216,50)
+color = (0, 0, 0)
+
+[Figure298]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-29.0556,50)
+color = (0, 0, 1)
+
+[Figure299]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-28.3886,50)
+color = (0, 0, 1)
+
+[Figure300]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-31.0556,50)
+color = (0, 0, 1)
+
+[Figure301]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-31.7216,50)
+color = (1, 1, 0)
+
+[Figure302]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-31.0556,50)
+color = (0, 0, 0)
+
+[Figure303]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-30.3886,50)
+color = (1, 1, 0)
+
+[Figure304]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-29.7216,50)
+color = (1, 1, 0)
+
+[Figure305]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-29.0556,50)
+color = (0, 0, 0)
+
+[Figure306]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-28.3886,50)
+color = (1, 1, 0)
+
+[Figure307]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-31.0556,50)
+color = (1, 1, 0)
+
+
+
+[Figure308]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-31.0556,50)
+color = (0.15, 0.15, 0.15)
+
+[Figure309]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-31.0556,49)
+color = (0.15, 0.15, 0.15)
+
+[Figure310]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-29.0556,50)
+color = (0.15, 0.15, 0.15)
+
+[Figure311]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-29.0556,49)
+color = (0.15, 0.15, 0.15)
+
+[Figure312]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-28.0556,50)
+color = (0.6, 0.5, 0)
+
+[Figure313]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-28.0556,49)
+color = (0.6, 0.5, 0)
+
+
+[Figure314]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-32.0556,50)
+color = (0.9, 0.1, 0.1)
+
+[Figure315]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-32.0556,49)
+color = (0.9, 0.1, 0.1)
+
+[Figure316]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-30.0556,50)
+color = (1, 1, 0)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, -1)
+point1 = (-1.366, -1.33, -1)
+point2 = (-1.366, -1.33, -0.333)
+point3 = (-1.366, 0.666, -0.333)
+
+point4 = (-1.333, 0.666, -1)
+point5 = (-1.333, -1.33, -1)
+point6 = (-1.333, -1.33, -0.333)
+point7 = (-1.333, 0.666, -0.333)
+
+point8 = (-1.333, 0.666, -1)
+point9 = (-1.333, -1.33, -1)
+point10 = (-1.333, -1.33, -0.333)
+point11 = (-1.333, 0.666, -0.333)
+
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+
+[Figure317]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-30.0556,50)
+color = (0, 0, 1)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, -0.333)
+point1 = (-1.366, -1.33, -0.333)
+point2 = (-1.366, -1.33, 0.333)
+point3 = (-1.366, 0.666, 0.333)
+
+point4 = (-1.333, 0.666, -0.333)
+point5 = (-1.333, -1.33, -0.333)
+point6 = (-1.333, -1.33, 0.333)
+point7 = (-1.333, 0.666, 0.333)
+
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+
+[Figure318]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-30.0556,50)
+color = (1, 1, 0)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, 0.333)
+point1 = (-1.366, -1.33, 0.333)
+point2 = (-1.366, -1.33, 1)
+point3 = (-1.366, 0.666, 1)
+point4 = (-1.333, 0.666, 0.333)
+point5 = (-1.333, -1.33, 0.333)
+point6 = (-1.333, -1.33, 1)
+point7 = (-1.333, 0.666, 1)
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+[Figure319]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-52.1534,49)
+color = (0, 1, 0)
+
+[Figure320]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-51.4874,49)
+color = (0, 0, 0)
+
+[Figure321]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-50.8204,49)
+color = (0, 1, 0)
+
+[Figure322]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-50.1534,49)
+color = (0, 1, 0)
+
+[Figure323]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-49.4874,49)
+color = (0, 0, 0)
+
+[Figure324]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-48.8204,49)
+color = (0, 1, 0)
+
+[Figure325]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-51.4874,49)
+color = (0, 1, 0)
+
+
+
+[Figure326]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-52.1534,50)
+color = (1, 1, 1)
+
+[Figure327]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-51.4874,50)
+color = (0, 0, 0)
+
+[Figure328]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-50.8204,50)
+color = (0, 0, 0)
+
+[Figure329]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-50.1534,50)
+color = (0, 0, 0)
+
+[Figure330]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-49.4874,50)
+color = (1, 1, 1)
+
+[Figure331]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-48.8204,50)
+color = (1, 1, 1)
+
+[Figure332]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-51.4874,50)
+color = (1, 1, 1)
+
+
+
+
+[Figure333]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-52.1534,50)
+color = (0, 1, 0)
+
+[Figure334]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-51.4874,50)
+color = (0, 0, 0)
+
+[Figure335]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-50.8204,50)
+color = (0, 1, 0)
+
+[Figure336]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-50.1534,50)
+color = (0, 1, 0)
+
+[Figure337]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-49.4874,50)
+color = (0, 0, 0)
+
+[Figure338]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-48.8204,50)
+color = (0, 1, 0)
+
+[Figure339]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-51.4874,50)
+color = (0, 1, 0)
+
+
+
+[Figure340]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-51.4874,50)
+color = (0.15, 0.15, 0.15)
+
+[Figure341]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-51.4874,49)
+color = (0.15, 0.15, 0.15)
+
+[Figure342]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-49.4874,50)
+color = (0.15, 0.15, 0.15)
+
+[Figure343]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-49.4874,49)
+color = (0.15, 0.15, 0.15)
+
+
+[Figure344]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-48.4874,50)
+color = (0.6, 0.5, 0)
+
+[Figure345]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-48.4874,49)
+color = (0.6, 0.5, 0)
+
+
+[Figure346]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-52.4874,50)
+color = (0.9, 0.1, 0.1)
+
+[Figure347]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-52.4874,49)
+color = (0.9, 0.1, 0.1)
+
+[Figure348]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-50.4874,50)
+color = (0, 1, 0)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, -1)
+point1 = (-1.366, -1.33, -1)
+point2 = (-1.366, -1.33, -0.333)
+point3 = (-1.366, 0.666, -0.333)
+
+point4 = (-1.333, 0.666, -1)
+point5 = (-1.333, -1.33, -1)
+point6 = (-1.333, -1.33, -0.333)
+point7 = (-1.333, 0.666, -0.333)
+
+point8 = (-1.333, 0.666, -1)
+point9 = (-1.333, -1.33, -1)
+point10 = (-1.333, -1.33, -0.333)
+point11 = (-1.333, 0.666, -0.333)
+
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+
+[Figure349]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-50.4874,50)
+color = (1, 1, 1)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, -0.333)
+point1 = (-1.366, -1.33, -0.333)
+point2 = (-1.366, -1.33, 0.333)
+point3 = (-1.366, 0.666, 0.333)
+
+point4 = (-1.333, 0.666, -0.333)
+point5 = (-1.333, -1.33, -0.333)
+point6 = (-1.333, -1.33, 0.333)
+point7 = (-1.333, 0.666, 0.333)
+
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+
+[Figure350]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-50.4874,50)
+color = (0, 1, 0)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, 0.333)
+point1 = (-1.366, -1.33, 0.333)
+point2 = (-1.366, -1.33, 1)
+point3 = (-1.366, 0.666, 1)
+point4 = (-1.333, 0.666, 0.333)
+point5 = (-1.333, -1.33, 0.333)
+point6 = (-1.333, -1.33, 1)
+point7 = (-1.333, 0.666, 1)
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+[Figure351]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-63.6249,49)
+color = (0, 1, 0)
+
+[Figure352]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-62.9589,49)
+color = (0, 0, 0)
+
+[Figure353]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-62.2919,49)
+color = (0, 1, 0)
+
+[Figure354]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-61.6249,49)
+color = (0, 1, 0)
+
+[Figure355]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-60.9589,49)
+color = (0, 0, 0)
+
+[Figure356]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-60.2919,49)
+color = (0, 1, 0)
+
+[Figure357]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-62.9589,49)
+color = (0, 1, 0)
+
+
+
+[Figure358]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-63.6249,50)
+color = (1, 1, 1)
+
+[Figure359]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-62.9589,50)
+color = (0, 0, 0)
+
+[Figure360]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-62.2919,50)
+color = (0, 0, 0)
+
+[Figure361]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-61.6249,50)
+color = (0, 0, 0)
+
+[Figure362]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-60.9589,50)
+color = (1, 1, 1)
+
+[Figure363]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-60.2919,50)
+color = (1, 1, 1)
+
+[Figure364]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-62.9589,50)
+color = (1, 1, 1)
+
+
+
+
+[Figure365]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-63.6249,50)
+color = (0, 1, 0)
+
+[Figure366]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-62.9589,50)
+color = (0, 0, 0)
+
+[Figure367]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-62.2919,50)
+color = (0, 1, 0)
+
+[Figure368]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-61.6249,50)
+color = (0, 1, 0)
+
+[Figure369]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-60.9589,50)
+color = (0, 0, 0)
+
+[Figure370]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-60.2919,50)
+color = (0, 1, 0)
+
+[Figure371]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-62.9589,50)
+color = (0, 1, 0)
+
+
+
+[Figure372]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-62.9589,50)
+color = (0.15, 0.15, 0.15)
+
+[Figure373]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-62.9589,49)
+color = (0.15, 0.15, 0.15)
+
+[Figure374]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-60.9589,50)
+color = (0.15, 0.15, 0.15)
+
+[Figure375]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-60.9589,49)
+color = (0.15, 0.15, 0.15)
+
+
+[Figure376]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-59.9589,50)
+color = (0.6, 0.5, 0)
+
+[Figure377]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-59.9589,49)
+color = (0.6, 0.5, 0)
+
+
+[Figure378]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-63.9589,50)
+color = (0.9, 0.1, 0.1)
+
+[Figure379]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-63.9589,49)
+color = (0.9, 0.1, 0.1)
+
+[Figure380]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-61.9589,50)
+color = (0, 1, 0)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, -1)
+point1 = (-1.366, -1.33, -1)
+point2 = (-1.366, -1.33, -0.333)
+point3 = (-1.366, 0.666, -0.333)
+
+point4 = (-1.333, 0.666, -1)
+point5 = (-1.333, -1.33, -1)
+point6 = (-1.333, -1.33, -0.333)
+point7 = (-1.333, 0.666, -0.333)
+
+point8 = (-1.333, 0.666, -1)
+point9 = (-1.333, -1.33, -1)
+point10 = (-1.333, -1.33, -0.333)
+point11 = (-1.333, 0.666, -0.333)
+
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+
+[Figure381]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-61.9589,50)
+color = (1, 1, 1)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, -0.333)
+point1 = (-1.366, -1.33, -0.333)
+point2 = (-1.366, -1.33, 0.333)
+point3 = (-1.366, 0.666, 0.333)
+
+point4 = (-1.333, 0.666, -0.333)
+point5 = (-1.333, -1.33, -0.333)
+point6 = (-1.333, -1.33, 0.333)
+point7 = (-1.333, 0.666, 0.333)
+
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+
+[Figure382]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-61.9589,50)
+color = (0, 1, 0)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, 0.333)
+point1 = (-1.366, -1.33, 0.333)
+point2 = (-1.366, -1.33, 1)
+point3 = (-1.366, 0.666, 1)
+point4 = (-1.333, 0.666, 0.333)
+point5 = (-1.333, -1.33, 0.333)
+point6 = (-1.333, -1.33, 1)
+point7 = (-1.333, 0.666, 1)
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+[Figure383]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-69.1827,49)
+color = (0.98, 0.5, 0.45)
+
+[Figure384]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-68.5167,49)
+color = (0, 0, 0)
+
+[Figure385]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-67.8497,49)
+color = (0.98, 0.5, 0.45)
+
+[Figure386]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-67.1827,49)
+color = (0.98, 0.5, 0.45)
+
+[Figure387]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-66.5167,49)
+color = (0, 0, 0)
+
+[Figure388]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-65.8497,49)
+color = (0.98, 0.5, 0.45)
+
+[Figure389]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-68.5167,49)
+color = (0.98, 0.5, 0.45)
+
+[Figure390]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-69.1827,50)
+color = (0.98, 0.5, 0.45)
+
+[Figure391]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-68.5167,50)
+color = (0, 0, 0)
+
+[Figure392]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-67.8497,50)
+color = (0, 0, 0)
+
+[Figure393]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-67.1827,50)
+color = (0, 0, 0)
+
+[Figure394]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-66.5167,50)
+color = (0.98, 0.5, 0.45)
+
+[Figure395]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-65.8497,50)
+color = (0.98, 0.5, 0.45)
+
+[Figure396]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-68.5167,50)
+color = (0.98, 0.5, 0.45)
+
+[Figure397]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-69.1827,50)
+color = (0.98, 0.5, 0.45)
+
+[Figure398]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-68.5167,50)
+color = (0, 0, 0)
+
+[Figure399]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-67.8497,50)
+color = (0.98, 0.5, 0.45)
+
+[Figure400]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-67.1827,50)
+color = (0.98, 0.5, 0.45)
+
+[Figure401]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-66.5167,50)
+color = (0, 0, 0)
+
+[Figure402]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-65.8497,50)
+color = (0.98, 0.5, 0.45)
+
+[Figure403]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-68.5167,50)
+color = (0.98, 0.5, 0.45)
+
+[Figure404]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-68.5167,50)
+color = (0.15, 0.15, 0.15)
+
+[Figure405]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-68.5167,49)
+color = (0.15, 0.15, 0.15)
+
+[Figure406]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-66.5167,50)
+color = (0.15, 0.15, 0.15)
+
+[Figure407]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-66.5167,49)
+color = (0.15, 0.15, 0.15)
+
+[Figure408]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-65.5167,50)
+color = (0.6, 0.5, 0)
+
+[Figure409]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-65.5167,49)
+color = (0.6, 0.5, 0)
+
+[Figure410]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-69.5167,50)
+color = (0.9, 0.1, 0.1)
+
+[Figure411]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-69.5167,49)
+color = (0.9, 0.1, 0.1)
+
+[Figure412]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-67.5167,50)
+color = (0.98, 0.5, 0.45)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, -1)
+point1 = (-1.366, -1.33, -1)
+point2 = (-1.366, -1.33, -0.333)
+point3 = (-1.366, 0.666, -0.333)
+
+point4 = (-1.333, 0.666, -1)
+point5 = (-1.333, -1.33, -1)
+point6 = (-1.333, -1.33, -0.333)
+point7 = (-1.333, 0.666, -0.333)
+
+point8 = (-1.333, 0.666, -1)
+point9 = (-1.333, -1.33, -1)
+point10 = (-1.333, -1.33, -0.333)
+point11 = (-1.333, 0.666, -0.333)
+
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+
+[Figure413]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-67.5167,50)
+color = (0.98, 0.5, 0.45)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, -0.333)
+point1 = (-1.366, -1.33, -0.333)
+point2 = (-1.366, -1.33, 0.333)
+point3 = (-1.366, 0.666, 0.333)
+
+point4 = (-1.333, 0.666, -0.333)
+point5 = (-1.333, -1.33, -0.333)
+point6 = (-1.333, -1.33, 0.333)
+point7 = (-1.333, 0.666, 0.333)
+
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+
+[Figure414]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-67.5167,50)
+color = (0.98, 0.5, 0.45)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, 0.333)
+point1 = (-1.366, -1.33, 0.333)
+point2 = (-1.366, -1.33, 1)
+point3 = (-1.366, 0.666, 1)
+point4 = (-1.333, 0.666, 0.333)
+point5 = (-1.333, -1.33, 0.333)
+point6 = (-1.333, -1.33, 1)
+point7 = (-1.333, 0.666, 1)
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+[Figure415]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-83.5108,49)
+color = (0, 1, 0)
+
+[Figure416]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-82.8448,49)
+color = (0, 0, 0)
+
+[Figure417]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-82.1778,49)
+color = (0, 1, 0)
+
+[Figure418]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-81.5108,49)
+color = (0, 1, 0)
+
+[Figure419]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-80.8448,49)
+color = (0, 0, 0)
+
+[Figure420]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-80.1778,49)
+color = (0, 1, 0)
+
+[Figure421]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-82.8448,49)
+color = (0, 1, 0)
+
+
+
+[Figure422]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-83.5108,50)
+color = (1, 1, 1)
+
+[Figure423]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-82.8448,50)
+color = (0, 0, 0)
+
+[Figure424]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-82.1778,50)
+color = (0, 0, 0)
+
+[Figure425]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-81.5108,50)
+color = (0, 0, 0)
+
+[Figure426]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-80.8448,50)
+color = (1, 1, 1)
+
+[Figure427]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-80.1778,50)
+color = (1, 1, 1)
+
+[Figure428]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-82.8448,50)
+color = (1, 1, 1)
+
+
+
+
+[Figure429]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-83.5108,50)
+color = (0, 1, 0)
+
+[Figure430]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-82.8448,50)
+color = (0, 0, 0)
+
+[Figure431]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-82.1778,50)
+color = (0, 1, 0)
+
+[Figure432]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-81.5108,50)
+color = (0, 1, 0)
+
+[Figure433]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-80.8448,50)
+color = (0, 0, 0)
+
+[Figure434]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-80.1778,50)
+color = (0, 1, 0)
+
+[Figure435]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-82.8448,50)
+color = (0, 1, 0)
+
+
+
+[Figure436]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-82.8448,50)
+color = (0.15, 0.15, 0.15)
+
+[Figure437]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-82.8448,49)
+color = (0.15, 0.15, 0.15)
+
+[Figure438]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-80.8448,50)
+color = (0.15, 0.15, 0.15)
+
+[Figure439]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-80.8448,49)
+color = (0.15, 0.15, 0.15)
+
+
+[Figure440]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-79.8448,50)
+color = (0.6, 0.5, 0)
+
+[Figure441]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-79.8448,49)
+color = (0.6, 0.5, 0)
+
+
+[Figure442]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-83.8448,50)
+color = (0.9, 0.1, 0.1)
+
+[Figure443]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-83.8448,49)
+color = (0.9, 0.1, 0.1)
+
+[Figure444]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-81.8448,50)
+color = (0, 1, 0)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, -1)
+point1 = (-1.366, -1.33, -1)
+point2 = (-1.366, -1.33, -0.333)
+point3 = (-1.366, 0.666, -0.333)
+
+point4 = (-1.333, 0.666, -1)
+point5 = (-1.333, -1.33, -1)
+point6 = (-1.333, -1.33, -0.333)
+point7 = (-1.333, 0.666, -0.333)
+
+point8 = (-1.333, 0.666, -1)
+point9 = (-1.333, -1.33, -1)
+point10 = (-1.333, -1.33, -0.333)
+point11 = (-1.333, 0.666, -0.333)
+
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+
+[Figure445]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-81.8448,50)
+color = (1, 1, 1)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, -0.333)
+point1 = (-1.366, -1.33, -0.333)
+point2 = (-1.366, -1.33, 0.333)
+point3 = (-1.366, 0.666, 0.333)
+
+point4 = (-1.333, 0.666, -0.333)
+point5 = (-1.333, -1.33, -0.333)
+point6 = (-1.333, -1.33, 0.333)
+point7 = (-1.333, 0.666, 0.333)
+
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+
+[Figure446]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-81.8448,50)
+color = (0, 1, 0)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, 0.333)
+point1 = (-1.366, -1.33, 0.333)
+point2 = (-1.366, -1.33, 1)
+point3 = (-1.366, 0.666, 1)
+point4 = (-1.333, 0.666, 0.333)
+point5 = (-1.333, -1.33, 0.333)
+point6 = (-1.333, -1.33, 1)
+point7 = (-1.333, 0.666, 1)
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+[Figure447]
+type = "Cylinder"
+height = 20
+scale = 0.2
+rotateX = 0
+rotateY = -90
+rotateZ = 0
+center = (0,-3,52.5)
+n = 15
+color = (0.2, 0.2, 0.2)
+
+[Figure448]
+type = "Cylinder"
+height = 5
+scale = 0.4
+rotateX = 0
+rotateY = -90
+rotateZ = 0
+center = (-2.2,-3,52.5)
+n = 15
+color = (0.2, 0.2, 0.2)
+
+[Figure449]
+type = "Sphere"
+scale = 0.2
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-3.8,-3,52.14)
+n = 5
+color = (1, 0, 0)
+
+[Figure450]
+type = "Sphere"
+scale = 0.2
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-3.25,-3,52.14)
+n = 3
+color = (0.2, 0.1, 0)
+
+[Figure451]
+type = "Sphere"
+scale = 0.2
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-2.7,-3,52.14)
+n = 3
+color = (0, 0.2, 0)
+[Figure452]
+type = "LineDrawing" rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0center = (0.1, 102.5, 72)
+color = (0.7529, 0.7529, 0.7529)
+nrPoints = 8
+nrLines = 6
+point0 = (0.0, 0.0, 0.0)
+point1 = (0.0, 0.0, 5.0)
+point2 = (0.0, -205, 5.0)
+point3 = (0.0, -205, 0.0)
+point4 = (1.0, 0.0, 0.0)
+point5 = (1.0, 0.0, 5.0)
+point6 = (1.0, -205, 5.0)
+point7 = (1.0, -205, 0.0)
+line0 = (0,3,2,1)
+line1 = (4,7,6,5)
+line2 = (0,4,5,1)
+line3 = (0,4,7,3)
+line4 = (3,7,6,2)
+line5 = (1,5,6,2)
+[Figure453]
+type = "LineDrawing" rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0center = (0.1, 0, 72)
+color = (0.7529, 0.7529, 0.7529)
+nrPoints = 8
+nrLines = 6
+point0 = (0.0, 0.0, -7.5)
+point1 = (0.0, 5.0, -7.5)
+point2 = (0.0, 5.0, 12.5)
+point3 = (0.0, 0.0, 12.5)
+point4 = (1.0, 0.0, -7.5)
+point5 = (1.0, 5.0, -7.5)
+point6 = (1.0, 5.0, 12.5)
+point7 = (1.0, 0.0, 12.5)
+line0 = (0,3,2,1)
+line1 = (4,7,6,5)
+line2 = (0,4,5,1)
+line3 = (0,4,7,3)
+line4 = (3,7,6,2)
+line5 = (1,5,6,2)
+[Figure454]
+type = "Cylinder"
+height = 20
+scale = 0.2
+rotateX = 0
+rotateY = -90
+rotateZ = 0
+center = (0,0,65)
+n = 15
+color = (0.2, 0.2, 0.2)
+
+[Figure455]
+type = "Cylinder"
+height = 5
+scale = 0.4
+rotateX = 0
+rotateY = -90
+rotateZ = 0
+center = (-2.2,0,65)
+n = 15
+color = (0.2, 0.2, 0.2)
+
+[Figure456]
+type = "Sphere"
+scale = 0.2
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-3.8,0,64.64)
+n = 5
+color = (1, 0, 0)
+
+[Figure457]
+type = "Sphere"
+scale = 0.2
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-3.25,0,64.64)
+n = 3
+color = (0.2, 0.1, 0)
+
+[Figure458]
+type = "Sphere"
+scale = 0.2
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-2.7,0,64.64)
+n = 3
+color = (0, 0.2, 0)
+[Figure459]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-11.7964,74)
+color = (0.98, 0.5, 0.45)
+
+[Figure460]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-11.1304,74)
+color = (0, 0, 0)
+
+[Figure461]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-10.4634,74)
+color = (0.98, 0.5, 0.45)
+
+[Figure462]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-9.79639,74)
+color = (0.98, 0.5, 0.45)
+
+[Figure463]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-9.13039,74)
+color = (0, 0, 0)
+
+[Figure464]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-8.46339,74)
+color = (0.98, 0.5, 0.45)
+
+[Figure465]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-11.1304,74)
+color = (0.98, 0.5, 0.45)
+
+[Figure466]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-11.7964,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure467]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-11.1304,75)
+color = (0, 0, 0)
+
+[Figure468]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-10.4634,75)
+color = (0, 0, 0)
+
+[Figure469]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-9.79639,75)
+color = (0, 0, 0)
+
+[Figure470]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-9.13039,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure471]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-8.46339,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure472]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-11.1304,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure473]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-11.7964,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure474]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-11.1304,75)
+color = (0, 0, 0)
+
+[Figure475]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-10.4634,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure476]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-9.79639,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure477]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-9.13039,75)
+color = (0, 0, 0)
+
+[Figure478]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-8.46339,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure479]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-11.1304,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure480]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-11.1304,75)
+color = (0.15, 0.15, 0.15)
+
+[Figure481]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-11.1304,74)
+color = (0.15, 0.15, 0.15)
+
+[Figure482]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-9.13039,75)
+color = (0.15, 0.15, 0.15)
+
+[Figure483]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-9.13039,74)
+color = (0.15, 0.15, 0.15)
+
+[Figure484]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-8.13039,75)
+color = (0.6, 0.5, 0)
+
+[Figure485]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-8.13039,74)
+color = (0.6, 0.5, 0)
+
+[Figure486]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-12.1304,75)
+color = (0.9, 0.1, 0.1)
+
+[Figure487]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-12.1304,74)
+color = (0.9, 0.1, 0.1)
+
+[Figure488]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-10.1304,75)
+color = (0.98, 0.5, 0.45)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, -1)
+point1 = (-1.366, -1.33, -1)
+point2 = (-1.366, -1.33, -0.333)
+point3 = (-1.366, 0.666, -0.333)
+
+point4 = (-1.333, 0.666, -1)
+point5 = (-1.333, -1.33, -1)
+point6 = (-1.333, -1.33, -0.333)
+point7 = (-1.333, 0.666, -0.333)
+
+point8 = (-1.333, 0.666, -1)
+point9 = (-1.333, -1.33, -1)
+point10 = (-1.333, -1.33, -0.333)
+point11 = (-1.333, 0.666, -0.333)
+
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+
+[Figure489]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-10.1304,75)
+color = (0.98, 0.5, 0.45)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, -0.333)
+point1 = (-1.366, -1.33, -0.333)
+point2 = (-1.366, -1.33, 0.333)
+point3 = (-1.366, 0.666, 0.333)
+
+point4 = (-1.333, 0.666, -0.333)
+point5 = (-1.333, -1.33, -0.333)
+point6 = (-1.333, -1.33, 0.333)
+point7 = (-1.333, 0.666, 0.333)
+
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+
+[Figure490]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-10.1304,75)
+color = (0.98, 0.5, 0.45)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, 0.333)
+point1 = (-1.366, -1.33, 0.333)
+point2 = (-1.366, -1.33, 1)
+point3 = (-1.366, 0.666, 1)
+point4 = (-1.333, 0.666, 0.333)
+point5 = (-1.333, -1.33, 0.333)
+point6 = (-1.333, -1.33, 1)
+point7 = (-1.333, 0.666, 1)
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+[Figure491]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-18.6712,74)
+color = (0.98, 0.5, 0.45)
+
+[Figure492]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-18.0052,74)
+color = (0, 0, 0)
+
+[Figure493]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-17.3382,74)
+color = (0.98, 0.5, 0.45)
+
+[Figure494]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-16.6712,74)
+color = (0.98, 0.5, 0.45)
+
+[Figure495]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-16.0052,74)
+color = (0, 0, 0)
+
+[Figure496]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-15.3382,74)
+color = (0.98, 0.5, 0.45)
+
+[Figure497]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-18.0052,74)
+color = (0.98, 0.5, 0.45)
+
+[Figure498]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-18.6712,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure499]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-18.0052,75)
+color = (0, 0, 0)
+
+[Figure500]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-17.3382,75)
+color = (0, 0, 0)
+
+[Figure501]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-16.6712,75)
+color = (0, 0, 0)
+
+[Figure502]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-16.0052,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure503]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-15.3382,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure504]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-18.0052,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure505]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-18.6712,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure506]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-18.0052,75)
+color = (0, 0, 0)
+
+[Figure507]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-17.3382,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure508]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-16.6712,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure509]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-16.0052,75)
+color = (0, 0, 0)
+
+[Figure510]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-15.3382,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure511]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-18.0052,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure512]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-18.0052,75)
+color = (0.15, 0.15, 0.15)
+
+[Figure513]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-18.0052,74)
+color = (0.15, 0.15, 0.15)
+
+[Figure514]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-16.0052,75)
+color = (0.15, 0.15, 0.15)
+
+[Figure515]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-16.0052,74)
+color = (0.15, 0.15, 0.15)
+
+[Figure516]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-15.0052,75)
+color = (0.6, 0.5, 0)
+
+[Figure517]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-15.0052,74)
+color = (0.6, 0.5, 0)
+
+[Figure518]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-19.0052,75)
+color = (0.9, 0.1, 0.1)
+
+[Figure519]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-19.0052,74)
+color = (0.9, 0.1, 0.1)
+
+[Figure520]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-17.0052,75)
+color = (0.98, 0.5, 0.45)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, -1)
+point1 = (-1.366, -1.33, -1)
+point2 = (-1.366, -1.33, -0.333)
+point3 = (-1.366, 0.666, -0.333)
+
+point4 = (-1.333, 0.666, -1)
+point5 = (-1.333, -1.33, -1)
+point6 = (-1.333, -1.33, -0.333)
+point7 = (-1.333, 0.666, -0.333)
+
+point8 = (-1.333, 0.666, -1)
+point9 = (-1.333, -1.33, -1)
+point10 = (-1.333, -1.33, -0.333)
+point11 = (-1.333, 0.666, -0.333)
+
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+
+[Figure521]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-17.0052,75)
+color = (0.98, 0.5, 0.45)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, -0.333)
+point1 = (-1.366, -1.33, -0.333)
+point2 = (-1.366, -1.33, 0.333)
+point3 = (-1.366, 0.666, 0.333)
+
+point4 = (-1.333, 0.666, -0.333)
+point5 = (-1.333, -1.33, -0.333)
+point6 = (-1.333, -1.33, 0.333)
+point7 = (-1.333, 0.666, 0.333)
+
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+
+[Figure522]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-17.0052,75)
+color = (0.98, 0.5, 0.45)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, 0.333)
+point1 = (-1.366, -1.33, 0.333)
+point2 = (-1.366, -1.33, 1)
+point3 = (-1.366, 0.666, 1)
+point4 = (-1.333, 0.666, 0.333)
+point5 = (-1.333, -1.33, 0.333)
+point6 = (-1.333, -1.33, 1)
+point7 = (-1.333, 0.666, 1)
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+[Figure523]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-24.3817,74)
+color = (0.98, 0.5, 0.45)
+
+[Figure524]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-23.7157,74)
+color = (0, 0, 0)
+
+[Figure525]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-23.0487,74)
+color = (0.98, 0.5, 0.45)
+
+[Figure526]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-22.3817,74)
+color = (0.98, 0.5, 0.45)
+
+[Figure527]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-21.7157,74)
+color = (0, 0, 0)
+
+[Figure528]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-21.0487,74)
+color = (0.98, 0.5, 0.45)
+
+[Figure529]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-23.7157,74)
+color = (0.98, 0.5, 0.45)
+
+[Figure530]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-24.3817,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure531]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-23.7157,75)
+color = (0, 0, 0)
+
+[Figure532]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-23.0487,75)
+color = (0, 0, 0)
+
+[Figure533]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-22.3817,75)
+color = (0, 0, 0)
+
+[Figure534]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-21.7157,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure535]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-21.0487,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure536]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-23.7157,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure537]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-24.3817,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure538]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-23.7157,75)
+color = (0, 0, 0)
+
+[Figure539]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-23.0487,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure540]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-22.3817,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure541]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-21.7157,75)
+color = (0, 0, 0)
+
+[Figure542]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-21.0487,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure543]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-23.7157,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure544]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-23.7157,75)
+color = (0.15, 0.15, 0.15)
+
+[Figure545]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-23.7157,74)
+color = (0.15, 0.15, 0.15)
+
+[Figure546]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-21.7157,75)
+color = (0.15, 0.15, 0.15)
+
+[Figure547]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-21.7157,74)
+color = (0.15, 0.15, 0.15)
+
+[Figure548]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-20.7157,75)
+color = (0.6, 0.5, 0)
+
+[Figure549]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-20.7157,74)
+color = (0.6, 0.5, 0)
+
+[Figure550]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-24.7157,75)
+color = (0.9, 0.1, 0.1)
+
+[Figure551]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-24.7157,74)
+color = (0.9, 0.1, 0.1)
+
+[Figure552]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-22.7157,75)
+color = (0.98, 0.5, 0.45)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, -1)
+point1 = (-1.366, -1.33, -1)
+point2 = (-1.366, -1.33, -0.333)
+point3 = (-1.366, 0.666, -0.333)
+
+point4 = (-1.333, 0.666, -1)
+point5 = (-1.333, -1.33, -1)
+point6 = (-1.333, -1.33, -0.333)
+point7 = (-1.333, 0.666, -0.333)
+
+point8 = (-1.333, 0.666, -1)
+point9 = (-1.333, -1.33, -1)
+point10 = (-1.333, -1.33, -0.333)
+point11 = (-1.333, 0.666, -0.333)
+
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+
+[Figure553]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-22.7157,75)
+color = (0.98, 0.5, 0.45)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, -0.333)
+point1 = (-1.366, -1.33, -0.333)
+point2 = (-1.366, -1.33, 0.333)
+point3 = (-1.366, 0.666, 0.333)
+
+point4 = (-1.333, 0.666, -0.333)
+point5 = (-1.333, -1.33, -0.333)
+point6 = (-1.333, -1.33, 0.333)
+point7 = (-1.333, 0.666, 0.333)
+
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+
+[Figure554]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-22.7157,75)
+color = (0.98, 0.5, 0.45)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, 0.333)
+point1 = (-1.366, -1.33, 0.333)
+point2 = (-1.366, -1.33, 1)
+point3 = (-1.366, 0.666, 1)
+point4 = (-1.333, 0.666, 0.333)
+point5 = (-1.333, -1.33, 0.333)
+point6 = (-1.333, -1.33, 1)
+point7 = (-1.333, 0.666, 1)
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+[Figure555]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-29.9127,74)
+color = (0.98, 0.5, 0.45)
+
+[Figure556]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-29.2467,74)
+color = (0, 0, 0)
+
+[Figure557]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-28.5797,74)
+color = (0.98, 0.5, 0.45)
+
+[Figure558]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-27.9127,74)
+color = (0.98, 0.5, 0.45)
+
+[Figure559]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-27.2467,74)
+color = (0, 0, 0)
+
+[Figure560]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-26.5797,74)
+color = (0.98, 0.5, 0.45)
+
+[Figure561]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-29.2467,74)
+color = (0.98, 0.5, 0.45)
+
+[Figure562]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-29.9127,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure563]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-29.2467,75)
+color = (0, 0, 0)
+
+[Figure564]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-28.5797,75)
+color = (0, 0, 0)
+
+[Figure565]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-27.9127,75)
+color = (0, 0, 0)
+
+[Figure566]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-27.2467,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure567]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-26.5797,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure568]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-29.2467,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure569]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-29.9127,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure570]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-29.2467,75)
+color = (0, 0, 0)
+
+[Figure571]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-28.5797,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure572]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-27.9127,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure573]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-27.2467,75)
+color = (0, 0, 0)
+
+[Figure574]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-26.5797,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure575]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-29.2467,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure576]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-29.2467,75)
+color = (0.15, 0.15, 0.15)
+
+[Figure577]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-29.2467,74)
+color = (0.15, 0.15, 0.15)
+
+[Figure578]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-27.2467,75)
+color = (0.15, 0.15, 0.15)
+
+[Figure579]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-27.2467,74)
+color = (0.15, 0.15, 0.15)
+
+[Figure580]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-26.2467,75)
+color = (0.6, 0.5, 0)
+
+[Figure581]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-26.2467,74)
+color = (0.6, 0.5, 0)
+
+[Figure582]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-30.2467,75)
+color = (0.9, 0.1, 0.1)
+
+[Figure583]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-30.2467,74)
+color = (0.9, 0.1, 0.1)
+
+[Figure584]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-28.2467,75)
+color = (0.98, 0.5, 0.45)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, -1)
+point1 = (-1.366, -1.33, -1)
+point2 = (-1.366, -1.33, -0.333)
+point3 = (-1.366, 0.666, -0.333)
+
+point4 = (-1.333, 0.666, -1)
+point5 = (-1.333, -1.33, -1)
+point6 = (-1.333, -1.33, -0.333)
+point7 = (-1.333, 0.666, -0.333)
+
+point8 = (-1.333, 0.666, -1)
+point9 = (-1.333, -1.33, -1)
+point10 = (-1.333, -1.33, -0.333)
+point11 = (-1.333, 0.666, -0.333)
+
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+
+[Figure585]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-28.2467,75)
+color = (0.98, 0.5, 0.45)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, -0.333)
+point1 = (-1.366, -1.33, -0.333)
+point2 = (-1.366, -1.33, 0.333)
+point3 = (-1.366, 0.666, 0.333)
+
+point4 = (-1.333, 0.666, -0.333)
+point5 = (-1.333, -1.33, -0.333)
+point6 = (-1.333, -1.33, 0.333)
+point7 = (-1.333, 0.666, 0.333)
+
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+
+[Figure586]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-28.2467,75)
+color = (0.98, 0.5, 0.45)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, 0.333)
+point1 = (-1.366, -1.33, 0.333)
+point2 = (-1.366, -1.33, 1)
+point3 = (-1.366, 0.666, 1)
+point4 = (-1.333, 0.666, 0.333)
+point5 = (-1.333, -1.33, 0.333)
+point6 = (-1.333, -1.33, 1)
+point7 = (-1.333, 0.666, 1)
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+[Figure587]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-35.4374,74)
+color = (0.98, 0.5, 0.45)
+
+[Figure588]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-34.7714,74)
+color = (0, 0, 0)
+
+[Figure589]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-34.1044,74)
+color = (0.98, 0.5, 0.45)
+
+[Figure590]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-33.4374,74)
+color = (0.98, 0.5, 0.45)
+
+[Figure591]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-32.7714,74)
+color = (0, 0, 0)
+
+[Figure592]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-32.1044,74)
+color = (0.98, 0.5, 0.45)
+
+[Figure593]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-34.7714,74)
+color = (0.98, 0.5, 0.45)
+
+[Figure594]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-35.4374,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure595]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-34.7714,75)
+color = (0, 0, 0)
+
+[Figure596]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-34.1044,75)
+color = (0, 0, 0)
+
+[Figure597]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-33.4374,75)
+color = (0, 0, 0)
+
+[Figure598]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-32.7714,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure599]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-32.1044,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure600]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-34.7714,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure601]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-35.4374,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure602]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-34.7714,75)
+color = (0, 0, 0)
+
+[Figure603]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-34.1044,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure604]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-33.4374,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure605]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-32.7714,75)
+color = (0, 0, 0)
+
+[Figure606]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-32.1044,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure607]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-34.7714,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure608]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-34.7714,75)
+color = (0.15, 0.15, 0.15)
+
+[Figure609]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-34.7714,74)
+color = (0.15, 0.15, 0.15)
+
+[Figure610]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-32.7714,75)
+color = (0.15, 0.15, 0.15)
+
+[Figure611]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-32.7714,74)
+color = (0.15, 0.15, 0.15)
+
+[Figure612]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-31.7714,75)
+color = (0.6, 0.5, 0)
+
+[Figure613]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-31.7714,74)
+color = (0.6, 0.5, 0)
+
+[Figure614]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-35.7714,75)
+color = (0.9, 0.1, 0.1)
+
+[Figure615]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-35.7714,74)
+color = (0.9, 0.1, 0.1)
+
+[Figure616]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-33.7714,75)
+color = (0.98, 0.5, 0.45)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, -1)
+point1 = (-1.366, -1.33, -1)
+point2 = (-1.366, -1.33, -0.333)
+point3 = (-1.366, 0.666, -0.333)
+
+point4 = (-1.333, 0.666, -1)
+point5 = (-1.333, -1.33, -1)
+point6 = (-1.333, -1.33, -0.333)
+point7 = (-1.333, 0.666, -0.333)
+
+point8 = (-1.333, 0.666, -1)
+point9 = (-1.333, -1.33, -1)
+point10 = (-1.333, -1.33, -0.333)
+point11 = (-1.333, 0.666, -0.333)
+
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+
+[Figure617]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-33.7714,75)
+color = (0.98, 0.5, 0.45)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, -0.333)
+point1 = (-1.366, -1.33, -0.333)
+point2 = (-1.366, -1.33, 0.333)
+point3 = (-1.366, 0.666, 0.333)
+
+point4 = (-1.333, 0.666, -0.333)
+point5 = (-1.333, -1.33, -0.333)
+point6 = (-1.333, -1.33, 0.333)
+point7 = (-1.333, 0.666, 0.333)
+
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+
+[Figure618]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-33.7714,75)
+color = (0.98, 0.5, 0.45)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, 0.333)
+point1 = (-1.366, -1.33, 0.333)
+point2 = (-1.366, -1.33, 1)
+point3 = (-1.366, 0.666, 1)
+point4 = (-1.333, 0.666, 0.333)
+point5 = (-1.333, -1.33, 0.333)
+point6 = (-1.333, -1.33, 1)
+point7 = (-1.333, 0.666, 1)
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+[Figure619]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-59.1112,74)
+color = (0.98, 0.5, 0.45)
+
+[Figure620]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-58.4452,74)
+color = (0, 0, 0)
+
+[Figure621]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-57.7782,74)
+color = (0.98, 0.5, 0.45)
+
+[Figure622]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-57.1112,74)
+color = (0.98, 0.5, 0.45)
+
+[Figure623]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-56.4452,74)
+color = (0, 0, 0)
+
+[Figure624]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-55.7782,74)
+color = (0.98, 0.5, 0.45)
+
+[Figure625]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-58.4452,74)
+color = (0.98, 0.5, 0.45)
+
+[Figure626]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-59.1112,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure627]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-58.4452,75)
+color = (0, 0, 0)
+
+[Figure628]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-57.7782,75)
+color = (0, 0, 0)
+
+[Figure629]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-57.1112,75)
+color = (0, 0, 0)
+
+[Figure630]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-56.4452,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure631]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-55.7782,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure632]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-58.4452,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure633]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-59.1112,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure634]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-58.4452,75)
+color = (0, 0, 0)
+
+[Figure635]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-57.7782,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure636]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-57.1112,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure637]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-56.4452,75)
+color = (0, 0, 0)
+
+[Figure638]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-55.7782,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure639]
+type = "Cube"
+scale = 0.333
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-1,-58.4452,75)
+color = (0.98, 0.5, 0.45)
+
+[Figure640]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-58.4452,75)
+color = (0.15, 0.15, 0.15)
+
+[Figure641]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-58.4452,74)
+color = (0.15, 0.15, 0.15)
+
+[Figure642]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-56.4452,75)
+color = (0.15, 0.15, 0.15)
+
+[Figure643]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-56.4452,74)
+color = (0.15, 0.15, 0.15)
+
+[Figure644]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-55.4452,75)
+color = (0.6, 0.5, 0)
+
+[Figure645]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-55.4452,74)
+color = (0.6, 0.5, 0)
+
+[Figure646]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-59.4452,75)
+color = (0.9, 0.1, 0.1)
+
+[Figure647]
+type = "Cube"
+scale = 0.1
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-0.333,-59.4452,74)
+color = (0.9, 0.1, 0.1)
+
+[Figure648]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-57.4452,75)
+color = (0.98, 0.5, 0.45)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, -1)
+point1 = (-1.366, -1.33, -1)
+point2 = (-1.366, -1.33, -0.333)
+point3 = (-1.366, 0.666, -0.333)
+
+point4 = (-1.333, 0.666, -1)
+point5 = (-1.333, -1.33, -1)
+point6 = (-1.333, -1.33, -0.333)
+point7 = (-1.333, 0.666, -0.333)
+
+point8 = (-1.333, 0.666, -1)
+point9 = (-1.333, -1.33, -1)
+point10 = (-1.333, -1.33, -0.333)
+point11 = (-1.333, 0.666, -0.333)
+
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+
+[Figure649]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-57.4452,75)
+color = (0.98, 0.5, 0.45)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, -0.333)
+point1 = (-1.366, -1.33, -0.333)
+point2 = (-1.366, -1.33, 0.333)
+point3 = (-1.366, 0.666, 0.333)
+
+point4 = (-1.333, 0.666, -0.333)
+point5 = (-1.333, -1.33, -0.333)
+point6 = (-1.333, -1.33, 0.333)
+point7 = (-1.333, 0.666, 0.333)
+
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+
+[Figure650]
+type = "LineDrawing"
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+scale = 1.0
+center = (0,-57.4452,75)
+color = (0.98, 0.5, 0.45)
+nrPoints = 8
+nrLines = 6
+point0 = (-1.366, 0.666, 0.333)
+point1 = (-1.366, -1.33, 0.333)
+point2 = (-1.366, -1.33, 1)
+point3 = (-1.366, 0.666, 1)
+point4 = (-1.333, 0.666, 0.333)
+point5 = (-1.333, -1.33, 0.333)
+point6 = (-1.333, -1.33, 1)
+point7 = (-1.333, 0.666, 1)
+line0 = (0,1,2,3)
+line1 = (7,6,5,4)
+line2 = (1,5,6,2)
+line3 = (0,3,7,4)
+line4 = (0,4,5,1)
+line5 = (3,2,6,7)
+[Figure651]
+type = "Cylinder"
+height = 20
+scale = 0.2
+rotateX = 0
+rotateY = -90
+rotateZ = 0
+center = (0,-3,77.5)
+n = 15
+color = (0.2, 0.2, 0.2)
+
+[Figure652]
+type = "Cylinder"
+height = 5
+scale = 0.4
+rotateX = 0
+rotateY = -90
+rotateZ = 0
+center = (-2.2,-3,77.5)
+n = 15
+color = (0.2, 0.2, 0.2)
+
+[Figure653]
+type = "Sphere"
+scale = 0.2
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-3.8,-3,77.14)
+n = 5
+color = (0.2, 0, 0)
+
+[Figure654]
+type = "Sphere"
+scale = 0.2
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-3.25,-3,77.14)
+n = 3
+color = (0.2, 0.1, 0)
+
+[Figure655]
+type = "Sphere"
+scale = 0.2
+rotateX = 0
+rotateY = 0
+rotateZ = 0
+center = (-2.7,-3,77.14)
+n = 3
+color = (0, 1, 0)

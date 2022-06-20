@@ -150,7 +150,7 @@ public:
     REQUIRE(isValidToAddJunction(road),"Junction is on a invalid position");
     ENSURE(junctions[junctions.size()-1] == j, "Junction is not added");
 */
-    void addJunction(std::vector<std::pair<Road* , double> > roads);
+    void addJunction(std::vector<std::pair<Road* , double> >& roads);
 
 /**
  * get the time of the simulationWorld

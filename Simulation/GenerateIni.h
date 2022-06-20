@@ -25,8 +25,7 @@ public:
     void generate();
 
 private:
-    unsigned int parralellRoads();
-    unsigned int singleCrossing();
+    unsigned int generateTemp();
 };
 
 

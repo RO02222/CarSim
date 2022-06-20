@@ -46,7 +46,6 @@ namespace input {
         for (TiXmlElement *elem1 = elem->FirstChildElement(); elem1 != 0; elem1 = elem1->NextSiblingElement()) {
             if ((std::string) elem1->Value() == "KRUISPUNT") {
                 _::loadJunctionXML(world, elem1);
-                continue;
             }
         }
         for (TiXmlElement *elem1 = elem->FirstChildElement(); elem1 != NULL; elem1 = elem1->NextSiblingElement()) {
@@ -453,7 +452,9 @@ namespace input {
                 world->error << "Failed to load file: invalid <KRUISPUNT> : cannot add <KRUISPUNT>" << std::endl;
                 return;
             }
-            world->addJunction(roads);
+            if (world->isValidToAddJunction(roads)) {
+                world->addJunction(roads);
+            }
         }
     }
 }

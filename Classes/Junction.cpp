@@ -223,6 +223,24 @@ std::vector<std::pair<Road* , double> > Junction::getRoads(){
     return roads;
 }
 
+std::vector<Light*> Junction::getLights() {
+    REQUIRE(this->properlyInitialized(), "Junction wasn't initialized when calling hasLights");
+    bool properly = true;
+    for (std::vector<Light*>::iterator itL = lights.begin(); itL != lights.end(); itL++){
+        if (!(*itL)->properlyInitialized()){
+            properly = false;
+            break;
+        }
+    }
+    ENSURE(properly == true, "Road on junction is not properly initialised");
+    return lights;
+}
+
+bool Junction::hasLights() {
+    REQUIRE(this->properlyInitialized(), "Junction wasn't initialized when calling hasLights");
+    return !lights.empty();
+}
+
 /////////////
 
 

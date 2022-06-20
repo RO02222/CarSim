@@ -160,13 +160,27 @@ public:
 
 /**
  * get all the roads of the Junction
- * @return: (std::vector<std::pair<Road* , double> >), all the roads od the junction
+ * @return: (std::vector<std::pair<Road* , double> >), all the roads on the junction
 \n REQUIRE(this->properlyInitialized(), "Junction wasn't initialized when calling getRoads");
- ENSURE(checkProperly == true, "Road on junction is not properly initialised");
+    ENSURE(checkProperly == true, "Road on junction is not properly initialised");
     ENSURE(checkOnRoad == true, "Junction is not on road");
 */
     std::vector<std::pair<Road* , double> > getRoads();
 
+/**
+ * true if the junction has trafficlights
+ * @return: (bool), true or false
+\n REQUIRE(this->properlyInitialized(), "Junction wasn't initialized when calling hasLights");
+*/
+    bool hasLights();
+
+/**
+ * get all the lights on the Junction
+ * @return: (std::vector<Lights*>), the lights on the junction
+\n REQUIRE(this->properlyInitialized(), "Junction wasn't initialized when calling getLights");
+    ENSURE(checkProperly == true, "Road on junction is not properly initialised");
+*/
+    std::vector<Light*> getLights();
 /////////////
 
 
