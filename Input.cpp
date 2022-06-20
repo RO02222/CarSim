@@ -1,3 +1,11 @@
+//============================================================================
+// Name        : Input.cpp
+// Date        : 18/06/2022
+// Authors     : Simon Olivier & Robbe Teughels
+// Version     : 4
+//============================================================================
+
+
 #include "Input.h"
 #include "Functions.h"
 #include "tinyxml/tinyxml.h"

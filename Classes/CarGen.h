@@ -1,8 +1,8 @@
 //============================================================================
-// Name        : Car_SimDomainTest.cpp
-// Date        : 19/03/2022
+// Name        : CarGen.h
+// Date        : 18/06/2022
 // Authors     : Simon Olivier & Robbe Teughels
-// Version     : 1
+// Version     : 4
 //============================================================================
 
 
@@ -33,7 +33,10 @@ public:
  * @param road: road where the CarGen is positioned
  * @param data: data of the car to generate
  * @return: None
-\n ENSURE(properlyInitialized(), "constructor must end in properlyInitialized state");
+\n  REQUIRE(f>=1, "Frequency is not valid");
+    REQUIRE(da->properlyInitialized(), "Data is not valid");
+    REQUIRE(isValidToAdd(r), "Road is not valid to be added");
+    ENSURE(properlyInitialized(),"constructor must end in properlyInitialized state");
 */
     CarGen(double frequency,Road *road, CarData* data);
 
@@ -41,21 +44,27 @@ public:
  * create a CarGen which generate a random type of car
  * @param frequency: frequency of the CarGen
  * @param road: road where the CarGen is positioned
- * @param allData: data of all the posible cars to generate
+ * @param allData: data of all the possible cars to generate
  * @return: None
-\n ENSURE(properlyInitialized(), "constructor must end in properlyInitialized state");
+\n REQUIRE(f>=1, "Frequency is not valid");
+    REQUIRE(isvalid(da), "AllData is not valid");
+    REQUIRE(isValidToAdd(r), "Road is not valid to be added");
+    ENSURE(properlyInitialized(),"constructor must end in properlyInitialized state");
 */
     CarGen(double frequency,Road *road, std::vector<CarData*>* allData);
 
 /**
  * Update the CarGen his cycle and create a car if needed
- * @param t: time since last update
+ * @param time: time since last update
  * @return: None
-\n REQUIRE(isvalid(road), "CarGen wasn't initialized when calling updateCarGen");
+\n REQUIRE(isValid(road), "CarGen wasn't initialized when calling updateCarGen");
     REQUIRE(t >= 0, "Time cannot be negative");
-    ENSURE(lastCycle == ensureLastcycle + t, "cycle hasn't updated");
+    REQUIRE(isValidData(), "Not all data is valid");
+    ENSURE(ensureLastcycle == lastCycle, "LatCycle is not right");
+    ENSURE(ensureData == data, "Data is not right");
+    ENSURE(road->findCar(ensureNewCar),"New car cannot be found");
 */
-    void updateCarGen(double t);
+    void updateCarGen(double time);
 
 
 
@@ -67,7 +76,8 @@ public:
 /**
  * get the road where the CarGen is positioned
  * @return: (Road*), the road where the CarGen is positioned
-\n REQUIRE(properlyInitialized(), "CarGen wasn't initialized when calling getRoad);
+\n REQUIRE(this->properlyInitialized(), "CarGen wasn't initialized when calling getRoad");
+    ENSURE(road->properlyInitialized(), "Road is not properly initialised");
 */
     Road *getRoad();
 
@@ -76,7 +86,10 @@ protected:
  * change the road of the CarGen
  * @param road: the new road of the CarGen
  * @return: None
-\n REQUIRE(properlyInitialized(), "CarGen wasn't initialized when calling setRoad);
+\n REQUIRE(this->properlyInitialized(), "CarGen wasn't initialized when calling setRoad");
+    REQUIRE(r->properlyInitialized(), "Road is not properly initialised");
+    REQUIRE(r->isValid(), "Road isn't valid");
+    ENSURE(road == r,"Road hasn't changed");
 */
     void setRoad(Road *road);
 
@@ -84,21 +97,25 @@ public:
 /**
  * get the frequency of the CarGen
  * @return: (double), the frequency of the CarGen
-\n REQUIRE(properlyInitialized(), "CarGen wasn't initialized when calling getFrequency);
+\n REQUIRE(this->properlyInitialized(), "CarGen wasn't initialized when calling getFrequency");
+    ENSURE(frequency>0, "Frequency cannot be negative or zero");
 */
     double getFrequency();
 /**
  * change the frequency of the CarGen
  * @param frequency: the frequency of the CarGen
  * @return: None
-\n REQUIRE(properlyInitialized(), "CarGen wasn't initialized when calling setFrequency);
+\n REQUIRE(this->properlyInitialized(), "CarGen wasn't initialized when calling setFrequency");
+    REQUIRE(f>0, "frequency cannot be negative or zero");
+    ENSURE(frequency == f,"Road hasn't changed");
 */
     void setFrequency(double frequency);
 
 /**
  * get the cycleTime of the CarGen
  * @return: (double), the cycleTime of the CarGen
-\n REQUIRE(properlyInitialized(), "CarGen wasn't initialized when calling getCycle);
+\n REQUIRE(this->properlyInitialized(), "CarGen wasn't initialized when calling getCycle");
+    ENSURE(lastCycle>=0, "Lastcycle cannot be negative");
 */
     double getCycle();
 
@@ -106,14 +123,17 @@ public:
  * change the time since last cycle of the CarGen
  * @param cycle: the time since last cycle of the CarGen
  * @return: None
-\n REQUIRE(properlyInitialized(), "CarGen wasn't initialized when calling setCycle);
+\n REQUIRE(this->properlyInitialized(), "CarGen wasn't initialized when calling setCycle");
+    REQUIRE(c>=0, "Lastcycle cannot be negative");
+    ENSURE(lastCycle == c,"Road hasn't changed");
 */
     void setCycle(double cycle);
 
 /**
  * get the data to generate a car
  * @return: (Cardata*), the data
-\n REQUIRE(properlyInitialized(), "CarGen wasn't initialized when calling setCycle);
+\n REQUIRE(this->properlyInitialized(), "CarGen wasn't initialized when calling getCycle");
+    ENSURE(data->properlyInitialized(), "The data is not properly initialised");
 */
     CarData* getData();
 
@@ -123,12 +143,31 @@ public:
 
 /////////////
 public:
+
+    /**
+ * see if the CarGen is properly initialised
+ * @return: (bool), if CarGen is properly initialised
+*/
     bool properlyInitialized() const;
 
+    /**
+* see if the CarGen is valid
+* @param: road: the road to check
+* @return: (bool), if CarGen is valid
+*/
     bool isValid(Road* road) const;
 
+    /**
+* see if the junctions are valid to add something
+* @param: road: the road to check
+* @return: (bool), if junctions are valid
+*/
     bool isValidToAdd(Road *road) const;
 
+    /**
+* see if the data is valid
+* @return: (bool), if data is valid
+*/
     bool isValidData() const;
 /////////////
 };

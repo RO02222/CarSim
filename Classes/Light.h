@@ -1,8 +1,8 @@
 //============================================================================
-// Name        : Car_SimDomainTest.cpp
-// Date        : 19/03/2022
+// Name        : Light.h
+// Date        : 18/06/2022
 // Authors     : Simon Olivier & Robbe Teughels
-// Version     : 1
+// Version     : 4
 //============================================================================
 
 
@@ -33,41 +33,38 @@ public:
  * @param road: the road where the traffic light is placed on
  * @param error: errorfile
  * @return: None
-\n ENSURE(properlyInitialized(), "constructor must end in properlyInitialized state");
+\n REQUIRE(r->isValidToAdd(p), "Light cannot be added");
+    REQUIRE(c>=1, "Cycle is not valid");
+    ENSURE(this->properlyInitialized(), "constructor must end in properlyInitialized state");
 */
     Light(double position, double cycle, Road* road, std::ofstream* error);
 
 /**
  * delete a light
  * @return: None
-\n REQUIRE(properlyInitialized(), "Road wasn't initialized when calling ~Road);
 */
     ~Light();
 
 
 /**
  * Update the traffic light, changes the first (not priority) car his behavior depending on the lights state
- * @param t: time since last update
+ * @param time: time since last update
  * @return: None
 
-\n REQUIRE(t >= 0, "Time cannot be negative");
+    REQUIRE(isvalid(road), "Light is not valid");
+    REQUIRE(t >= 0, "Time cannot be negative");
+    ENSURE(isvalid(road), "Light is not valid after update of light");
 
-    As Light
-\n REQUIRE(properlyInitialized(), "Light wasn't initialized when calling updateLight");
-\n REQUIRE(isvalid(road), "Light wasn't initialized when calling updateLight");
-
-    As clock
-\n REQUIRE(isvalidClock(), "Clock wasn't initialized when calling updateLight");
-\n REQUIRE(isvalidClock(), "Clock wasn't initialized when calling updateLight");
 */
-    void updateLight(double t);
+    void updateLight(double time);
 
 
 /////////////
 /**
  * get the road where the traffic light is positioned
- * @return: (Road*), the road where the traffic light is driving
-\n REQUIRE(properlyInitialized(), "Light wasn't initialized when calling getRoad");
+ * @return: (Road*), the road where the traffic light is positioned
+\n REQUIRE(this->properlyInitialized(), "Light wasn't initialized when calling getRoad");
+    ENSURE(road->properlyInitialized(), "Road is not properly initialised");
 */
     Road* getRoad();
 
@@ -76,7 +73,10 @@ protected:
  * change the road of the traffic light
  * @param road: the new road of the traffic light
  * @return: None
-\n REQUIRE(properlyInitialized(), "Light wasn't initialized when calling setRoad");
+\n REQUIRE(this->properlyInitialized(), "Light wasn't initialized when calling setRoad");
+    REQUIRE(r->properlyInitialized(), "Road is not properly initialised");
+    REQUIRE(r->isValid(), "Road is not valid");
+    ENSURE(road == r,"Road hasn't changed");
 */
     void setRoad(Road* road);
 
@@ -84,27 +84,33 @@ public:
 /**
  * get the position of the traffic light on the road
  * @return: (double), the position of the traffic light on the road
-\n REQUIRE(properlyInitialized(), "Light wasn't initialized when calling getPosition");
+\n REQUIRE(this->properlyInitialized(), "Light wasn't initialized when calling getPosition");
+    ENSURE(onRoad(), "Light is not on road");
 */
     double getPosition();
 /**
  * change the position of the traffic light
  * @param position: the new position of the traffic light
  * @return: None
-\n REQUIRE(properlyInitialized(), "Light wasn't initialized when calling setPosition");
+\n REQUIRE(this->properlyInitialized(), "Light wasn't initialized when calling setPosition");
+    REQUIRE(onRoad(p), "Light not on road");
+    ENSURE(position == p,"Position hasn't changed");
 */
     void setPosition(double position);
 /**
- * get the state the traffic light
+ * get the state of the traffic light
  * @return: (color), the state the traffic light
-\n REQUIRE(properlyInitialized(), "Light wasn't initialized when calling getClock");
+\n REQUIRE(this->properlyInitialized(), "Light wasn't initialized when calling getClock");
+    ENSURE(clock >= 0.0, "Clock cannot be negative");
 */
     bool getClock();
 /**
  * enable/disable the clock of the traffic light
  * @param state: the new state of the traffic light
  * @return: None
-\n REQUIRE(properlyInitialized(), "Light wasn't initialized when calling setClock");
+\n REQUIRE(this->properlyInitialized(), "Light wasn't initialized when calling setState");
+    REQUIRE(s >= 0.0, "Clock cannot be negative");
+    ENSURE(clock == s,"clock hasn't changed");
 */
     void setClock(bool state);
 /////////////
@@ -113,12 +119,31 @@ public:
 
 /////////////
 public:
+
+    /**
+* see if the light is properly initialised
+* @return: (bool), if light is properly initialised
+*/
     bool properlyInitialized() const;
 
+    /**
+* see if the light is on the n'th road
+* @return: (bool), if light is on the n'th road
+*/
     bool onRoad() const;
 
-    bool onRoad(int d) const;
+    /**
+* see if the light is on the road with given name
+* @param distance: the distance to check if on the road
+* @return: (bool), if light is on the road with given name
+*/
+    bool onRoad(int distance) const;
 
+    /**
+* see if the light is valid
+* @param: road: the road to check if valid
+* @return: (bool), if light isvalid
+*/
     bool isvalid(Road* road) const;
 /////////////
 };

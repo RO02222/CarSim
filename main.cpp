@@ -1,3 +1,11 @@
+//============================================================================
+// Name        : Main.cpp
+// Date        : 18/06/2022
+// Authors     : Simon Olivier & Robbe Teughels
+// Version     : 4
+//============================================================================
+
+
 #include <iostream>
 #include <fstream>
 #include "Classes/World.h"

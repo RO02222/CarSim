@@ -1,8 +1,8 @@
 //============================================================================
-// Name        : Car_SimDomainTest.cpp
-// Date        : 19/03/2022
+// Name        : World.cpp
+// Date        : 18/06/2022
 // Authors     : Simon Olivier & Robbe Teughels
-// Version     : 1
+// Version     : 4
 //============================================================================
 
 #include <iostream>
@@ -239,18 +239,14 @@ void World::updateWorld(double t) {
 
 const std::vector<Road *> &World::getRoads() {
     REQUIRE(properlyInitialized(), "World wasn't initialized when calling getRoads");
-    for(unsigned int i=0; i<roads.size(); i++){
-        ENSURE(roads[i]->properlyInitialized(), "Road is not properly initialised");
-    }
+    ENSURE(roadsProperly(roads), "A road is not properly initialised");
     return roads;
 }
 
 
 void World::setRoad(const std::vector<Road *> &banen) {
     REQUIRE(properlyInitialized(), "World wasn't initialized when calling setRoad");
-    for(unsigned int i=0; i<banen.size(); i++){
-        REQUIRE(banen[i]->properlyInitialized(), "Road not properly initialised");
-    }
+    REQUIRE(roadsProperly(banen), "A Road is not properly initialised");
     World::roads = banen;
     ENSURE(World::roads == banen,"Roads hasn't changed");
 }
@@ -284,18 +280,14 @@ void World::addRoad(Road* r) {
 
 std::vector<Junction *> &World::getJunctions() {
     REQUIRE(this->properlyInitialized(), "World wasn't initialized when calling getJunctions");
-    for(unsigned int i=0; i<junctions.size(); i++){
-        ENSURE(junctions[i]->properlyInitialized(), "Junction is not initialised");
-    }
+    ENSURE(junctionsProperly(junctions), "A Junction is not initialised");
     return junctions;
 }
 
 
 void World::setJunctions(const std::vector<Junction *> & junction) {
     REQUIRE(this->properlyInitialized(), "World wasn't initialized when calling setJunctions");
-    for(unsigned int i=0; i<junction.size(); i++) {
-        REQUIRE(junction[i]->properlyInitialized(), "Junction not properly initialised");
-    }
+    REQUIRE(junctionsProperly(junction), "A Junction is not initialised");
     World::junctions = junction;
     ENSURE(World::junctions == junction,"Junctions hasn't changed");
 }
@@ -303,7 +295,7 @@ void World::setJunctions(const std::vector<Junction *> & junction) {
 
 void World::addJunction(std::vector<std::pair<Road* , double> > road) {
     REQUIRE(this->properlyInitialized(), "World wasn't initialized when calling addJuction");
-    ENSURE(isValidToAddJunction(road),"Junction is on a invalid position");
+    REQUIRE(isValidToAddJunction(road),"Junction is on a invalid position");
     Junction* j = new Junction(road, &error);
     junctions.push_back(j);
     ENSURE(junctions[junctions.size()-1] == j, "Junction is not added");
@@ -340,10 +332,8 @@ CarData* World::getCarData(Type type)  {
 }
 
 std::vector<CarData*>* World::getAllData() {
-    REQUIRE(this->properlyInitialized(), "World wasn't initialized when calling getCarData");
-    for(unsigned int i=0; i<carData.size(); i++){
-        ENSURE(carData[i]->properlyInitialized(), "Cardata is not properly initialised");
-    }
+    REQUIRE(this->properlyInitialized(), "World wasn't initialized when calling getAllData");
+    ENSURE(dataProperly(carData), "Cardata is not properly initialised");
     return &carData;
 }
 //////////////
@@ -401,6 +391,39 @@ bool World::isValidSimulation() const {
         }
     }
     return true;
+}
+
+bool World::roadsProperly(std::vector<Road *> r) {
+    bool check = true;
+    for(unsigned int i=0; i<r.size(); i++){
+        if(!r[i]->properlyInitialized()){
+           check = false;
+            break;
+        }
+    }
+    return check;
+}
+
+bool World::junctionsProperly(std::vector<Junction *> j) {
+    bool check = true;
+    for(unsigned int i=0; i<j.size(); i++){
+        if(!j[i]->properlyInitialized()){
+            check = false;
+            break;
+        }
+    }
+    return check;
+}
+
+bool World::dataProperly(std::vector<CarData *> cD) {
+    bool check = true;
+    for(unsigned int i=0; i<cD.size(); i++){
+        if(!cD[i]->properlyInitialized()){
+            check = false;
+            break;
+        }
+    }
+    return check;
 }
 //////////////
 
