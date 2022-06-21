@@ -9,7 +9,7 @@
 #ifndef CAR_SIMULATOR_BASIC_VALUES_H
 #define CAR_SIMULATOR_BASIC_VALUES_H
 #include <fstream>
-#define VERSION 98
+#define VERSION 14
 const double gSimTime = 0.0166;
 const int gBreakDistance = 50;
 const int gStopDistance = 15;

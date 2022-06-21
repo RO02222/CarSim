@@ -99,22 +99,12 @@ void World::graficImpSimulateWorld(std::ostream &onStream) {
         std::string road = std::string(roadlength,'=');
         std::string light = std::string(roadlength,' ');
         std::string bus = std::string(roadlength,' ');
-        std::string junction = std::string(roadlength,' ');
         //////////////////
         const double numWidth = (*itR)->getLength()/roadlength;
         std::vector<Car*> carIt = (*itR)->getCars();
         std::vector<Light*> lightIt = (*itR)->getLights();
         std::vector<BusStop*> busIt = (*itR)->getBusStops();
-        //std::vector<BusStop*> JunIt = (*itR)->getJunctions();
         //////////////////
-        /*for (std::vector<Junction*>::iterator itJ = busIt.begin(); itJ != busIt.end(); itB++) {
-            unsigned int x = floor((*itB)->getPosition()/numWidth);
-            if (x >= roadlength){
-                x = roadlength -1;
-            }
-            bus[x] = 'B';
-            light[x] = '|';
-        }*/
         for (std::vector<BusStop*>::iterator itB = busIt.begin(); itB != busIt.end(); itB++) {
             unsigned int x = floor((*itB)->getPosition()/numWidth);
             if (x >= roadlength){
@@ -172,9 +162,9 @@ void World::graficImpSimulateWorld(std::ostream &onStream) {
 #if VERSION == 14
         std::cout << "\033[2J" << "\033[0;0H";
         //////////////////
-        std::cout << "\033[1;31m" << std::left << std::setw(nameWidth) << std::setfill(separator) << (*itR)->getName();
-        std::cout << "\033[1;35m" << std::left << std::setw(4) << std::setfill(separator) << "|";
-        std::cout << "\033[1;36m" << std::left << std::setw(4) << std::setfill(separator) << road << std::endl;
+        std::cout << std::left << std::setw(nameWidth) << std::setfill(separator) << (*itR)->getName();
+        std::cout << std::left << std::setw(4) << std::setfill(separator) << "|";
+        std::cout << std::left << std::setw(4) << std::setfill(separator) << road << std::endl;
         //////////////////
         std::cout << std::left << std::setw(nameWidth) << std::setfill(separator) <<  "> verkeerslichten";
         std::cout << std::left << std::setw(4) << std::setfill(separator) << "|";
@@ -183,10 +173,6 @@ void World::graficImpSimulateWorld(std::ostream &onStream) {
         std::cout << std::left << std::setw(nameWidth) << std::setfill(separator) <<  "> bushaltes";
         std::cout << std::left << std::setw(4) << std::setfill(separator) << "|";
         std::cout << std::left << std::setw(4) << std::setfill(separator) << bus << std::endl;
-        //////////////////
-        std::cout << std::left << std::setw(nameWidth) << std::setfill(separator) <<  "> kruispunten";
-        std::cout << std::left << std::setw(4) << std::setfill(separator) << "|";
-        std::cout << std::left << std::setw(4) << std::setfill(separator) << junction << std::endl;
         //////////////////
         std::cout << std::endl;
         //////////////////
@@ -363,7 +349,7 @@ bool World::isValidToAddJunction (std::vector<std::pair<Road*,double> >& r) cons
         }
         std::vector<std::pair<Junction*,double*> >junc = itR->first->getJunctions();
         for (std::vector<std::pair<Junction*,double*> >::iterator itJ = junc.begin(); itJ != junc.end(); itJ++ ){
-            if (abs(*itJ->second - (itR->second)) > gBreakDistance) {
+            if (abs(*itJ->second - (itR->second)) > gStopDistance) {
                 return false;
             }
         }
