@@ -1,7 +1,1 @@
-Failed to load file: invalid <KRUISPUNT> : cannot add <KRUISPUNT>
-Failed to load file: invalid <KRUISPUNT> : cannot add <KRUISPUNT>
-Failed to load file: invalid <KRUISPUNT> : cannot add <KRUISPUNT>
-Failed to load file: invalid <KRUISPUNT> : cannot add <KRUISPUNT>
-Failed to load file: invalid <KRUISPUNT> : cannot add <KRUISPUNT>
-Failed to load file: invalid <KRUISPUNT> : cannot add <KRUISPUNT>
-Failed to load file: invalid <KRUISPUNT> : cannot add <KRUISPUNT>
+Failed to load file: invalid <VOERTUIG> : cannot add car to the road

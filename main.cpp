@@ -22,7 +22,7 @@
 #include <thread>
 
 int main() {
-    World* w = input::loadWorldXML("../testInput/testCase5.xml");
+    World* w = input::loadWorldXML("../XML/case1.xml");
     w->isValid();
     std::ofstream myFile;
     std::ofstream myFile2;

@@ -91,10 +91,7 @@ void World::graficImpSimulateWorld(std::ostream &onStream) {
     }
     nameWidth += 3;
     unsigned int roadlength = 110 - nameWidth;
-    //std::cout << "Tijd: " <<time<<std::endl;
-    unsigned  int i = 0;
     for (std::vector<Road*>::iterator itR = roadIt.begin(); itR != roadIt.end(); itR++) {
-        i++;
         //////////////////
         std::string road = std::string(roadlength,'=');
         std::string light = std::string(roadlength,' ');
@@ -160,15 +157,71 @@ void World::graficImpSimulateWorld(std::ostream &onStream) {
         }
 
 #if VERSION == 14
+
         std::cout << "\033[2J" << "\033[0;0H";
         //////////////////
         std::cout << std::left << std::setw(nameWidth) << std::setfill(separator) << (*itR)->getName();
         std::cout << std::left << std::setw(4) << std::setfill(separator) << "|";
-        std::cout << std::left << std::setw(4) << std::setfill(separator) << road << std::endl;
+        for (unsigned int j = 0; j< light.size(); j++){
+            if (road[j] == 'C'){
+                std::cout << "\033[1;32m";
+                std::cout << road[j];
+                std::cout << "\033[1;0m";
+                continue;
+            }
+            if (road[j] == 'B'){
+                std::cout << "\033[1;36m";
+                std::cout << road[j];
+                std::cout << "\033[1;0m";
+                continue;
+            }
+            if (road[j] == 'A'){
+                std::cout << "\033[1;33m";
+                std::cout << road[j];
+                std::cout << "\033[1;0m";
+                continue;
+            }
+            if (road[j] == 'F'){
+                std::cout << "\033[1;31m";
+                std::cout << road[j];
+                std::cout << "\033[1;0m";
+                continue;
+            }
+            if (road[j] == 'b'){
+                std::cout << "\033[1;35m";
+                std::cout << road[j];
+                std::cout << "\033[1;0m";
+                continue;
+            }
+            std::cout << road[j];
+        }
+        std::cout << std::endl;
+
         //////////////////
         std::cout << std::left << std::setw(nameWidth) << std::setfill(separator) <<  "> verkeerslichten";
         std::cout << std::left << std::setw(4) << std::setfill(separator) << "|";
-        std::cout << std::left << std::setw(4) << std::setfill(separator) << light << std::endl;
+        for (unsigned int j = 0; j< light.size(); j++){
+            if (light[j] == 'G'){
+                std::cout << "\033[1;32m";
+                std::cout << light[j];
+                std::cout << "\033[1;0m";
+                continue;
+            }
+            if (light[j] == 'R'){
+                std::cout << "\033[1;31m";
+                std::cout << light[j];
+                std::cout << "\033[1;0m";
+                continue;
+            }
+            if (light[j] == 'O'){
+                std::cout << "\033[1;33m";
+                std::cout << light[j];
+                std::cout << "\033[1;0m";
+                continue;
+            }
+            std::cout << light[j];
+        }
+        std::cout<<std::endl;
         //////////////////
         std::cout << std::left << std::setw(nameWidth) << std::setfill(separator) <<  "> bushaltes";
         std::cout << std::left << std::setw(4) << std::setfill(separator) << "|";

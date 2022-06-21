@@ -54,7 +54,7 @@ void Test_error(const char* inputfile, std::string compareFile){
     World* w = input::loadWorldXML(inputfile);
     delete w;
     if (!FileCompare("../outputFile/error.txt", compareFile)){
-        std::cout<<inputfile<<std::cout;
+        std::cout << inputfile << std::endl;
     }
     EXPECT_TRUE(FileCompare("../outputFile/error.txt", compareFile));
 }
