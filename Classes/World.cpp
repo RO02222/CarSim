@@ -193,6 +193,12 @@ void World::graficImpSimulateWorld(std::ostream &onStream) {
                 std::cout << "\033[1;0m";
                 continue;
             }
+            if (road[j] == 'P'){
+                std::cout << "\033[1;34m";
+                std::cout << road[j];
+                std::cout << "\033[1;0m";
+                continue;
+            }
             std::cout << road[j];
         }
         std::cout << std::endl;

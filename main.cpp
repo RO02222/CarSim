@@ -8,9 +8,9 @@
 
 #include <iostream>
 #include <fstream>
-#include "Classes/World.h"
 #include "Basic_Values.h"
 #include "Input.h"
+#include "Classes/World.h"
 #include "Classes/BusStop.h"
 #include "Classes/Junction.h"
 #include "Classes/CarData.h"
@@ -21,8 +21,12 @@
 #include <chrono>
 #include <thread>
 
-int main() {
-    World* w = input::loadWorldXML("../XML/case1.xml");
+int main(int argc, char **argv) {
+    if (argc == 1){
+        std::cout << "requires inputfile"<<std::endl;
+        return 0;
+    }
+    World* w = input::loadWorldXML(argv[1]);
     w->isValid();
     std::ofstream myFile;
     std::ofstream myFile2;
@@ -46,6 +50,7 @@ int main() {
 #endif
 
 #if VERSION == 98
+/*
 int main() {
     srand(123);
     World *w = input::loadWorldXML("../testInput/testCase8.xml");
@@ -59,8 +64,34 @@ int main() {
     std::ofstream myFile;
     myFile.close();
     delete w;
-}
+}*/
 
+int main(int argc, char **argv) {
+    if (argc == 1){
+        std::cout << "requires inputfile"<<std::endl;
+        return 0;
+    }
+    std::cout<<"loading "<<argv[1]<<std::endl;
+    World* w = input::loadWorldXML(argv[1]);
+    w->isValid();
+    GenerateIni g(w, "sim");
+    std::ofstream myFile;
+    std::ofstream myFile2;
+    myFile.open("../outputFile/Car_sim.txt");
+    myFile2.open("../outputFile/Car_sim2.txt");
+    for (unsigned int i =0; i < 1000; i++) {
+        w->simpleSimulateWorld(myFile);
+        w->graficImpSimulateWorld(myFile2);
+        g.generate();
+        for (unsigned int _ = 0; _ < 10; _ += 1) {
+            w->updateWorld(0.01);
+        }
+    }
+    myFile.close();
+    myFile2.close();
+    delete w;
+    return 0;
+}
 
 
 /*
